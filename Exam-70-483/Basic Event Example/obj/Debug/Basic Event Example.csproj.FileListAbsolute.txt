@@ -4,3 +4,9 @@ C:\Users\zdvih\source\repos\ms-exam\Basic Event Example\bin\Debug\Basic Event Ex
 C:\Users\zdvih\source\repos\ms-exam\Basic Event Example\obj\Debug\Basic Event Example.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\ms-exam\Basic Event Example\obj\Debug\Basic Event Example.exe
 C:\Users\zdvih\source\repos\ms-exam\Basic Event Example\obj\Debug\Basic Event Example.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Basic Event Example\bin\Debug\Basic Event Example.exe.config
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Basic Event Example\bin\Debug\Basic Event Example.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Basic Event Example\bin\Debug\Basic Event Example.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Basic Event Example\obj\Debug\Basic Event Example.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Basic Event Example\obj\Debug\Basic Event Example.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Basic Event Example\obj\Debug\Basic Event Example.pdb

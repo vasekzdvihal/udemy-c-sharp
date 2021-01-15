@@ -4,3 +4,9 @@ C:\Users\zdvih\source\repos\ms-exam\Implementating IEnumerable\bin\Debug\Impleme
 C:\Users\zdvih\source\repos\ms-exam\Implementating IEnumerable\obj\Debug\Implementating IEnumerable.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\ms-exam\Implementating IEnumerable\obj\Debug\Implementating IEnumerable.exe
 C:\Users\zdvih\source\repos\ms-exam\Implementating IEnumerable\obj\Debug\Implementating IEnumerable.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Implementating IEnumerable\bin\Debug\Implementating IEnumerable.exe.config
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Implementating IEnumerable\bin\Debug\Implementating IEnumerable.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Implementating IEnumerable\bin\Debug\Implementating IEnumerable.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Implementating IEnumerable\obj\Debug\Implementating IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Implementating IEnumerable\obj\Debug\Implementating IEnumerable.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Implementating IEnumerable\obj\Debug\Implementating IEnumerable.pdb

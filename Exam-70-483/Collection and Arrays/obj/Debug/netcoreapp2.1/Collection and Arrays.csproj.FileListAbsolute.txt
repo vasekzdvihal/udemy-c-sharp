@@ -10,3 +10,14 @@ C:\Users\zdvih\source\repos\ms-exam\Collection and Arrays\obj\Debug\netcoreapp2.
 C:\Users\zdvih\source\repos\ms-exam\Collection and Arrays\obj\Debug\netcoreapp2.1\Collection and Arrays.dll
 C:\Users\zdvih\source\repos\ms-exam\Collection and Arrays\obj\Debug\netcoreapp2.1\Collection and Arrays.pdb
 C:\Users\zdvih\source\repos\ms-exam\Collection and Arrays\obj\Debug\netcoreapp2.1\Collection and Arrays.genruntimeconfig.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Collection and Arrays\bin\Debug\netcoreapp2.1\Collection and Arrays.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Collection and Arrays\bin\Debug\netcoreapp2.1\Collection and Arrays.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Collection and Arrays\bin\Debug\netcoreapp2.1\Collection and Arrays.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Collection and Arrays\bin\Debug\netcoreapp2.1\Collection and Arrays.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Collection and Arrays\bin\Debug\netcoreapp2.1\Collection and Arrays.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Collection and Arrays\obj\Debug\netcoreapp2.1\Collection and Arrays.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Collection and Arrays\obj\Debug\netcoreapp2.1\Collection and Arrays.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Collection and Arrays\obj\Debug\netcoreapp2.1\Collection and Arrays.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Collection and Arrays\obj\Debug\netcoreapp2.1\Collection and Arrays.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Collection and Arrays\obj\Debug\netcoreapp2.1\Collection and Arrays.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Collection and Arrays\obj\Debug\netcoreapp2.1\Collection and Arrays.genruntimeconfig.cache

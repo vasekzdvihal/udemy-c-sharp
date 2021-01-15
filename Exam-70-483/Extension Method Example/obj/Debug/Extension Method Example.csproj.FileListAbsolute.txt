@@ -4,3 +4,9 @@ C:\Users\zdvih\source\repos\ms-exam\Extension Method Example\bin\Debug\Extension
 C:\Users\zdvih\source\repos\ms-exam\Extension Method Example\obj\Debug\Extension Method Example.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\ms-exam\Extension Method Example\obj\Debug\Extension Method Example.exe
 C:\Users\zdvih\source\repos\ms-exam\Extension Method Example\obj\Debug\Extension Method Example.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Extension Method Example\bin\Debug\Extension Method Example.exe.config
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Extension Method Example\bin\Debug\Extension Method Example.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Extension Method Example\bin\Debug\Extension Method Example.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Extension Method Example\obj\Debug\Extension Method Example.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Extension Method Example\obj\Debug\Extension Method Example.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Extension Method Example\obj\Debug\Extension Method Example.pdb

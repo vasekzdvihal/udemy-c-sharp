@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\zdvih\\source\\repos\\ms-exam\\StringWriter And StringReader\\StringWriter And StringReader.csproj",
+      "projectUniqueName": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\StringWriter And StringReader\\StringWriter And StringReader.csproj",
       "projectName": "StringWriter And StringReader",
-      "projectPath": "c:\\Users\\zdvih\\source\\repos\\ms-exam\\StringWriter And StringReader\\StringWriter And StringReader.csproj",
+      "projectPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\StringWriter And StringReader\\StringWriter And StringReader.csproj",
       "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\zdvih\\source\\repos\\ms-exam\\StringWriter And StringReader\\obj\\",
+      "outputPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\StringWriter And StringReader\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zdvih\\AppData\\Roaming\\NuGet\\NuGet.Config",

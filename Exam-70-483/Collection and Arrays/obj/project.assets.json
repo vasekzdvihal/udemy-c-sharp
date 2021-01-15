@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\zdvih\\source\\repos\\ms-exam\\Collection and Arrays\\Collection and Arrays.csproj",
+      "projectUniqueName": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Collection and Arrays\\Collection and Arrays.csproj",
       "projectName": "Collection and Arrays",
-      "projectPath": "c:\\Users\\zdvih\\source\\repos\\ms-exam\\Collection and Arrays\\Collection and Arrays.csproj",
+      "projectPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Collection and Arrays\\Collection and Arrays.csproj",
       "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\zdvih\\source\\repos\\ms-exam\\Collection and Arrays\\obj\\",
+      "outputPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Collection and Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zdvih\\AppData\\Roaming\\NuGet\\NuGet.Config",

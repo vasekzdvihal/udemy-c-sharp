@@ -4,3 +4,9 @@ C:\Users\zdvih\source\repos\ms-exam\Generics Example\bin\Debug\Generics Example.
 C:\Users\zdvih\source\repos\ms-exam\Generics Example\obj\Debug\Generics Example.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\ms-exam\Generics Example\obj\Debug\Generics Example.exe
 C:\Users\zdvih\source\repos\ms-exam\Generics Example\obj\Debug\Generics Example.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Generics Example\bin\Debug\Generics Example.exe.config
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Generics Example\bin\Debug\Generics Example.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Generics Example\bin\Debug\Generics Example.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Generics Example\obj\Debug\Generics Example.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Generics Example\obj\Debug\Generics Example.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Generics Example\obj\Debug\Generics Example.pdb

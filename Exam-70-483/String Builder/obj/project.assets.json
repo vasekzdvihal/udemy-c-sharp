@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\zdvih\\source\\repos\\ms-exam\\String Builder\\String Builder.csproj",
+      "projectUniqueName": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\String Builder\\String Builder.csproj",
       "projectName": "String Builder",
-      "projectPath": "c:\\Users\\zdvih\\source\\repos\\ms-exam\\String Builder\\String Builder.csproj",
+      "projectPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\String Builder\\String Builder.csproj",
       "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\zdvih\\source\\repos\\ms-exam\\String Builder\\obj\\",
+      "outputPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\String Builder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zdvih\\AppData\\Roaming\\NuGet\\NuGet.Config",

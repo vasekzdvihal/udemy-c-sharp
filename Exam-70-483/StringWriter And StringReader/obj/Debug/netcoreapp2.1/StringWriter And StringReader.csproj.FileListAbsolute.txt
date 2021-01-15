@@ -9,3 +9,14 @@ C:\Users\zdvih\source\repos\ms-exam\StringWriter And StringReader\obj\Debug\netc
 C:\Users\zdvih\source\repos\ms-exam\StringWriter And StringReader\obj\Debug\netcoreapp2.1\StringWriter And StringReader.dll
 C:\Users\zdvih\source\repos\ms-exam\StringWriter And StringReader\obj\Debug\netcoreapp2.1\StringWriter And StringReader.pdb
 C:\Users\zdvih\source\repos\ms-exam\StringWriter And StringReader\obj\Debug\netcoreapp2.1\StringWriter And StringReader.genruntimeconfig.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\StringWriter And StringReader\bin\Debug\netcoreapp2.1\StringWriter And StringReader.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\StringWriter And StringReader\bin\Debug\netcoreapp2.1\StringWriter And StringReader.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\StringWriter And StringReader\bin\Debug\netcoreapp2.1\StringWriter And StringReader.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\StringWriter And StringReader\bin\Debug\netcoreapp2.1\StringWriter And StringReader.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\StringWriter And StringReader\bin\Debug\netcoreapp2.1\StringWriter And StringReader.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\StringWriter And StringReader\obj\Debug\netcoreapp2.1\StringWriter And StringReader.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\StringWriter And StringReader\obj\Debug\netcoreapp2.1\StringWriter And StringReader.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\StringWriter And StringReader\obj\Debug\netcoreapp2.1\StringWriter And StringReader.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\StringWriter And StringReader\obj\Debug\netcoreapp2.1\StringWriter And StringReader.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\StringWriter And StringReader\obj\Debug\netcoreapp2.1\StringWriter And StringReader.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\StringWriter And StringReader\obj\Debug\netcoreapp2.1\StringWriter And StringReader.genruntimeconfig.cache

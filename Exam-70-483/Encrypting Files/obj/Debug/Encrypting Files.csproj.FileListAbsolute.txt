@@ -4,3 +4,10 @@ C:\Users\zdvih\source\repos\ms-exam\Encrypting Files\bin\Debug\Encrypting Files.
 C:\Users\zdvih\source\repos\ms-exam\Encrypting Files\obj\Debug\Encrypting Files.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\ms-exam\Encrypting Files\obj\Debug\Encrypting Files.exe
 C:\Users\zdvih\source\repos\ms-exam\Encrypting Files\obj\Debug\Encrypting Files.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Encrypting Files\bin\Debug\Encrypting Files.exe.config
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Encrypting Files\bin\Debug\Encrypting Files.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Encrypting Files\bin\Debug\Encrypting Files.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Encrypting Files\obj\Debug\Encrypting Files.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Encrypting Files\obj\Debug\Encrypting Files.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Encrypting Files\obj\Debug\Encrypting Files.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Encrypting Files\obj\Debug\Encrypting Files.csprojAssemblyReference.cache

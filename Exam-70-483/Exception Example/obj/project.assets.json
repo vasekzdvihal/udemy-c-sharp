@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\zdvih\\source\\repos\\ms-exam\\Exception Example\\Exception Example.csproj",
+      "projectUniqueName": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj",
       "projectName": "Exception Example",
-      "projectPath": "c:\\Users\\zdvih\\source\\repos\\ms-exam\\Exception Example\\Exception Example.csproj",
+      "projectPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj",
       "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\zdvih\\source\\repos\\ms-exam\\Exception Example\\obj\\",
+      "outputPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Exception Example\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zdvih\\AppData\\Roaming\\NuGet\\NuGet.Config",

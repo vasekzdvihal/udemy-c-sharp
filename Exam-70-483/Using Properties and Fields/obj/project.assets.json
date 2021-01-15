@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\zdvih\\source\\repos\\ms-exam\\Using Properties and Fields\\Using Properties and Fields.csproj",
+      "projectUniqueName": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Using Properties and Fields\\Using Properties and Fields.csproj",
       "projectName": "Using Properties and Fields",
-      "projectPath": "c:\\Users\\zdvih\\source\\repos\\ms-exam\\Using Properties and Fields\\Using Properties and Fields.csproj",
+      "projectPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Using Properties and Fields\\Using Properties and Fields.csproj",
       "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\zdvih\\source\\repos\\ms-exam\\Using Properties and Fields\\obj\\",
+      "outputPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Using Properties and Fields\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zdvih\\AppData\\Roaming\\NuGet\\NuGet.Config",

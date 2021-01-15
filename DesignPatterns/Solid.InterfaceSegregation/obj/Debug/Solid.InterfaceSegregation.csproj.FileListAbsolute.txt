@@ -1,0 +1,6 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.InterfaceSegregation\obj\Debug\Solid.InterfaceSegregation.csproj.CoreCompileInputs.cache
+c:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.InterfaceSegregation\bin\Debug\Solid.InterfaceSegregation.exe.config
+c:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.InterfaceSegregation\bin\Debug\Solid.InterfaceSegregation.exe
+c:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.InterfaceSegregation\bin\Debug\Solid.InterfaceSegregation.pdb
+c:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.InterfaceSegregation\obj\Debug\Solid.InterfaceSegregation.exe
+c:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.InterfaceSegregation\obj\Debug\Solid.InterfaceSegregation.pdb

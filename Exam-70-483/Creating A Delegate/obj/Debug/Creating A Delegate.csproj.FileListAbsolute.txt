@@ -4,3 +4,9 @@ C:\Users\zdvih\source\repos\ms-exam\Creating A Delegate\bin\Debug\Creating A Del
 C:\Users\zdvih\source\repos\ms-exam\Creating A Delegate\obj\Debug\Creating A Delegate.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\ms-exam\Creating A Delegate\obj\Debug\Creating A Delegate.exe
 C:\Users\zdvih\source\repos\ms-exam\Creating A Delegate\obj\Debug\Creating A Delegate.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Creating A Delegate\bin\Debug\Creating A Delegate.exe.config
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Creating A Delegate\bin\Debug\Creating A Delegate.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Creating A Delegate\bin\Debug\Creating A Delegate.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Creating A Delegate\obj\Debug\Creating A Delegate.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Creating A Delegate\obj\Debug\Creating A Delegate.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Creating A Delegate\obj\Debug\Creating A Delegate.pdb
