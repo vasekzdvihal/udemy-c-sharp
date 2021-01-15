@@ -1,0 +1,615 @@
+D:\repos\MVC Course\Vidly\Vidly\bin\Vidly.dll.config
+D:\repos\MVC Course\Vidly\Vidly\bin\Vidly.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\Vidly.pdb
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\csc.exe
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\csc.exe.config
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\csc.rsp
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\csi.exe
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\csi.exe.config
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\csi.rsp
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.AppContext.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.Console.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.IO.Compression.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.IO.Pipes.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.Security.AccessControl.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.Security.Claims.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.Security.Principal.Windows.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.ValueTuple.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.Xml.XPath.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\vbc.exe
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\vbc.exe.config
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\vbc.rsp
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+D:\repos\MVC Course\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+D:\repos\MVC Course\Vidly\Vidly\bin\Antlr3.Runtime.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\Newtonsoft.Json.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Web.Helpers.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Web.Mvc.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Web.Optimization.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Web.Razor.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Web.WebPages.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\WebGrease.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Web.Helpers.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Web.Mvc.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Web.Optimization.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Web.Razor.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Web.WebPages.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\Newtonsoft.Json.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\repos\MVC Course\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+D:\repos\MVC Course\Vidly\Vidly\obj\Debug\Vidly.dll
+D:\repos\MVC Course\Vidly\Vidly\obj\Debug\Vidly.pdb
+D:\repos\MVC Course\Vidly\Vidly\bin\EntityFramework.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\EntityFramework.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Extensions.Configuration.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Extensions.Logging.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Extensions.Options.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Extensions.Primitives.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Buffers.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\System.ComponentModel.Annotations.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Memory.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Numerics.Vectors.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Threading.Tasks.Extensions.dll
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Extensions.Configuration.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Extensions.Logging.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Extensions.Options.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\Microsoft.Extensions.Primitives.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Buffers.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Memory.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Numerics.Vectors.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\repos\MVC Course\Vidly\Vidly\bin\System.Threading.Tasks.Extensions.xml
+D:\repos\MVC Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+D:\repos\MVC Course\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+D:\repos\MVC Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+D:\repos\MVC Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+D:\repos\MVC Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+D:\repos\MVC Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+D:\repos\MVC Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddingNameToMembershipType.resources
+D:\repos\MVC Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes1.resources
+D:\repos\MVC Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddingBirthdateToCustomers.resources
+D:\repos\MVC Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.LastChanges.resources
+D:\repos\MVC Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovieAndGenre.resources
+D:\repos\MVC Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGanres.resources
+D:\repos\MVC Course\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Vidly.dll.config
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Vidly.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Vidly.pdb
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\csc.exe
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\csc.exe.config
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\csc.rsp
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\csi.exe
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\csi.exe.config
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\csi.rsp
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.AppContext.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Console.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.IO.Compression.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.IO.Pipes.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Security.AccessControl.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Security.Claims.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Security.Principal.Windows.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.ValueTuple.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Xml.XPath.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\vbc.exe
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\vbc.exe.config
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\vbc.rsp
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Antlr3.Runtime.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\EntityFramework.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Configuration.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Logging.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Options.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Primitives.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Newtonsoft.Json.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Buffers.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.ComponentModel.Annotations.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Memory.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Numerics.Vectors.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Threading.Tasks.Extensions.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Web.Helpers.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Web.Mvc.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Web.Optimization.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Web.Razor.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Web.WebPages.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\WebGrease.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\EntityFramework.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Configuration.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Logging.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Options.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Primitives.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Buffers.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Memory.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Numerics.Vectors.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Threading.Tasks.Extensions.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Web.Helpers.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Web.Mvc.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Web.Optimization.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Web.Razor.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Web.WebPages.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Newtonsoft.Json.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddingNameToMembershipType.resources
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes1.resources
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddingBirthdateToCustomers.resources
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.LastChanges.resources
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovieAndGenre.resources
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGanres.resources
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.pdb
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Web.Http.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Web.Http.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\AutoMapper.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\AutoMapper.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Owin.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+D:\repos\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToUser.resources
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Glimpse.Ado.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Glimpse.AspNet.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Glimpse.Core.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Glimpse.EF6.dll
+D:\repos\Udemy-MVC\Vidly\Vidly\bin\Glimpse.Mvc5.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Vidly.dll.config
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Vidly.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Vidly.pdb
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\csc.exe
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\csc.exe.config
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\csc.rsp
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\csi.exe
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\csi.exe.config
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\csi.rsp
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.AppContext.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Console.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.IO.Compression.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.IO.Pipes.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Security.Claims.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.ValueTuple.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\vbc.exe
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\vbc.exe.config
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\vbc.rsp
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\AutoMapper.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\EntityFramework.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Glimpse.Ado.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Glimpse.AspNet.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Glimpse.Core.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Glimpse.EF6.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Glimpse.Mvc5.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Logging.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Options.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Owin.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Buffers.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.ComponentModel.Annotations.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Memory.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Numerics.Vectors.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Web.Helpers.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Web.Http.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Web.Mvc.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Web.Optimization.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Web.Razor.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Web.WebPages.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\WebGrease.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\AutoMapper.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\EntityFramework.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Logging.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Options.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Buffers.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Memory.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Numerics.Vectors.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Web.Http.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Web.Helpers.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Web.Mvc.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Web.Optimization.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Web.Razor.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Web.WebPages.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddingNameToMembershipType.resources
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes1.resources
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddingBirthdateToCustomers.resources
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.LastChanges.resources
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovieAndGenre.resources
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGanres.resources
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToUser.resources
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.dll
+C:\Users\zdvih\source\repos\mvc\Udemy-MVC\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Vidly.dll.config
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Vidly.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Vidly.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\csc.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\csc.exe.config
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\csc.rsp
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\csi.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\csi.exe.config
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\csi.rsp
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.AppContext.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.Console.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.IO.Compression.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.IO.Pipes.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.Security.Claims.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.ValueTuple.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\vbc.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\vbc.exe.config
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\vbc.rsp
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\AutoMapper.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\EntityFramework.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Glimpse.Ado.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Glimpse.AspNet.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Glimpse.Core.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Glimpse.EF6.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Glimpse.Mvc5.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Extensions.Logging.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Extensions.Options.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Owin.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Owin.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Buffers.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.ComponentModel.Annotations.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Memory.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Numerics.Vectors.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Web.Helpers.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Web.Http.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Web.Mvc.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Web.Optimization.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Web.Razor.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Web.WebPages.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\WebGrease.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\AutoMapper.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\EntityFramework.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Extensions.Logging.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Extensions.Options.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Owin.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Buffers.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Memory.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Numerics.Vectors.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Web.Http.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Web.Helpers.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Web.Mvc.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Web.Optimization.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Web.Razor.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Web.WebPages.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.Migrations.AddingNameToMembershipType.resources
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes1.resources
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.Migrations.AddingBirthdateToCustomers.resources
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.Migrations.LastChanges.resources
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.Migrations.AddMovieAndGenre.resources
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.Migrations.PopulateGanres.resources
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToUser.resources
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.pdb

@@ -1,0 +1,6 @@
+C:\Users\zdvih\source\repos\ms-exam\Static Example\bin\Debug\Static Example.exe.config
+C:\Users\zdvih\source\repos\ms-exam\Static Example\bin\Debug\Static Example.exe
+C:\Users\zdvih\source\repos\ms-exam\Static Example\bin\Debug\Static Example.pdb
+C:\Users\zdvih\source\repos\ms-exam\Static Example\obj\Debug\Static Example.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\ms-exam\Static Example\obj\Debug\Static Example.exe
+C:\Users\zdvih\source\repos\ms-exam\Static Example\obj\Debug\Static Example.pdb

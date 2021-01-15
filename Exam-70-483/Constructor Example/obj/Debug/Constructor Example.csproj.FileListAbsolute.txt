@@ -1,0 +1,6 @@
+C:\Users\zdvih\source\repos\ms-exam\Constructor Example\bin\Debug\Constructor Example.exe.config
+C:\Users\zdvih\source\repos\ms-exam\Constructor Example\bin\Debug\Constructor Example.exe
+C:\Users\zdvih\source\repos\ms-exam\Constructor Example\bin\Debug\Constructor Example.pdb
+C:\Users\zdvih\source\repos\ms-exam\Constructor Example\obj\Debug\Constructor Example.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\ms-exam\Constructor Example\obj\Debug\Constructor Example.exe
+C:\Users\zdvih\source\repos\ms-exam\Constructor Example\obj\Debug\Constructor Example.pdb

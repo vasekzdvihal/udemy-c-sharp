@@ -1,0 +1,6 @@
+C:\Users\zdvih\source\repos\ms-exam\Override Example\bin\Debug\Override Example.exe.config
+C:\Users\zdvih\source\repos\ms-exam\Override Example\bin\Debug\Override Example.exe
+C:\Users\zdvih\source\repos\ms-exam\Override Example\bin\Debug\Override Example.pdb
+C:\Users\zdvih\source\repos\ms-exam\Override Example\obj\Debug\Override Example.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\ms-exam\Override Example\obj\Debug\Override Example.exe
+C:\Users\zdvih\source\repos\ms-exam\Override Example\obj\Debug\Override Example.pdb

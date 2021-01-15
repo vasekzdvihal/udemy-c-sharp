@@ -1,0 +1,6 @@
+C:\Users\zdvih\source\repos\ms-exam\Overloading Example\bin\Debug\Overloading Example.exe.config
+C:\Users\zdvih\source\repos\ms-exam\Overloading Example\bin\Debug\Overloading Example.exe
+C:\Users\zdvih\source\repos\ms-exam\Overloading Example\bin\Debug\Overloading Example.pdb
+C:\Users\zdvih\source\repos\ms-exam\Overloading Example\obj\Debug\Overloading Example.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\ms-exam\Overloading Example\obj\Debug\Overloading Example.exe
+C:\Users\zdvih\source\repos\ms-exam\Overloading Example\obj\Debug\Overloading Example.pdb

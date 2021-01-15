@@ -1,0 +1,6 @@
+C:\Users\zdvih\source\repos\ms-exam\ThreadPool\bin\Debug\ThreadPool.exe.config
+C:\Users\zdvih\source\repos\ms-exam\ThreadPool\bin\Debug\ThreadPool.exe
+C:\Users\zdvih\source\repos\ms-exam\ThreadPool\bin\Debug\ThreadPool.pdb
+C:\Users\zdvih\source\repos\ms-exam\ThreadPool\obj\Debug\ThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\ms-exam\ThreadPool\obj\Debug\ThreadPool.exe
+C:\Users\zdvih\source\repos\ms-exam\ThreadPool\obj\Debug\ThreadPool.pdb

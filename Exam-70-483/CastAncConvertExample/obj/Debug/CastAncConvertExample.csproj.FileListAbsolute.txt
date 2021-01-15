@@ -1,0 +1,6 @@
+C:\Users\zdvih\source\repos\ms-exam\CastAncConvertExample\bin\Debug\CastAncConvertExample.exe.config
+C:\Users\zdvih\source\repos\ms-exam\CastAncConvertExample\bin\Debug\CastAncConvertExample.exe
+C:\Users\zdvih\source\repos\ms-exam\CastAncConvertExample\bin\Debug\CastAncConvertExample.pdb
+C:\Users\zdvih\source\repos\ms-exam\CastAncConvertExample\obj\Debug\CastAncConvertExample.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\ms-exam\CastAncConvertExample\obj\Debug\CastAncConvertExample.exe
+C:\Users\zdvih\source\repos\ms-exam\CastAncConvertExample\obj\Debug\CastAncConvertExample.pdb

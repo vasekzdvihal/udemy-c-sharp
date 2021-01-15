@@ -1,0 +1,6 @@
+C:\Users\zdvih\source\repos\ms-exam\AwaitAndAsync\bin\Debug\AwaitAndAsync.exe.config
+C:\Users\zdvih\source\repos\ms-exam\AwaitAndAsync\bin\Debug\AwaitAndAsync.exe
+C:\Users\zdvih\source\repos\ms-exam\AwaitAndAsync\bin\Debug\AwaitAndAsync.pdb
+C:\Users\zdvih\source\repos\ms-exam\AwaitAndAsync\obj\Debug\AwaitAndAsync.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\ms-exam\AwaitAndAsync\obj\Debug\AwaitAndAsync.exe
+C:\Users\zdvih\source\repos\ms-exam\AwaitAndAsync\obj\Debug\AwaitAndAsync.pdb

@@ -1,0 +1,6 @@
+C:\Users\zdvih\source\repos\ms-exam\Implementing IDisposable\obj\Debug\Implementing IDisposable.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\ms-exam\Implementing IDisposable\bin\Debug\Implementing IDisposable.exe.config
+C:\Users\zdvih\source\repos\ms-exam\Implementing IDisposable\bin\Debug\Implementing IDisposable.exe
+C:\Users\zdvih\source\repos\ms-exam\Implementing IDisposable\bin\Debug\Implementing IDisposable.pdb
+C:\Users\zdvih\source\repos\ms-exam\Implementing IDisposable\obj\Debug\Implementing IDisposable.exe
+C:\Users\zdvih\source\repos\ms-exam\Implementing IDisposable\obj\Debug\Implementing IDisposable.pdb

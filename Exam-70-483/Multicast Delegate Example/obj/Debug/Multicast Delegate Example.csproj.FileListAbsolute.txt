@@ -1,0 +1,6 @@
+C:\Users\zdvih\source\repos\ms-exam\Multicast Delegate Example\bin\Debug\Multicast Delegate Example.exe.config
+C:\Users\zdvih\source\repos\ms-exam\Multicast Delegate Example\bin\Debug\Multicast Delegate Example.exe
+C:\Users\zdvih\source\repos\ms-exam\Multicast Delegate Example\bin\Debug\Multicast Delegate Example.pdb
+C:\Users\zdvih\source\repos\ms-exam\Multicast Delegate Example\obj\Debug\Multicast Delegate Example.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\ms-exam\Multicast Delegate Example\obj\Debug\Multicast Delegate Example.exe
+C:\Users\zdvih\source\repos\ms-exam\Multicast Delegate Example\obj\Debug\Multicast Delegate Example.pdb

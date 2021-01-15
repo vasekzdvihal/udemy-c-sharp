@@ -1,0 +1,35 @@
+﻿@model Vidly.ViewModel.BasicMovieViewModel
+@{
+    ViewBag.Title = "Basic Movie";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*
+    This is a comment
+    On multiple lines
+*@
+
+<h2>Movies</h2>
+
+@if (Model.Movies.Count == 0)
+{
+    <text>No one has rented this movie before.</text>
+}
+else
+{
+<table style="width: 100%">
+    <tr><th style="font-weight: bold">Movie</th></tr>
+
+    @foreach (var movies in Model.Movies)
+        {
+            <tr>
+                <td>
+                    @movies.Name
+                </td>
+            </tr>
+        }
+</table>
+}
+
+
+
