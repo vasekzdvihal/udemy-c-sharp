@@ -1,0 +1,7 @@
+C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder.RecursiveGenerics\bin\Debug\Builder.RecursiveGenerics.exe.config
+C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder.RecursiveGenerics\bin\Debug\Builder.RecursiveGenerics.exe
+C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder.RecursiveGenerics\bin\Debug\Builder.RecursiveGenerics.pdb
+C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder.RecursiveGenerics\obj\Debug\Builder.RecursiveGenerics.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder.RecursiveGenerics\obj\Debug\Builder.RecursiveGenerics.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder.RecursiveGenerics\obj\Debug\Builder.RecursiveGenerics.exe
+C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder.RecursiveGenerics\obj\Debug\Builder.RecursiveGenerics.pdb
