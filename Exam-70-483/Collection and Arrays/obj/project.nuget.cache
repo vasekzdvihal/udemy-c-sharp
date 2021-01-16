@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zliVRIzzoPuYuxISLvXhUwqS0c/RGdeisutopVzibXb8mhDU0qGZQfM3iwvf4v3kYVH5j1MgpC+3J9qmOp3b3w==",
+  "dgSpecHash": "XB2v0QI/WaegH5yntslu/D8ztlUPHyC4PT0AjUa8qspfLHKWOcDP/Uxo/kqGaQg0TYiLx/bjB3PWa+46S+1TTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Collection and Arrays\\Collection and Arrays.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Collection and Arrays\\Collection and Arrays.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

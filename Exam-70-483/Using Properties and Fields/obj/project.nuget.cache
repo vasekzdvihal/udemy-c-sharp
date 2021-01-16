@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5yrTdWxhdMPfdyloe5H5/d42CAXSoQNZ1en6X22URYL0ItxUR9KGMidCxnJFluR5KNLs/cOKbKTh+ChtjR7Ptg==",
+  "dgSpecHash": "Mvejmx6ak6Wuo/Vi9d4hI3FKXtuzjYQYgfrl42aDPiH7toWgEKx6cRXL8XEJoaq5EKNzGtOllxeuFDgiuup0Kg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Using Properties and Fields\\Using Properties and Fields.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Using Properties and Fields\\Using Properties and Fields.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",

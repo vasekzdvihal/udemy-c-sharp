@@ -1,0 +1,13 @@
+C:\Projects\DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.exe.config
+C:\Projects\DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.exe
+C:\Projects\DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.pdb
+C:\Projects\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.csprojResolveAssemblyReference.cache
+C:\Projects\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.exe
+C:\Projects\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.exe.config
+C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.pdb

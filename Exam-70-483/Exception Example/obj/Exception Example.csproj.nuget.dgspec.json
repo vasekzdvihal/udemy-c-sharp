@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj": {}
+    "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj": {
+    "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj",
+        "projectUniqueName": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj",
         "projectName": "Exception Example",
-        "projectPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj",
+        "projectPath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj",
         "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Exception Example\\obj\\",
+        "outputPath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Exception Example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zdvih\\AppData\\Roaming\\NuGet\\NuGet.Config",
