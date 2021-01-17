@@ -1,0 +1,7 @@
+C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder.Functional\bin\Debug\Builder.Functional.exe.config
+C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder.Functional\bin\Debug\Builder.Functional.exe
+C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder.Functional\bin\Debug\Builder.Functional.pdb
+C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder.Functional\obj\Debug\Builder.Functional.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder.Functional\obj\Debug\Builder.Functional.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder.Functional\obj\Debug\Builder.Functional.exe
+C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder.Functional\obj\Debug\Builder.Functional.pdb

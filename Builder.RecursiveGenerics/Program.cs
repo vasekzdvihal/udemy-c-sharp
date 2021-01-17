@@ -36,23 +36,23 @@ namespace Builder.RecursiveGenerics
     }
 
 
-    public class PersonInfoBuilder<SELF> : PersonBuilder where SELF : PersonInfoBuilder<SELF>
+    public class PersonInfoBuilder<TSelf> : PersonBuilder where TSelf : PersonInfoBuilder<TSelf>
     {
         protected Person person = new Person();
 
-        public SELF Called(string name)
+        public TSelf Called(string name)
         {
             person.Name = name;
-            return (SELF)this;
+            return (TSelf)this;
         }
     }
 
-    public class PersonJobBuilder<SELF> : PersonInfoBuilder<PersonJobBuilder<SELF>> where SELF : PersonJobBuilder<SELF>
+    public class PersonJobBuilder<TSelf> : PersonInfoBuilder<PersonJobBuilder<TSelf>> where TSelf : PersonJobBuilder<TSelf>
     {
-        public SELF WorkAsA(string position)
+        public TSelf WorkAsA(string position)
         {
             person.Position = position;
-            return (SELF)this;
+            return (TSelf)this;
         }
     }
 
