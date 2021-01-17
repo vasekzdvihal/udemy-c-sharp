@@ -115,6 +115,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.RecursiveGenerics",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.Faceted", "Builder.Faceted\Builder.Faceted.csproj", "{ADFEC83F-D83E-4D9A-89CD-FA15557C8AAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.Exercise", "Builder.Exercise\Builder.Exercise.csproj", "{42C259FF-1A88-4DFA-B74B-F7FB85E1D530}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -325,6 +327,10 @@ Global
 		{ADFEC83F-D83E-4D9A-89CD-FA15557C8AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADFEC83F-D83E-4D9A-89CD-FA15557C8AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADFEC83F-D83E-4D9A-89CD-FA15557C8AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C259FF-1A88-4DFA-B74B-F7FB85E1D530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C259FF-1A88-4DFA-B74B-F7FB85E1D530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C259FF-1A88-4DFA-B74B-F7FB85E1D530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C259FF-1A88-4DFA-B74B-F7FB85E1D530}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -381,6 +387,7 @@ Global
 		{03A0C814-E778-4FA9-A551-2359787918C3} = {A9519945-259D-461B-8479-6646D9C14044}
 		{06A6D248-9052-4D28-BB22-592521B42A24} = {A9519945-259D-461B-8479-6646D9C14044}
 		{ADFEC83F-D83E-4D9A-89CD-FA15557C8AAF} = {A9519945-259D-461B-8479-6646D9C14044}
+		{42C259FF-1A88-4DFA-B74B-F7FB85E1D530} = {A9519945-259D-461B-8479-6646D9C14044}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBBEABDB-C638-4F3C-91AD-24FC0CF6A3C2}
