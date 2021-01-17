@@ -17,7 +17,6 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\BoxingAndUnboxing\bin\Debu
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\BoxingAndUnboxing\bin\Debug\netcoreapp3.0\BoxingAndUnboxing.runtimeconfig.dev.json
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\BoxingAndUnboxing\bin\Debug\netcoreapp3.0\BoxingAndUnboxing.dll
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\BoxingAndUnboxing\bin\Debug\netcoreapp3.0\BoxingAndUnboxing.pdb
-C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\BoxingAndUnboxing\obj\Debug\netcoreapp3.0\BoxingAndUnboxing.csprojAssemblyReference.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\BoxingAndUnboxing\obj\Debug\netcoreapp3.0\BoxingAndUnboxing.AssemblyInfoInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\BoxingAndUnboxing\obj\Debug\netcoreapp3.0\BoxingAndUnboxing.AssemblyInfo.cs
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\BoxingAndUnboxing\obj\Debug\netcoreapp3.0\BoxingAndUnboxing.csproj.CoreCompileInputs.cache

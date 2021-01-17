@@ -105,13 +105,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanCode.UnitTests", "Clea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstExistingDb", "CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\CodeFirstExistingDb.csproj", "{3F93FE95-68ED-4BF7-BF8A-9010BD78060B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{4D6C94C9-2C26-43D5-91D8-795AE7B0E0B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "DesignPatterns\Builder\Builder.csproj", "{4D6C94C9-2C26-43D5-91D8-795AE7B0E0B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.Fluent", "Builder.Fluent\Builder.Fluent.csproj", "{4FFC08F2-5C73-4C8F-A778-C1774F0C3A17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.Fluent", "DesignPatterns\Builder.Fluent\Builder.Fluent.csproj", "{4FFC08F2-5C73-4C8F-A778-C1774F0C3A17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.RecursiveGenerics", "Builder.RecursiveGenerics\Builder.RecursiveGenerics.csproj", "{06A6D248-9052-4D28-BB22-592521B42A24}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.Functional", "DesignPatterns\Builder.Functional\Builder.Functional.csproj", "{03A0C814-E778-4FA9-A551-2359787918C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.Functional", "Builder.Functional\Builder.Functional.csproj", "{03A0C814-E778-4FA9-A551-2359787918C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.RecursiveGenerics", "DesignPatterns\Builder.RecursiveGenerics\Builder.RecursiveGenerics.csproj", "{06A6D248-9052-4D28-BB22-592521B42A24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -311,14 +311,14 @@ Global
 		{4FFC08F2-5C73-4C8F-A778-C1774F0C3A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FFC08F2-5C73-4C8F-A778-C1774F0C3A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FFC08F2-5C73-4C8F-A778-C1774F0C3A17}.Release|Any CPU.Build.0 = Release|Any CPU
-		{06A6D248-9052-4D28-BB22-592521B42A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{06A6D248-9052-4D28-BB22-592521B42A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{06A6D248-9052-4D28-BB22-592521B42A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{06A6D248-9052-4D28-BB22-592521B42A24}.Release|Any CPU.Build.0 = Release|Any CPU
 		{03A0C814-E778-4FA9-A551-2359787918C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{03A0C814-E778-4FA9-A551-2359787918C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03A0C814-E778-4FA9-A551-2359787918C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03A0C814-E778-4FA9-A551-2359787918C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06A6D248-9052-4D28-BB22-592521B42A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A6D248-9052-4D28-BB22-592521B42A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A6D248-9052-4D28-BB22-592521B42A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A6D248-9052-4D28-BB22-592521B42A24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -372,8 +372,8 @@ Global
 		{3F93FE95-68ED-4BF7-BF8A-9010BD78060B} = {63FACEC3-4501-4A69-AA5D-723649063C87}
 		{4D6C94C9-2C26-43D5-91D8-795AE7B0E0B6} = {A9519945-259D-461B-8479-6646D9C14044}
 		{4FFC08F2-5C73-4C8F-A778-C1774F0C3A17} = {A9519945-259D-461B-8479-6646D9C14044}
-		{06A6D248-9052-4D28-BB22-592521B42A24} = {A9519945-259D-461B-8479-6646D9C14044}
 		{03A0C814-E778-4FA9-A551-2359787918C3} = {A9519945-259D-461B-8479-6646D9C14044}
+		{06A6D248-9052-4D28-BB22-592521B42A24} = {A9519945-259D-461B-8479-6646D9C14044}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBBEABDB-C638-4F3C-91AD-24FC0CF6A3C2}

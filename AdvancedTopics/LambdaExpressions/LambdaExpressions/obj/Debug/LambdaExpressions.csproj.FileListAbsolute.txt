@@ -7,7 +7,7 @@ C:\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
-C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csprojAssemblyReference.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb
+C:\Users\zdvih\source\repos\Udemy-C-Sharp\AdvancedTopics\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csprojAssemblyReference.cache

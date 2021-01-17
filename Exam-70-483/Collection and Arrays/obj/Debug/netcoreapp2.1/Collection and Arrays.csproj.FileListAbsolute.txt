@@ -21,3 +21,4 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Collection and Arrays\obj\
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Collection and Arrays\obj\Debug\netcoreapp2.1\Collection and Arrays.dll
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Collection and Arrays\obj\Debug\netcoreapp2.1\Collection and Arrays.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Collection and Arrays\obj\Debug\netcoreapp2.1\Collection and Arrays.genruntimeconfig.cache
+C:\Users\zdvih\source\repos\Udemy-C-Sharp\Exam-70-483\Collection and Arrays\obj\Debug\netcoreapp2.1\Collection and Arrays.csprojAssemblyReference.cache

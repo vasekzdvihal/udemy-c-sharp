@@ -5,7 +5,6 @@ C:\Projects\CleanCode\CleanCode\obj\Debug\CleanCode.dll
 C:\Projects\CleanCode\CleanCode\obj\Debug\CleanCode.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CleanCode\bin\Debug\CleanCode.dll
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CleanCode\bin\Debug\CleanCode.pdb
-C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CleanCode\obj\Debug\CleanCode.csprojAssemblyReference.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CleanCode\obj\Debug\CleanCode.dll
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CleanCode\obj\Debug\CleanCode.pdb

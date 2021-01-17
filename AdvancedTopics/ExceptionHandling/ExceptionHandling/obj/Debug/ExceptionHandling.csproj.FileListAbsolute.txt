@@ -7,7 +7,6 @@ C:\Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
-C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

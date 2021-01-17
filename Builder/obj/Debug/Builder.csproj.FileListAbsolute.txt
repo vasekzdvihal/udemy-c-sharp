@@ -1,7 +1,0 @@
-C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder\bin\Debug\Builder.exe.config
-C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder\bin\Debug\Builder.exe
-C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder\bin\Debug\Builder.pdb
-C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
-C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
-C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder\obj\Debug\Builder.exe
-C:\Users\zdvih\source\repos\Udemy-C-Sharp\Builder\obj\Debug\Builder.pdb
