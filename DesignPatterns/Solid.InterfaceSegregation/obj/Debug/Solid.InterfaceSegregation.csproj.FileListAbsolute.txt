@@ -4,3 +4,4 @@ c:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.InterfaceSegregat
 c:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.InterfaceSegregation\bin\Debug\Solid.InterfaceSegregation.pdb
 c:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.InterfaceSegregation\obj\Debug\Solid.InterfaceSegregation.exe
 c:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.InterfaceSegregation\obj\Debug\Solid.InterfaceSegregation.pdb
+C:\Users\zdvih\source\repos\Udemy-C-Sharp\DesignPatterns\Solid.InterfaceSegregation\obj\Debug\Solid.InterfaceSegregation.csprojAssemblyReference.cache

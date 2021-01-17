@@ -11,3 +11,4 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Builder.RecursiveGeneri
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Builder.RecursiveGenerics\obj\Debug\Builder.RecursiveGenerics.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Builder.RecursiveGenerics\obj\Debug\Builder.RecursiveGenerics.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Builder.RecursiveGenerics\obj\Debug\Builder.RecursiveGenerics.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Builder.RecursiveGenerics\obj\Debug\Builder.RecursiveGenerics.csprojAssemblyReference.cache

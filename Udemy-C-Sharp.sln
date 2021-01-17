@@ -113,9 +113,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.Functional", "Desig
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.RecursiveGenerics", "DesignPatterns\Builder.RecursiveGenerics\Builder.RecursiveGenerics.csproj", "{06A6D248-9052-4D28-BB22-592521B42A24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.Faceted", "Builder.Faceted\Builder.Faceted.csproj", "{ADFEC83F-D83E-4D9A-89CD-FA15557C8AAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.Faceted", "DesignPatterns\Builder.Faceted\Builder.Faceted.csproj", "{ADFEC83F-D83E-4D9A-89CD-FA15557C8AAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.Exercise", "Builder.Exercise\Builder.Exercise.csproj", "{42C259FF-1A88-4DFA-B74B-F7FB85E1D530}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.Exercise", "DesignPatterns\Builder.Exercise\Builder.Exercise.csproj", "{42C259FF-1A88-4DFA-B74B-F7FB85E1D530}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
