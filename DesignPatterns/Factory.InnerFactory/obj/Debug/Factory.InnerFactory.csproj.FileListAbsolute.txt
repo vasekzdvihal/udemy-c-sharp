@@ -1,0 +1,7 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.InnerFactory\bin\Debug\Factory.InnerFactory.exe.config
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.InnerFactory\bin\Debug\Factory.InnerFactory.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.InnerFactory\bin\Debug\Factory.InnerFactory.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.InnerFactory\obj\Debug\Factory.InnerFactory.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.InnerFactory\obj\Debug\Factory.InnerFactory.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.InnerFactory\obj\Debug\Factory.InnerFactory.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.InnerFactory\obj\Debug\Factory.InnerFactory.pdb

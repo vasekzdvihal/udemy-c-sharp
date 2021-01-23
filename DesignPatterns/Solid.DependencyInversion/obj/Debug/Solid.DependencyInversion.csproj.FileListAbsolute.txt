@@ -4,4 +4,3 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.DependencyInversi
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.DependencyInversion\obj\Debug\Solid.DependencyInversion.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.DependencyInversion\obj\Debug\Solid.DependencyInversion.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.DependencyInversion\obj\Debug\Solid.DependencyInversion.pdb
-C:\Users\zdvih\source\repos\Udemy-C-Sharp\DesignPatterns\Solid.DependencyInversion\obj\Debug\Solid.DependencyInversion.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Abstract.WithOpenClose\bin\Debug\Factory.Abstract.WithOpenClose.exe.config
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Abstract.WithOpenClose\bin\Debug\Factory.Abstract.WithOpenClose.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Abstract.WithOpenClose\bin\Debug\Factory.Abstract.WithOpenClose.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Abstract.WithOpenClose\obj\Debug\Factory.Abstract.WithOpenClose.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Abstract.WithOpenClose\obj\Debug\Factory.Abstract.WithOpenClose.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Abstract.WithOpenClose\obj\Debug\Factory.Abstract.WithOpenClose.pdb

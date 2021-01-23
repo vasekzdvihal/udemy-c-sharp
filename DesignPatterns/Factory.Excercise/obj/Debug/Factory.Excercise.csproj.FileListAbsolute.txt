@@ -1,0 +1,6 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Excercise\bin\Debug\Factory.Excercise.exe.config
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Excercise\bin\Debug\Factory.Excercise.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Excercise\bin\Debug\Factory.Excercise.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Excercise\obj\Debug\Factory.Excercise.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Excercise\obj\Debug\Factory.Excercise.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Excercise\obj\Debug\Factory.Excercise.pdb

@@ -28,6 +28,7 @@ namespace Builder.Fluent
             var sb = new StringBuilder();
             var i = new string(' ', indentSize * indent);
 
+
             sb.AppendLine($"{i}<{Name}>");
 
             if (!string.IsNullOrWhiteSpace(Text))

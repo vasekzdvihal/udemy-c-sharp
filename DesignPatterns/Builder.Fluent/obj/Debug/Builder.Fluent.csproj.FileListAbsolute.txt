@@ -4,4 +4,3 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Builder.Fluent\bin\Debu
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Builder.Fluent\obj\Debug\Builder.Fluent.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Builder.Fluent\obj\Debug\Builder.Fluent.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Builder.Fluent\obj\Debug\Builder.Fluent.pdb
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Builder.Fluent\obj\Debug\Builder.Fluent.csprojAssemblyReference.cache
