@@ -1,0 +1,6 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype.DeepCopyInterface\bin\Debug\Prototype.DeepCopyInterface.exe.config
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype.DeepCopyInterface\bin\Debug\Prototype.DeepCopyInterface.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype.DeepCopyInterface\bin\Debug\Prototype.DeepCopyInterface.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype.DeepCopyInterface\obj\Debug\Prototype.DeepCopyInterface.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype.DeepCopyInterface\obj\Debug\Prototype.DeepCopyInterface.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype.DeepCopyInterface\obj\Debug\Prototype.DeepCopyInterface.pdb

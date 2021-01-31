@@ -1,0 +1,6 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype.Serialization\bin\Debug\Prototype.Serialization.exe.config
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype.Serialization\bin\Debug\Prototype.Serialization.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype.Serialization\bin\Debug\Prototype.Serialization.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype.Serialization\obj\Debug\Prototype.Serialization.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype.Serialization\obj\Debug\Prototype.Serialization.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype.Serialization\obj\Debug\Prototype.Serialization.pdb
