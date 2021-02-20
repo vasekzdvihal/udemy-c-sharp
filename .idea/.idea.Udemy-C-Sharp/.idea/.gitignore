@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.Udemy-C-Sharp.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\zdvih\source\repos\udemy-c-sharp\.idea\.idea.Udemy-C-Sharp\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

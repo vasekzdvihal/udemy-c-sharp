@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MHJmjQPNhBAHSUZejIdc+8uPe6v5vqFOYoG26PkBDTBGY5hMq1DiU7AjMwJCms3C2849dPNPTtDfISTheg1eTA==",
+  "dgSpecHash": "lymo7M4n7ra8/kp2f4uDR9qRUhJ1mbktRw3WvnbIy7e7gvvLxA60m2n3J7WG25ExnRs0lXFvpdzlqux+5yFXng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\StringWriter And StringReader\\StringWriter And StringReader.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\StringWriter And StringReader\\StringWriter And StringReader.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

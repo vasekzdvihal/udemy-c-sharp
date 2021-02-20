@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Mvejmx6ak6Wuo/Vi9d4hI3FKXtuzjYQYgfrl42aDPiH7toWgEKx6cRXL8XEJoaq5EKNzGtOllxeuFDgiuup0Kg==",
+  "dgSpecHash": "EbAyo9YRlkRrg/F/hCj6bNSCXXyoJUuFVIY/y/BEd4N4lR1FKh7zr2asMUsgmJEb7aeJGfkHQhjmcsier8t/ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Using Properties and Fields\\Using Properties and Fields.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Using Properties and Fields\\Using Properties and Fields.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Collection and Arrays\\Collection and Arrays.csproj": {}
+    "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Collection and Arrays\\Collection and Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Collection and Arrays\\Collection and Arrays.csproj": {
+    "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Collection and Arrays\\Collection and Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Collection and Arrays\\Collection and Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Collection and Arrays\\Collection and Arrays.csproj",
         "projectName": "Collection and Arrays",
-        "projectPath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Collection and Arrays\\Collection and Arrays.csproj",
+        "projectPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Collection and Arrays\\Collection and Arrays.csproj",
         "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Collection and Arrays\\obj\\",
+        "outputPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Collection and Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zdvih\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,7 +57,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
