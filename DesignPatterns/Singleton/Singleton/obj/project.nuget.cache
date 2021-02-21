@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xrkqXCSMd9vhTLuiG/sShHDmt6J7Gnh1DJQ6rOFNk+iXYbW8ZLYebdsEreTBC276NdZHPN4lRRXEBBnuPjPnNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Singleton\\Singleton\\Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
