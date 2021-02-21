@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B/15BRdXuSL/uUQlTTNYOrEC0TJ0c/mx9VjOZsr7/rIkkA3KjDL+nYhOImOJn5lCF4CesiUIRyEts+moNb0i7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Adapter\\Adapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
