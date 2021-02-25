@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XDH19z6K69OQkFNUjSB2LgQ8PlhP5LITLokKoFa49KMs6GmnRGb85KbsSGi4Wn8rouLz21KH/btP5lp1luzL9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DI.ConsoleUI\\DI.ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
