@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Generics.List.Models;
+using Generics.List.WithGenerics;
 using Generics.List.WithoutGenerics;
 
 namespace Generics.List
@@ -27,26 +28,43 @@ namespace Generics.List
             string logFile = @"C:\Temp\log.txt";
 
             PopulateList(people, logs);
+            
+            /* New way of doing things - generics */
+            GenericTextFileProcessor.SaveToTextFile<Person>(people, peopleFile);
+            GenericTextFileProcessor.SaveToTextFile<LogEntry>(logs, logFile);
 
-            // People
-            OriginalTextFileProcessor.SavePeople(people, peopleFile);
-            var newPeople = OriginalTextFileProcessor.LoadPeople(peopleFile);
+            var newPeople = GenericTextFileProcessor.LoadFromTextFile<Person>(peopleFile);
             foreach (var p in newPeople)
             {
                 Console.WriteLine($"{p.FirstName}{p.LastName} (IsAlive = {p.IsAlive})");
             }
-
-            Console.ReadLine();
             
-            // Logs
-            OriginalTextFileProcessor.SaveLogs(logs, logFile);
-            var newLogs = OriginalTextFileProcessor.LoadLogs(logFile);
+            var newLogs = GenericTextFileProcessor.LoadFromTextFile<LogEntry>(logFile);
             foreach (var l in newLogs)
             {
                 Console.WriteLine($"{l.ErrorCode}: {l.Message} at {l.TimeOfEvent.ToShortDateString()}");
             }
-        }
 
+            /* Old way of doing things - non-generics */
+            //     // People
+            //     OriginalTextFileProcessor.SavePeople(people, peopleFile);
+            //     var newPeople = OriginalTextFileProcessor.LoadPeople(peopleFile);
+            //     foreach (var p in newPeople)
+            //     {
+            //         Console.WriteLine($"{p.FirstName}{p.LastName} (IsAlive = {p.IsAlive})");
+            //     }
+            //
+            //     Console.ReadLine();
+            //     
+            //     // Logs
+            //     OriginalTextFileProcessor.SaveLogs(logs, logFile);
+            //     var newLogs = OriginalTextFileProcessor.LoadLogs(logFile);
+            //     foreach (var l in newLogs)
+            //     {
+            //         Console.WriteLine($"{l.ErrorCode}: {l.Message} at {l.TimeOfEvent.ToShortDateString()}");
+            //     }
+        }
+        
         private static void PopulateList(List<Person> people, List<LogEntry> logs)
         {
             people.Add(new Person{ FirstName = "Tim", LastName = "Corey" });
