@@ -1,0 +1,16 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.DynamicComposition\bin\Debug\net5.0\Decorator.DynamicComposition.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.DynamicComposition\bin\Debug\net5.0\Decorator.DynamicComposition.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.DynamicComposition\bin\Debug\net5.0\Decorator.DynamicComposition.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.DynamicComposition\bin\Debug\net5.0\Decorator.DynamicComposition.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.DynamicComposition\bin\Debug\net5.0\Decorator.DynamicComposition.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.DynamicComposition\bin\Debug\net5.0\ref\Decorator.DynamicComposition.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.DynamicComposition\bin\Debug\net5.0\Decorator.DynamicComposition.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.DynamicComposition\obj\Debug\net5.0\Decorator.DynamicComposition.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.DynamicComposition\obj\Debug\net5.0\Decorator.DynamicComposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.DynamicComposition\obj\Debug\net5.0\Decorator.DynamicComposition.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.DynamicComposition\obj\Debug\net5.0\Decorator.DynamicComposition.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.DynamicComposition\obj\Debug\net5.0\Decorator.DynamicComposition.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.DynamicComposition\obj\Debug\net5.0\Decorator.DynamicComposition.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.DynamicComposition\obj\Debug\net5.0\ref\Decorator.DynamicComposition.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.DynamicComposition\obj\Debug\net5.0\Decorator.DynamicComposition.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.DynamicComposition\obj\Debug\net5.0\Decorator.DynamicComposition.genruntimeconfig.cache

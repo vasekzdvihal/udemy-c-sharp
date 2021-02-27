@@ -1,0 +1,16 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultupleInheritenceDefaultMembers\bin\Debug\net5.0\Decorator.MultupleInheritenceDefaultMembers.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultupleInheritenceDefaultMembers\bin\Debug\net5.0\Decorator.MultupleInheritenceDefaultMembers.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultupleInheritenceDefaultMembers\bin\Debug\net5.0\Decorator.MultupleInheritenceDefaultMembers.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultupleInheritenceDefaultMembers\bin\Debug\net5.0\Decorator.MultupleInheritenceDefaultMembers.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultupleInheritenceDefaultMembers\bin\Debug\net5.0\Decorator.MultupleInheritenceDefaultMembers.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultupleInheritenceDefaultMembers\bin\Debug\net5.0\ref\Decorator.MultupleInheritenceDefaultMembers.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultupleInheritenceDefaultMembers\bin\Debug\net5.0\Decorator.MultupleInheritenceDefaultMembers.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultupleInheritenceDefaultMembers\obj\Debug\net5.0\Decorator.MultupleInheritenceDefaultMembers.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultupleInheritenceDefaultMembers\obj\Debug\net5.0\Decorator.MultupleInheritenceDefaultMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultupleInheritenceDefaultMembers\obj\Debug\net5.0\Decorator.MultupleInheritenceDefaultMembers.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultupleInheritenceDefaultMembers\obj\Debug\net5.0\Decorator.MultupleInheritenceDefaultMembers.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultupleInheritenceDefaultMembers\obj\Debug\net5.0\Decorator.MultupleInheritenceDefaultMembers.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultupleInheritenceDefaultMembers\obj\Debug\net5.0\Decorator.MultupleInheritenceDefaultMembers.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultupleInheritenceDefaultMembers\obj\Debug\net5.0\ref\Decorator.MultupleInheritenceDefaultMembers.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultupleInheritenceDefaultMembers\obj\Debug\net5.0\Decorator.MultupleInheritenceDefaultMembers.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultupleInheritenceDefaultMembers\obj\Debug\net5.0\Decorator.MultupleInheritenceDefaultMembers.genruntimeconfig.cache

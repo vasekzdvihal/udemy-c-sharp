@@ -1,0 +1,16 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultipleInheritance\bin\Debug\net5.0\Decorator.MultipleInheritance.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultipleInheritance\bin\Debug\net5.0\Decorator.MultipleInheritance.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultipleInheritance\bin\Debug\net5.0\Decorator.MultipleInheritance.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultipleInheritance\bin\Debug\net5.0\Decorator.MultipleInheritance.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultipleInheritance\bin\Debug\net5.0\Decorator.MultipleInheritance.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultipleInheritance\bin\Debug\net5.0\ref\Decorator.MultipleInheritance.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultipleInheritance\bin\Debug\net5.0\Decorator.MultipleInheritance.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultipleInheritance\obj\Debug\net5.0\Decorator.MultipleInheritance.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultipleInheritance\obj\Debug\net5.0\Decorator.MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultipleInheritance\obj\Debug\net5.0\Decorator.MultipleInheritance.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultipleInheritance\obj\Debug\net5.0\Decorator.MultipleInheritance.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultipleInheritance\obj\Debug\net5.0\Decorator.MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultipleInheritance\obj\Debug\net5.0\Decorator.MultipleInheritance.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultipleInheritance\obj\Debug\net5.0\ref\Decorator.MultipleInheritance.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultipleInheritance\obj\Debug\net5.0\Decorator.MultipleInheritance.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.MultipleInheritance\obj\Debug\net5.0\Decorator.MultipleInheritance.genruntimeconfig.cache

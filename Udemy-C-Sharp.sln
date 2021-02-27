@@ -201,9 +201,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural.Decorator", "Str
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator.CustomStringBuilder", "DesignPatterns\Decorator.CustomStringBuilder\Decorator.CustomStringBuilder.csproj", "{0555B54E-C9C0-4ED5-9017-1CBDD6AC3796}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generics", "Generics", "{B3434C95-EA90-4DCB-83EE-993C599E74D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics.Basics", "Generics.Basics\Generics.Basics.csproj", "{D15601C8-9825-4491-8FA0-1360D9175C1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics.List", "Generics.List\Generics.List.csproj", "{D15601C8-9825-4491-8FA0-1360D9175C1C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator.Adapter-Decorator", "DesignPatterns\Decorator.Adapter-Decorator\Decorator.Adapter-Decorator.csproj", "{A5429F0F-95F4-491E-B1B4-A3ABDB4F2D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator.MultipleInheritance", "DesignPatterns\Decorator.MultipleInheritance\Decorator.MultipleInheritance.csproj", "{D4E1958D-22CB-4C40-8051-732FEA9D1A7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator.MultupleInheritenceDefaultMembers", "DesignPatterns\Decorator.MultupleInheritenceDefaultMembers\Decorator.MultupleInheritenceDefaultMembers.csproj", "{0CA51E49-EF9A-4888-AB04-C20A5CB20D33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator.DynamicComposition", "DesignPatterns\Decorator.DynamicComposition\Decorator.DynamicComposition.csproj", "{98837196-304D-4019-881D-1F27AE8180DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -547,6 +553,22 @@ Global
 		{D15601C8-9825-4491-8FA0-1360D9175C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D15601C8-9825-4491-8FA0-1360D9175C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D15601C8-9825-4491-8FA0-1360D9175C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5429F0F-95F4-491E-B1B4-A3ABDB4F2D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5429F0F-95F4-491E-B1B4-A3ABDB4F2D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5429F0F-95F4-491E-B1B4-A3ABDB4F2D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5429F0F-95F4-491E-B1B4-A3ABDB4F2D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E1958D-22CB-4C40-8051-732FEA9D1A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E1958D-22CB-4C40-8051-732FEA9D1A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E1958D-22CB-4C40-8051-732FEA9D1A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E1958D-22CB-4C40-8051-732FEA9D1A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CA51E49-EF9A-4888-AB04-C20A5CB20D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA51E49-EF9A-4888-AB04-C20A5CB20D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA51E49-EF9A-4888-AB04-C20A5CB20D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA51E49-EF9A-4888-AB04-C20A5CB20D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98837196-304D-4019-881D-1F27AE8180DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98837196-304D-4019-881D-1F27AE8180DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98837196-304D-4019-881D-1F27AE8180DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98837196-304D-4019-881D-1F27AE8180DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -645,8 +667,11 @@ Global
 		{60410CEF-728F-44DD-869F-F41B7BC9524C} = {BCDC5429-BE2D-43B3-A30F-E5B4CBBB18F7}
 		{EB921FCF-6AD3-4A90-9C75-F774D0355D5D} = {A9519945-259D-461B-8479-6646D9C14044}
 		{0555B54E-C9C0-4ED5-9017-1CBDD6AC3796} = {EB921FCF-6AD3-4A90-9C75-F774D0355D5D}
-		{B3434C95-EA90-4DCB-83EE-993C599E74D2} = {231C170E-E75D-4760-94B3-8E7C569C554C}
-		{D15601C8-9825-4491-8FA0-1360D9175C1C} = {B3434C95-EA90-4DCB-83EE-993C599E74D2}
+		{D15601C8-9825-4491-8FA0-1360D9175C1C} = {231C170E-E75D-4760-94B3-8E7C569C554C}
+		{A5429F0F-95F4-491E-B1B4-A3ABDB4F2D47} = {EB921FCF-6AD3-4A90-9C75-F774D0355D5D}
+		{D4E1958D-22CB-4C40-8051-732FEA9D1A7D} = {EB921FCF-6AD3-4A90-9C75-F774D0355D5D}
+		{0CA51E49-EF9A-4888-AB04-C20A5CB20D33} = {EB921FCF-6AD3-4A90-9C75-F774D0355D5D}
+		{98837196-304D-4019-881D-1F27AE8180DF} = {EB921FCF-6AD3-4A90-9C75-F774D0355D5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBBEABDB-C638-4F3C-91AD-24FC0CF6A3C2}

@@ -1,0 +1,16 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.CustomStringBuilder\bin\Debug\net5.0\Decorator.CustomStringBuilder.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.CustomStringBuilder\bin\Debug\net5.0\Decorator.CustomStringBuilder.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.CustomStringBuilder\bin\Debug\net5.0\Decorator.CustomStringBuilder.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.CustomStringBuilder\bin\Debug\net5.0\Decorator.CustomStringBuilder.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.CustomStringBuilder\bin\Debug\net5.0\Decorator.CustomStringBuilder.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.CustomStringBuilder\bin\Debug\net5.0\ref\Decorator.CustomStringBuilder.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.CustomStringBuilder\bin\Debug\net5.0\Decorator.CustomStringBuilder.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.CustomStringBuilder\obj\Debug\net5.0\Decorator.CustomStringBuilder.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.CustomStringBuilder\obj\Debug\net5.0\Decorator.CustomStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.CustomStringBuilder\obj\Debug\net5.0\Decorator.CustomStringBuilder.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.CustomStringBuilder\obj\Debug\net5.0\Decorator.CustomStringBuilder.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.CustomStringBuilder\obj\Debug\net5.0\Decorator.CustomStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.CustomStringBuilder\obj\Debug\net5.0\Decorator.CustomStringBuilder.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.CustomStringBuilder\obj\Debug\net5.0\ref\Decorator.CustomStringBuilder.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.CustomStringBuilder\obj\Debug\net5.0\Decorator.CustomStringBuilder.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.CustomStringBuilder\obj\Debug\net5.0\Decorator.CustomStringBuilder.genruntimeconfig.cache

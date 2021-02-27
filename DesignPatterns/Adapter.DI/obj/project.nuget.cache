@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lxk6UlPyXpC0PAOOgreH0eH4/JY9Zq5LEwxggJtd6iYCRCVZSrjQLjvgFl/IGNL/J3zJw7d9NfbiTpw5KCh8Xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Adapter.DI\\Adapter.DI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
