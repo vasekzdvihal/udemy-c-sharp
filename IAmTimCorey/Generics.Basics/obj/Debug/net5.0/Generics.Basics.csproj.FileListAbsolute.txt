@@ -1,0 +1,16 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\IAmTimCorey\Generics.Basics\bin\Debug\net5.0\Generics.Basics.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\IAmTimCorey\Generics.Basics\bin\Debug\net5.0\Generics.Basics.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\IAmTimCorey\Generics.Basics\bin\Debug\net5.0\Generics.Basics.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\IAmTimCorey\Generics.Basics\bin\Debug\net5.0\Generics.Basics.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\IAmTimCorey\Generics.Basics\bin\Debug\net5.0\Generics.Basics.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\IAmTimCorey\Generics.Basics\bin\Debug\net5.0\ref\Generics.Basics.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\IAmTimCorey\Generics.Basics\bin\Debug\net5.0\Generics.Basics.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\IAmTimCorey\Generics.Basics\obj\Debug\net5.0\Generics.Basics.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\IAmTimCorey\Generics.Basics\obj\Debug\net5.0\Generics.Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\repos\udemy-c-sharp\IAmTimCorey\Generics.Basics\obj\Debug\net5.0\Generics.Basics.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\IAmTimCorey\Generics.Basics\obj\Debug\net5.0\Generics.Basics.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\IAmTimCorey\Generics.Basics\obj\Debug\net5.0\Generics.Basics.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\IAmTimCorey\Generics.Basics\obj\Debug\net5.0\Generics.Basics.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\IAmTimCorey\Generics.Basics\obj\Debug\net5.0\ref\Generics.Basics.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\IAmTimCorey\Generics.Basics\obj\Debug\net5.0\Generics.Basics.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\IAmTimCorey\Generics.Basics\obj\Debug\net5.0\Generics.Basics.genruntimeconfig.cache
