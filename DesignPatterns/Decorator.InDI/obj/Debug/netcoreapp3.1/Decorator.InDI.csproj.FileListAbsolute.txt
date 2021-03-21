@@ -1,0 +1,16 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.InDI\bin\Debug\netcoreapp3.1\Decorator.InDI.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.InDI\bin\Debug\netcoreapp3.1\Decorator.InDI.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.InDI\bin\Debug\netcoreapp3.1\Decorator.InDI.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.InDI\bin\Debug\netcoreapp3.1\Decorator.InDI.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.InDI\bin\Debug\netcoreapp3.1\Decorator.InDI.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.InDI\bin\Debug\netcoreapp3.1\Decorator.InDI.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.InDI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.InDI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.InDI\obj\Debug\netcoreapp3.1\Decorator.InDI.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.InDI\obj\Debug\netcoreapp3.1\Decorator.InDI.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.InDI\obj\Debug\netcoreapp3.1\Decorator.InDI.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.InDI\obj\Debug\netcoreapp3.1\Decorator.InDI.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.InDI\obj\Debug\netcoreapp3.1\Decorator.InDI.csproj.CopyComplete
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.InDI\obj\Debug\netcoreapp3.1\Decorator.InDI.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.InDI\obj\Debug\netcoreapp3.1\Decorator.InDI.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.InDI\obj\Debug\netcoreapp3.1\Decorator.InDI.genruntimeconfig.cache

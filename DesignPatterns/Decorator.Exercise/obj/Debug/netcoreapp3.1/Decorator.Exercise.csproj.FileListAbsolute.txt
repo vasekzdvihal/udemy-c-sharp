@@ -1,0 +1,13 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.Exercise\bin\Debug\netcoreapp3.1\Decorator.Exercise.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.Exercise\bin\Debug\netcoreapp3.1\Decorator.Exercise.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.Exercise\bin\Debug\netcoreapp3.1\Decorator.Exercise.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.Exercise\bin\Debug\netcoreapp3.1\Decorator.Exercise.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.Exercise\bin\Debug\netcoreapp3.1\Decorator.Exercise.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.Exercise\bin\Debug\netcoreapp3.1\Decorator.Exercise.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.Exercise\obj\Debug\netcoreapp3.1\Decorator.Exercise.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.Exercise\obj\Debug\netcoreapp3.1\Decorator.Exercise.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.Exercise\obj\Debug\netcoreapp3.1\Decorator.Exercise.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.Exercise\obj\Debug\netcoreapp3.1\Decorator.Exercise.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.Exercise\obj\Debug\netcoreapp3.1\Decorator.Exercise.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.Exercise\obj\Debug\netcoreapp3.1\Decorator.Exercise.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Decorator.Exercise\obj\Debug\netcoreapp3.1\Decorator.Exercise.genruntimeconfig.cache

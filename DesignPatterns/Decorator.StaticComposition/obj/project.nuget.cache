@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eM/28wPCAHgk3nqqy1FJIvotqUH3tqpVlzrPM4eGeFtuRchdcRNpMB4zX/se6c8pg7EBkrROSAuAriiI+EOqxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Decorator.StaticComposition\\Decorator.StaticComposition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

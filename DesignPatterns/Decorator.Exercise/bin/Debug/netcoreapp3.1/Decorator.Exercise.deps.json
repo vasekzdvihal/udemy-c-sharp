@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Decorator.Exercise/1.0.0": {
+        "runtime": {
+          "Decorator.Exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decorator.Exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
