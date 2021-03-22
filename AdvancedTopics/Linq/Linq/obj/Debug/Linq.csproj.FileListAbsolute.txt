@@ -10,3 +10,4 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\Linq\Linq\bin\Debug\Lin
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\Linq\Linq\obj\Debug\Linq.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\Linq\Linq\obj\Debug\Linq.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\Linq\Linq\obj\Debug\Linq.csprojAssemblyReference.cache

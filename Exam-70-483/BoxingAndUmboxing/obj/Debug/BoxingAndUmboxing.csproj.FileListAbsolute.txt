@@ -10,3 +10,4 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\BoxingAndUmboxing\bin\Debu
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\BoxingAndUmboxing\obj\Debug\BoxingAndUmboxing.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\BoxingAndUmboxing\obj\Debug\BoxingAndUmboxing.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\BoxingAndUmboxing\obj\Debug\BoxingAndUmboxing.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\BoxingAndUmboxing\obj\Debug\BoxingAndUmboxing.csprojAssemblyReference.cache

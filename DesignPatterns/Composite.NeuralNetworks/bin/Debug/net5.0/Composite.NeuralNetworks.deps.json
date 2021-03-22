@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Composite.NeuralNetworks/1.0.0": {
+        "runtime": {
+          "Composite.NeuralNetworks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Composite.NeuralNetworks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

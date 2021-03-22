@@ -10,3 +10,4 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Basic Event Example\bin\De
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Basic Event Example\obj\Debug\Basic Event Example.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Basic Event Example\obj\Debug\Basic Event Example.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Basic Event Example\obj\Debug\Basic Event Example.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Basic Event Example\obj\Debug\Basic Event Example.csprojAssemblyReference.cache

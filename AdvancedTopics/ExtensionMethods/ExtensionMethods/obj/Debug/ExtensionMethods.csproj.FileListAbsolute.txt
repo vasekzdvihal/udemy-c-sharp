@@ -9,3 +9,4 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExtensionMethods\Extens
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache

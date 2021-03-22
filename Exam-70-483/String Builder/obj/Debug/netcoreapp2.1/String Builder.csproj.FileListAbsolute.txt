@@ -21,3 +21,4 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\String Builder\obj\Debug\n
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\String Builder\obj\Debug\netcoreapp2.1\String Builder.dll
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\String Builder\obj\Debug\netcoreapp2.1\String Builder.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\String Builder\obj\Debug\netcoreapp2.1\String Builder.genruntimeconfig.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\String Builder\obj\Debug\netcoreapp2.1\String Builder.csprojAssemblyReference.cache

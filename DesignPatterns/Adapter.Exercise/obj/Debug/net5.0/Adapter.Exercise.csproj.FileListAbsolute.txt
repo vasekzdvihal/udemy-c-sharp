@@ -1,0 +1,15 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Adapter.Exercise\bin\Debug\net5.0\Adapter.Exercise.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Adapter.Exercise\bin\Debug\net5.0\Adapter.Exercise.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Adapter.Exercise\bin\Debug\net5.0\Adapter.Exercise.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Adapter.Exercise\bin\Debug\net5.0\Adapter.Exercise.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Adapter.Exercise\bin\Debug\net5.0\Adapter.Exercise.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Adapter.Exercise\bin\Debug\net5.0\ref\Adapter.Exercise.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Adapter.Exercise\bin\Debug\net5.0\Adapter.Exercise.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Adapter.Exercise\obj\Debug\net5.0\Adapter.Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Adapter.Exercise\obj\Debug\net5.0\Adapter.Exercise.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Adapter.Exercise\obj\Debug\net5.0\Adapter.Exercise.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Adapter.Exercise\obj\Debug\net5.0\Adapter.Exercise.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Adapter.Exercise\obj\Debug\net5.0\Adapter.Exercise.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Adapter.Exercise\obj\Debug\net5.0\ref\Adapter.Exercise.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Adapter.Exercise\obj\Debug\net5.0\Adapter.Exercise.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Adapter.Exercise\obj\Debug\net5.0\Adapter.Exercise.genruntimeconfig.cache

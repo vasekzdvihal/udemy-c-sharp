@@ -10,3 +10,4 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\CastAncConvertExample\bin\
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\CastAncConvertExample\obj\Debug\CastAncConvertExample.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\CastAncConvertExample\obj\Debug\CastAncConvertExample.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\CastAncConvertExample\obj\Debug\CastAncConvertExample.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\CastAncConvertExample\obj\Debug\CastAncConvertExample.csprojAssemblyReference.cache

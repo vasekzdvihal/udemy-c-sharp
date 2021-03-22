@@ -11,3 +11,4 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.OpenClose\bin\Deb
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.OpenClose\obj\Debug\Solid.OpenClose.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.OpenClose\obj\Debug\Solid.OpenClose.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.OpenClose\obj\Debug\Solid.OpenClose.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.OpenClose\obj\Debug\Solid.OpenClose.csprojAssemblyReference.cache

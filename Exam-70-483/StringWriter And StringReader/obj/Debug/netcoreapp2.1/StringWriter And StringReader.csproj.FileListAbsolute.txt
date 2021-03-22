@@ -20,3 +20,4 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\StringWriter And StringRea
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\StringWriter And StringReader\obj\Debug\netcoreapp2.1\StringWriter And StringReader.dll
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\StringWriter And StringReader\obj\Debug\netcoreapp2.1\StringWriter And StringReader.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\StringWriter And StringReader\obj\Debug\netcoreapp2.1\StringWriter And StringReader.genruntimeconfig.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\StringWriter And StringReader\obj\Debug\netcoreapp2.1\StringWriter And StringReader.csprojAssemblyReference.cache

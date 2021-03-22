@@ -20,3 +20,4 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Exception Example\obj\Debu
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Exception Example\obj\Debug\netcoreapp2.1\Exception Example.dll
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Exception Example\obj\Debug\netcoreapp2.1\Exception Example.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Exception Example\obj\Debug\netcoreapp2.1\Exception Example.genruntimeconfig.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Exception Example\obj\Debug\netcoreapp2.1\Exception Example.csprojAssemblyReference.cache

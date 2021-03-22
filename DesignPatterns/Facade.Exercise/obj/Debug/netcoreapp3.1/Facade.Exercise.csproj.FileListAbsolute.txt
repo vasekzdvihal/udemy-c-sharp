@@ -1,0 +1,13 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Facade.Exercise\bin\Debug\netcoreapp3.1\Facade.Exercise.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Facade.Exercise\bin\Debug\netcoreapp3.1\Facade.Exercise.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Facade.Exercise\bin\Debug\netcoreapp3.1\Facade.Exercise.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Facade.Exercise\bin\Debug\netcoreapp3.1\Facade.Exercise.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Facade.Exercise\bin\Debug\netcoreapp3.1\Facade.Exercise.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Facade.Exercise\bin\Debug\netcoreapp3.1\Facade.Exercise.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Facade.Exercise\obj\Debug\netcoreapp3.1\Facade.Exercise.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Facade.Exercise\obj\Debug\netcoreapp3.1\Facade.Exercise.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Facade.Exercise\obj\Debug\netcoreapp3.1\Facade.Exercise.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Facade.Exercise\obj\Debug\netcoreapp3.1\Facade.Exercise.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Facade.Exercise\obj\Debug\netcoreapp3.1\Facade.Exercise.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Facade.Exercise\obj\Debug\netcoreapp3.1\Facade.Exercise.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Facade.Exercise\obj\Debug\netcoreapp3.1\Facade.Exercise.genruntimeconfig.cache

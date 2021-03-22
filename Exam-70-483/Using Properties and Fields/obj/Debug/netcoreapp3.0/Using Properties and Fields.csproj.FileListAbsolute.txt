@@ -23,3 +23,4 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Using Properties and Field
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Using Properties and Fields\obj\Debug\netcoreapp3.0\Using Properties and Fields.dll
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Using Properties and Fields\obj\Debug\netcoreapp3.0\Using Properties and Fields.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Using Properties and Fields\obj\Debug\netcoreapp3.0\Using Properties and Fields.genruntimeconfig.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Using Properties and Fields\obj\Debug\netcoreapp3.0\Using Properties and Fields.csprojAssemblyReference.cache

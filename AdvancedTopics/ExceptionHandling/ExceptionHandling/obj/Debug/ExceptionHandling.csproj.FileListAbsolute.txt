@@ -10,3 +10,4 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExceptionHandling\Excep
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
