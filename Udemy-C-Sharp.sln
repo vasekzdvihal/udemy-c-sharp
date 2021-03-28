@@ -227,6 +227,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight.TextFormatting", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight.Exercise", "DesignPatterns\Flyweight.Exercise\Flyweight.Exercise.csproj", "{D554AC0A-7381-4170-9E39-18F3FF9F40D9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural.Proxy", "Structural.Proxy", "{5F89E6CD-2E16-4331-9A05-A40CEC631DC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy.Protection", "DesignPatterns\Proxy.Protection\Proxy.Protection.csproj", "{9C501851-60DD-4507-9F65-DECFEBB68667}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -613,6 +617,10 @@ Global
 		{D554AC0A-7381-4170-9E39-18F3FF9F40D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D554AC0A-7381-4170-9E39-18F3FF9F40D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D554AC0A-7381-4170-9E39-18F3FF9F40D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C501851-60DD-4507-9F65-DECFEBB68667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C501851-60DD-4507-9F65-DECFEBB68667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C501851-60DD-4507-9F65-DECFEBB68667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C501851-60DD-4507-9F65-DECFEBB68667}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -724,6 +732,8 @@ Global
 		{D3EBAE9B-E91F-4F73-8B4A-7D17D57CBF5B} = {E44D73EF-F87E-46D6-AFC2-D4C184DCF5D6}
 		{C18C9188-3AF3-488C-BF53-262D6927CA9B} = {E44D73EF-F87E-46D6-AFC2-D4C184DCF5D6}
 		{D554AC0A-7381-4170-9E39-18F3FF9F40D9} = {E44D73EF-F87E-46D6-AFC2-D4C184DCF5D6}
+		{5F89E6CD-2E16-4331-9A05-A40CEC631DC3} = {A9519945-259D-461B-8479-6646D9C14044}
+		{9C501851-60DD-4507-9F65-DECFEBB68667} = {5F89E6CD-2E16-4331-9A05-A40CEC631DC3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBBEABDB-C638-4F3C-91AD-24FC0CF6A3C2}
