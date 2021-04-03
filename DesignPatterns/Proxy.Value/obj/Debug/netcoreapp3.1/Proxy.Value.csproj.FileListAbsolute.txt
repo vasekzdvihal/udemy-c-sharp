@@ -1,0 +1,13 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.Value\bin\Debug\netcoreapp3.1\Proxy.Value.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.Value\bin\Debug\netcoreapp3.1\Proxy.Value.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.Value\bin\Debug\netcoreapp3.1\Proxy.Value.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.Value\bin\Debug\netcoreapp3.1\Proxy.Value.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.Value\bin\Debug\netcoreapp3.1\Proxy.Value.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.Value\bin\Debug\netcoreapp3.1\Proxy.Value.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.Value\obj\Debug\netcoreapp3.1\Proxy.Value.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.Value\obj\Debug\netcoreapp3.1\Proxy.Value.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.Value\obj\Debug\netcoreapp3.1\Proxy.Value.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.Value\obj\Debug\netcoreapp3.1\Proxy.Value.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.Value\obj\Debug\netcoreapp3.1\Proxy.Value.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.Value\obj\Debug\netcoreapp3.1\Proxy.Value.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.Value\obj\Debug\netcoreapp3.1\Proxy.Value.genruntimeconfig.cache

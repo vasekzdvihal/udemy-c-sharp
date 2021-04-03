@@ -1,0 +1,16 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.DynamicForLogging\bin\Debug\netcoreapp3.1\Proxy.DynamicForLogging.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.DynamicForLogging\bin\Debug\netcoreapp3.1\Proxy.DynamicForLogging.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.DynamicForLogging\bin\Debug\netcoreapp3.1\Proxy.DynamicForLogging.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.DynamicForLogging\bin\Debug\netcoreapp3.1\Proxy.DynamicForLogging.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.DynamicForLogging\bin\Debug\netcoreapp3.1\Proxy.DynamicForLogging.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.DynamicForLogging\bin\Debug\netcoreapp3.1\Proxy.DynamicForLogging.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.DynamicForLogging\bin\Debug\netcoreapp3.1\Dynamitey.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.DynamicForLogging\bin\Debug\netcoreapp3.1\ImpromptuInterface.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.DynamicForLogging\obj\Debug\netcoreapp3.1\Proxy.DynamicForLogging.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.DynamicForLogging\obj\Debug\netcoreapp3.1\Proxy.DynamicForLogging.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.DynamicForLogging\obj\Debug\netcoreapp3.1\Proxy.DynamicForLogging.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.DynamicForLogging\obj\Debug\netcoreapp3.1\Proxy.DynamicForLogging.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.DynamicForLogging\obj\Debug\netcoreapp3.1\Proxy.DynamicForLogging.csproj.CopyComplete
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.DynamicForLogging\obj\Debug\netcoreapp3.1\Proxy.DynamicForLogging.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.DynamicForLogging\obj\Debug\netcoreapp3.1\Proxy.DynamicForLogging.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Proxy.DynamicForLogging\obj\Debug\netcoreapp3.1\Proxy.DynamicForLogging.genruntimeconfig.cache
