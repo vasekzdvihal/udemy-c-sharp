@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q74QeH7sdyJ/3hspd8vqu+6gcSDwj5dOFvxYuV9hyUtb/HCYwoU5gcpZfPW07u3N3Xup+/WTQqa05fuivAO6nA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\ChainOfResponsibility.BrokerChain\\ChainOfResponsibility.BrokerChain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

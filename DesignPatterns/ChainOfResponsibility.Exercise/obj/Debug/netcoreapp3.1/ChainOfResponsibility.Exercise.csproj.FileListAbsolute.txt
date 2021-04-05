@@ -1,0 +1,13 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\ChainOfResponsibility.Exercise\bin\Debug\netcoreapp3.1\ChainOfResponsibility.Exercise.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\ChainOfResponsibility.Exercise\bin\Debug\netcoreapp3.1\ChainOfResponsibility.Exercise.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\ChainOfResponsibility.Exercise\bin\Debug\netcoreapp3.1\ChainOfResponsibility.Exercise.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\ChainOfResponsibility.Exercise\bin\Debug\netcoreapp3.1\ChainOfResponsibility.Exercise.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\ChainOfResponsibility.Exercise\bin\Debug\netcoreapp3.1\ChainOfResponsibility.Exercise.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\ChainOfResponsibility.Exercise\bin\Debug\netcoreapp3.1\ChainOfResponsibility.Exercise.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\ChainOfResponsibility.Exercise\obj\Debug\netcoreapp3.1\ChainOfResponsibility.Exercise.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\ChainOfResponsibility.Exercise\obj\Debug\netcoreapp3.1\ChainOfResponsibility.Exercise.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\ChainOfResponsibility.Exercise\obj\Debug\netcoreapp3.1\ChainOfResponsibility.Exercise.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\ChainOfResponsibility.Exercise\obj\Debug\netcoreapp3.1\ChainOfResponsibility.Exercise.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\ChainOfResponsibility.Exercise\obj\Debug\netcoreapp3.1\ChainOfResponsibility.Exercise.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\ChainOfResponsibility.Exercise\obj\Debug\netcoreapp3.1\ChainOfResponsibility.Exercise.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\ChainOfResponsibility.Exercise\obj\Debug\netcoreapp3.1\ChainOfResponsibility.Exercise.genruntimeconfig.cache
