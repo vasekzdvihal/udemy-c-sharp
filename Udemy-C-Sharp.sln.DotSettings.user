@@ -1,22 +1,31 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/EntityFrameworkOptions/IsAlreadyNotifiedAboutEntityFramework/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=22496f1c_002D4b54_002D4e5f_002Dabd0_002D6abe26feb74b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SingletonTotalPopulationTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::85836366-DC58-47D1-9C5A-314F50556708::net5.0::Singleton.SingletonTests.SingletonTotalPopulationTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b356dd5c_002D90f7_002D4981_002Da9f9_002D0f762a1addee/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SingletonTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b356dd5c_002D90f7_002D4981_002Da9f9_002D0f762a1addee/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SingletonTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::D3EBAE9B-E91F-4F73-8B4A-7D17D57CBF5B::.NETCoreApp,Version=v3.1::Flyweight.RepeatingUserNames.Program.TestUser&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::D3EBAE9B-E91F-4F73-8B4A-7D17D57CBF5B::.NETCoreApp,Version=v3.1::Flyweight.RepeatingUserNames.Program.TestUser2&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dd36cb23_002Da200_002D4c94_002Daad8_002D15f916b72437/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SingletonTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dd36cb23_002Da200_002D4c94_002Daad8_002D15f916b72437/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SingletonTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::7A909557-16FF-4EDD-98A6-6A2829DBCA91::net5.0::Singleton.Tests.SingletonTests.IsSingletonTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::7A909557-16FF-4EDD-98A6-6A2829DBCA91::net5.0::Singleton.Tests.Singleton_DependencyInjection.ConfigurablePopulationTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::D3EBAE9B-E91F-4F73-8B4A-7D17D57CBF5B::.NETCoreApp,Version=v3.1::Flyweight.RepeatingUserNames.Program.TestUser&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D9516416-15D4-4285-A2ED-4AFE06D151C9::.NETCoreApp,Version=v3.1::xUnitTesting.CalculatorTests.AddTwoNumbersShouldEqualTheirEqual&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D9516416-15D4-4285-A2ED-4AFE06D151C9::.NETCoreApp,Version=v3.1::xUnitTesting.CalculatorTests.AddTwoNumbersShouldEqualTheirEqualTheory&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D9516416-15D4-4285-A2ED-4AFE06D151C9::.NETCoreApp,Version=v3.1::xUnitTesting.CalculatorTests.AddManyNumbersShouldEqualTheirEqualTheory&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D9516416-15D4-4285-A2ED-4AFE06D151C9::.NETCoreApp,Version=v3.1::xUnitTesting.CalculatorTests.DividingManyNumbersShouldEqualTheirEqualTheory&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D9516416-15D4-4285-A2ED-4AFE06D151C9::.NETCoreApp,Version=v3.1::xUnitTesting.GuidGeneratorTestsOne.GuidTestOne&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D9516416-15D4-4285-A2ED-4AFE06D151C9::.NETCoreApp,Version=v3.1::xUnitTesting.GuidGeneratorTestsOne.GuidTestTwo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D9516416-15D4-4285-A2ED-4AFE06D151C9::.NETCoreApp,Version=v3.1::xUnitTesting.GuidGeneratorTestsTwo&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
+	
 	
 	
 	
