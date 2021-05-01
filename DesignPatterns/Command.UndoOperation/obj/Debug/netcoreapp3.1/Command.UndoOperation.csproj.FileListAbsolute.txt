@@ -1,0 +1,13 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.UndoOperation\bin\Debug\netcoreapp3.1\Command.UndoOperation.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.UndoOperation\bin\Debug\netcoreapp3.1\Command.UndoOperation.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.UndoOperation\bin\Debug\netcoreapp3.1\Command.UndoOperation.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.UndoOperation\bin\Debug\netcoreapp3.1\Command.UndoOperation.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.UndoOperation\bin\Debug\netcoreapp3.1\Command.UndoOperation.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.UndoOperation\bin\Debug\netcoreapp3.1\Command.UndoOperation.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.UndoOperation\obj\Debug\netcoreapp3.1\Command.UndoOperation.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.UndoOperation\obj\Debug\netcoreapp3.1\Command.UndoOperation.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.UndoOperation\obj\Debug\netcoreapp3.1\Command.UndoOperation.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.UndoOperation\obj\Debug\netcoreapp3.1\Command.UndoOperation.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.UndoOperation\obj\Debug\netcoreapp3.1\Command.UndoOperation.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.UndoOperation\obj\Debug\netcoreapp3.1\Command.UndoOperation.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.UndoOperation\obj\Debug\netcoreapp3.1\Command.UndoOperation.genruntimeconfig.cache

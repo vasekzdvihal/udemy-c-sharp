@@ -1,0 +1,13 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.Composite\bin\Debug\netcoreapp3.1\Command.Composite.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.Composite\bin\Debug\netcoreapp3.1\Command.Composite.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.Composite\bin\Debug\netcoreapp3.1\Command.Composite.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.Composite\bin\Debug\netcoreapp3.1\Command.Composite.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.Composite\bin\Debug\netcoreapp3.1\Command.Composite.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.Composite\bin\Debug\netcoreapp3.1\Command.Composite.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.Composite\obj\Debug\netcoreapp3.1\Command.Composite.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.Composite\obj\Debug\netcoreapp3.1\Command.Composite.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.Composite\obj\Debug\netcoreapp3.1\Command.Composite.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.Composite\obj\Debug\netcoreapp3.1\Command.Composite.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.Composite\obj\Debug\netcoreapp3.1\Command.Composite.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.Composite\obj\Debug\netcoreapp3.1\Command.Composite.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command.Composite\obj\Debug\netcoreapp3.1\Command.Composite.genruntimeconfig.cache
