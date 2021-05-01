@@ -281,6 +281,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator.Object", "DesignPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator.Method", "DesignPatterns\Iterator.Method\Iterator.Method.csproj", "{9F15AB91-5B87-4FA9-9EDB-8CB75E6F5147}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator.DuckTyping", "DesignPatterns\Iterator.DuckTyping\Iterator.DuckTyping.csproj", "{E22B09EE-A982-4783-9FD5-77B232954FE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -751,6 +753,10 @@ Global
 		{9F15AB91-5B87-4FA9-9EDB-8CB75E6F5147}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F15AB91-5B87-4FA9-9EDB-8CB75E6F5147}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F15AB91-5B87-4FA9-9EDB-8CB75E6F5147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E22B09EE-A982-4783-9FD5-77B232954FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E22B09EE-A982-4783-9FD5-77B232954FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E22B09EE-A982-4783-9FD5-77B232954FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E22B09EE-A982-4783-9FD5-77B232954FE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -888,6 +894,7 @@ Global
 		{399A1087-3DB7-417F-A396-DD2FA33D3F09} = {A9519945-259D-461B-8479-6646D9C14044}
 		{DFE8C6A9-F4CE-48C4-A8A0-F171080EC5C0} = {399A1087-3DB7-417F-A396-DD2FA33D3F09}
 		{9F15AB91-5B87-4FA9-9EDB-8CB75E6F5147} = {399A1087-3DB7-417F-A396-DD2FA33D3F09}
+		{E22B09EE-A982-4783-9FD5-77B232954FE8} = {399A1087-3DB7-417F-A396-DD2FA33D3F09}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBBEABDB-C638-4F3C-91AD-24FC0CF6A3C2}
