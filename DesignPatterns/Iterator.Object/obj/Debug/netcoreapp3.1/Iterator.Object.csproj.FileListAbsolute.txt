@@ -1,0 +1,13 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Iterator.Object\bin\Debug\netcoreapp3.1\Iterator.Object.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Iterator.Object\bin\Debug\netcoreapp3.1\Iterator.Object.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Iterator.Object\bin\Debug\netcoreapp3.1\Iterator.Object.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Iterator.Object\bin\Debug\netcoreapp3.1\Iterator.Object.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Iterator.Object\bin\Debug\netcoreapp3.1\Iterator.Object.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Iterator.Object\bin\Debug\netcoreapp3.1\Iterator.Object.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Iterator.Object\obj\Debug\netcoreapp3.1\Iterator.Object.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Iterator.Object\obj\Debug\netcoreapp3.1\Iterator.Object.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Iterator.Object\obj\Debug\netcoreapp3.1\Iterator.Object.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Iterator.Object\obj\Debug\netcoreapp3.1\Iterator.Object.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Iterator.Object\obj\Debug\netcoreapp3.1\Iterator.Object.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Iterator.Object\obj\Debug\netcoreapp3.1\Iterator.Object.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Iterator.Object\obj\Debug\netcoreapp3.1\Iterator.Object.genruntimeconfig.cache

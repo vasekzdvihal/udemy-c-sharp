@@ -1,0 +1,13 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command\bin\Debug\netcoreapp3.1\Command.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command\bin\Debug\netcoreapp3.1\Command.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command\bin\Debug\netcoreapp3.1\Command.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command\bin\Debug\netcoreapp3.1\Command.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.genruntimeconfig.cache
