@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Ve1jFfidD7/3dVxZuujv1pSfQKbJL8V5vQ73v/JY6kKz9ollWp/Lr0y/93UaFofgGrOZWLB6Wn4c6R76djRkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Interpreter\\Interpreter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
