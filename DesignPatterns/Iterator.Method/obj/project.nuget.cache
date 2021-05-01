@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0dkha7HsiCTIjGNwnVrnbxRtBR+4xzZi5KOB+5oO/r0nD8BrmHrriGcI2sv8bdwHf4aVHNq7cN10zBmvFF1Ejg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Iterator.Method\\Iterator.Method.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
