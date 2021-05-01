@@ -285,6 +285,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator.DuckTyping", "Desi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator.ArrayBackProperties", "DesignPatterns\Iterator.ArrayBackProperties\Iterator.ArrayBackProperties.csproj", "{91602890-CCAC-4C56-8BBB-2C4AC8FC9621}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator.Exercise", "DesignPatterns\Iterator.Exercise\Iterator.Exercise.csproj", "{E173F277-575B-4CA7-8E63-463E37D47DFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -763,6 +765,10 @@ Global
 		{91602890-CCAC-4C56-8BBB-2C4AC8FC9621}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91602890-CCAC-4C56-8BBB-2C4AC8FC9621}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91602890-CCAC-4C56-8BBB-2C4AC8FC9621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E173F277-575B-4CA7-8E63-463E37D47DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E173F277-575B-4CA7-8E63-463E37D47DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E173F277-575B-4CA7-8E63-463E37D47DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E173F277-575B-4CA7-8E63-463E37D47DFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -902,6 +908,7 @@ Global
 		{9F15AB91-5B87-4FA9-9EDB-8CB75E6F5147} = {399A1087-3DB7-417F-A396-DD2FA33D3F09}
 		{E22B09EE-A982-4783-9FD5-77B232954FE8} = {399A1087-3DB7-417F-A396-DD2FA33D3F09}
 		{91602890-CCAC-4C56-8BBB-2C4AC8FC9621} = {399A1087-3DB7-417F-A396-DD2FA33D3F09}
+		{E173F277-575B-4CA7-8E63-463E37D47DFF} = {399A1087-3DB7-417F-A396-DD2FA33D3F09}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBBEABDB-C638-4F3C-91AD-24FC0CF6A3C2}
