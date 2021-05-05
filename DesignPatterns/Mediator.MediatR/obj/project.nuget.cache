@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fsAhxfFO87KUVzMkaEm2JDucIBRMoXy5wHIfhYiS4phS/XFTiXWdVeGUyD1y2F/luoJJb/GnkLqeXEc0BSLfcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Mediator.MediatR\\Mediator.MediatR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\jetbrains.annotations\\2021.1.0\\jetbrains.annotations.2021.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

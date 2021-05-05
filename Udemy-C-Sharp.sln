@@ -293,6 +293,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator.ChatRoom", "Design
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator.EventBroker", "DesignPatterns\Mediator.EventBroker\Mediator.EventBroker.csproj", "{44885A15-C1C8-4336-8D90-974759A38DAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator.MediatR", "DesignPatterns\Mediator.MediatR\Mediator.MediatR.csproj", "{49577854-89CC-47E0-AC62-6D9CC51D1A49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -783,6 +785,10 @@ Global
 		{44885A15-C1C8-4336-8D90-974759A38DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44885A15-C1C8-4336-8D90-974759A38DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44885A15-C1C8-4336-8D90-974759A38DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49577854-89CC-47E0-AC62-6D9CC51D1A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49577854-89CC-47E0-AC62-6D9CC51D1A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49577854-89CC-47E0-AC62-6D9CC51D1A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49577854-89CC-47E0-AC62-6D9CC51D1A49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -926,6 +932,7 @@ Global
 		{12717B2E-0931-48DE-BA24-15009F7E1156} = {A9519945-259D-461B-8479-6646D9C14044}
 		{23F20A0E-1485-45F1-9516-930FB85B4EA6} = {12717B2E-0931-48DE-BA24-15009F7E1156}
 		{44885A15-C1C8-4336-8D90-974759A38DAA} = {12717B2E-0931-48DE-BA24-15009F7E1156}
+		{49577854-89CC-47E0-AC62-6D9CC51D1A49} = {12717B2E-0931-48DE-BA24-15009F7E1156}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBBEABDB-C638-4F3C-91AD-24FC0CF6A3C2}
