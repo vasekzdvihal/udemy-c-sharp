@@ -4,6 +4,7 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::580AC21F-2E9E-40C5-B25C-99014685A7D2::.NETCoreApp,Version=v3.1::Intepreter.Exercise.TestSuite&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::E173F277-575B-4CA7-8E63-463E37D47DFF::.NETCoreApp,Version=v3.1::Iterator.Exercise.TestSuite&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::97C62149-051F-4DCE-922A-C231FF5B8401::.NETCoreApp,Version=v3.1::Mediator.Exercise.Coding.Exercise.Tests.TestSuite&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	
