@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -6,10 +7,11 @@ using System.Threading.Channels;
 
 namespace Playground.Linq
 {
-    public class Person
+    public class Person : IEquatable<Person>
     {
-        public int Id { get; set; }
+        public int Id { get; }
         public string Name { get; set; }
+        public double Salary { get; set; }
         public Position Position { get; set; }
         public Computer Computer { get; set; }
 
@@ -17,11 +19,12 @@ namespace Playground.Linq
         {
             
         }
-        
-        public Person(int id, string name, Position position, Computer computer)
+
+        public Person(int id, string name, double salary, Position position, Computer computer)
         {
             Id = id;
             Name = name;
+            Salary = salary;
             Position = position;
             Computer = computer;
         }
@@ -30,9 +33,10 @@ namespace Playground.Linq
         {
             var result = new List<Person>();
 
-            result.Add(new Person(1, "John", Position.Ceo, new Computer(1, "DELL", Type.Desktop, "CEO's Desktop")));
-            result.Add(new Person(2, "Jane", Position.Developer, new Computer(2, "DELL", Type.Laptop, "Jane's Laptop")));
-            result.Add(new Person(3, "Shuba", Position.Manager, new Computer(3, "Lenovo", Type.Laptop, "Shuba's Laptop")));
+            result.Add(new Person(1, "John", 10000.00, Position.Ceo, new Computer(1, "DELL", Type.Desktop, "CEO's Desktop")));
+            result.Add(new Person(2, "Jane", 15000.50, Position.Developer, new Computer(2, "DELL", Type.Laptop, "Jane's Laptop")));
+            result.Add(new Person(3, "Shuba",15525.99, Position.Manager, new Computer(3, "Lenovo", Type.Laptop, "Shuba's Laptop")));
+            result.Add(new Person(3, "Shuba",99955.00, Position.Manager, new Computer(3, "Lenovo", Type.Laptop, "Shuba's Laptop")));
             
             return result;
         }
@@ -42,16 +46,28 @@ namespace Playground.Linq
         {
             var result = new List<Person>();
 
-            result.Add(new Person(4, "Julie", Position.Coo, new Computer(6, "HP", Type.Desktop, "COO's Desktop")));
-            result.Add(new Person(5, "Alan", Position.Developer, new Computer(4, "DELL", Type.Desktop, "Alan's Laptop")));
-            result.Add(new Person(6, "Ava", Position.Manager, new Computer(2, "DELL", Type.Desktop, "Ava's Laptop")));
+            result.Add(new Person(4, "Julie", 15525.99, Position.Coo, new Computer(6, "HP", Type.Desktop, "COO's Desktop")));
+            result.Add(new Person(4, "Skylar", 134525.99, Position.Coo, new Computer(12, "", Type.Desktop, "COO's Desktop")));
+            result.Add(new Person(5, "Alan", 14325525.99, Position.Developer, new Computer(4, "DELL", Type.Desktop, "Alan's Laptop")));
+            result.Add(new Person(6, "Ava", 1554425.99, Position.Manager, new Computer(2, "DELL", Type.Desktop, "Ava's Laptop")));
             
             return result;
         }
-        
+
+        public bool Equals(Person other)
+        {
+            return this.Id == other?.Id;
+        }
+
+        public override int GetHashCode()
+        {
+            var hashId = Id.GetHashCode();
+            return hashId;
+        }
+
         public override string ToString()
         {
-            return $"{nameof(Id)}: {Id}, {nameof(Name)}: {Name}, {nameof(Position)}: {Position}, {nameof(Computer)}: {Computer}";
+            return $"{nameof(Id)}: {Id}, {nameof(Name)}: {Name}, {nameof(Salary)}: {Salary}, {nameof(Position)}: {Position}, {nameof(Computer)}: {Computer}";
         }
     }
 
@@ -86,37 +102,87 @@ namespace Playground.Linq
             var first = new Person().PopulatePersonsFirstList();
             var second = new Person().PopulatePersonsSecondList();
             
+            var all = new List<Person>();
+            all.AddRange(first);
+            all.AddRange(second);
+            
             Console.WriteLine("Populated Lists");
             ShowResult(first, "First");
             ShowResult(second, "Second");
+            ShowResult(all, "ALL");
             
             // Union
             var union = first.Union(second);
             ShowResult(union, "Union");
             
             // Select just Laptops
-            var laptops = union.Where(x => x.Computer.Type == Type.Laptop).ToList();
+            var laptops = all.Where(x => x.Computer.Type == Type.Laptop).ToList();
             ShowResult(laptops, "Select just Laptops (Where)");
             
             // Select just names
-            var names = union.Select(x => x.Name);
+            var names = all.Select(x => x.Name);
             ShowResult(names, "Just names");
             
             // Select just Computer object
-            var computers = union.Select(x => x.Computer);
+            var computers = all.Select(x => x.Computer);
             ShowResult(computers, "Select just computer objects");
             
             // Group by positons
-            var groupByPosition = union.GroupBy(x => x.Position).ToList();
-            foreach(var group in groupByPosition) 
-                ShowResult(group, $"Group with position {group.FirstOrDefault()?.Position}");
+            var groupByPosition = all.GroupBy(x => x.Position).ToList();
+            ShowResultGroups(groupByPosition);
+                
+            // Distinct 
+            var distinctPersons = all.Distinct();
+            ShowResult(distinctPersons, "Distinct Persons");
+            
+            // Average 
+            var averageSalary = all.Average(x => x.Salary);
+            ShowResult(averageSalary, "Average Salary");
         }
 
-        private static void ShowResult<T>(IEnumerable<T> list, string action = "") 
+        private static void ShowResultGroups(List<IGrouping<Position, Person>> groups, string groupName = "")
         {
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine(groupName);
+            Console.ForegroundColor = ConsoleColor.White;
+            
+            foreach(var group in groups)
+            {
+                Console.ForegroundColor = ConsoleColor.DarkMagenta;
+                Console.WriteLine(group.FirstOrDefault()?.Position);
+                Console.ForegroundColor = ConsoleColor.White;
+                foreach (var l in group)
+                {
+                    Console.WriteLine(l);
+                }
+            }
+
+            Console.WriteLine();
+            Console.WriteLine();
+        }
+        
+        private static void ShowResult<T>(IEnumerable<T> list, string action = "")
+        {
+            Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine(action);
+            Console.ForegroundColor = ConsoleColor.White;
             foreach (var l in list)
                 Console.WriteLine(l);
+            
+            Console.WriteLine();
+            Console.WriteLine();
+        }
+
+        private static void ShowResult<T>(T result, string action = "")
+        {
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine(action);
+            Console.ForegroundColor = ConsoleColor.White;
+            
+            Console.WriteLine(result);
+            
+            Console.WriteLine();
+            Console.WriteLine();
         }
     }
 }
