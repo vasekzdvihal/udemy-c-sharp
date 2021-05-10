@@ -1,0 +1,13 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.Memento\bin\Debug\netcoreapp3.1\Behavioral.Memento.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.Memento\bin\Debug\netcoreapp3.1\Behavioral.Memento.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.Memento\bin\Debug\netcoreapp3.1\Behavioral.Memento.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.Memento\bin\Debug\netcoreapp3.1\Behavioral.Memento.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.Memento\bin\Debug\netcoreapp3.1\Behavioral.Memento.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.Memento\bin\Debug\netcoreapp3.1\Behavioral.Memento.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.Memento\obj\Debug\netcoreapp3.1\Behavioral.Memento.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.Memento\obj\Debug\netcoreapp3.1\Behavioral.Memento.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.Memento\obj\Debug\netcoreapp3.1\Behavioral.Memento.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.Memento\obj\Debug\netcoreapp3.1\Behavioral.Memento.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.Memento\obj\Debug\netcoreapp3.1\Behavioral.Memento.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.Memento\obj\Debug\netcoreapp3.1\Behavioral.Memento.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.Memento\obj\Debug\netcoreapp3.1\Behavioral.Memento.genruntimeconfig.cache

@@ -138,6 +138,8 @@ namespace Playground.Linq
             // Average 
             var averageSalary = all.Average(x => x.Salary);
             ShowResult(averageSalary, "Average Salary");
+            
+            
         }
 
         private static void ShowResultGroups(List<IGrouping<Position, Person>> groups, string groupName = "")

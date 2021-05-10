@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nMCf1NO7L7dRcbTGhEIzgYfTjydgu+c/jGsWgHSX5KvPTKgpltJU4Ln86zP0jpEMGhTUs4y6+sKN8ew32wa/5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Behavioral.Memento\\Memento.UndoAndRedo\\Memento.UndoAndRedo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
