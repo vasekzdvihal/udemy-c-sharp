@@ -1,0 +1,16 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\NullObject\bin\Debug\netcoreapp3.1\NullObject.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\NullObject\bin\Debug\netcoreapp3.1\NullObject.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\NullObject\bin\Debug\netcoreapp3.1\NullObject.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\NullObject\bin\Debug\netcoreapp3.1\NullObject.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\NullObject\bin\Debug\netcoreapp3.1\NullObject.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\NullObject\bin\Debug\netcoreapp3.1\NullObject.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\NullObject\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\NullObject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\NullObject\obj\Debug\netcoreapp3.1\NullObject.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\NullObject\obj\Debug\netcoreapp3.1\NullObject.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\NullObject\obj\Debug\netcoreapp3.1\NullObject.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\NullObject\obj\Debug\netcoreapp3.1\NullObject.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\NullObject\obj\Debug\netcoreapp3.1\NullObject.csproj.CopyComplete
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\NullObject\obj\Debug\netcoreapp3.1\NullObject.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\NullObject\obj\Debug\netcoreapp3.1\NullObject.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\NullObject\obj\Debug\netcoreapp3.1\NullObject.genruntimeconfig.cache
