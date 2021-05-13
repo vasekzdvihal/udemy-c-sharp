@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "rwK407e1gAqwlkmreD4s8vfFyOg8wY/Xe7YZpzWy6Ql0GI8ABoGFB8bgCEeOALsEsxSITMgK7UcU4BoS+6C71Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Observer.WeakEvent\\Observer.WeakEvent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\windowsbase_core.stw\\4.0.30319.1\\windowsbase_core.stw.4.0.30319.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WindowsBase_Core.STW 4.0.30319.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WindowsBase_Core.STW",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

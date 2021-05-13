@@ -323,6 +323,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral.Observer", "Beha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.EventKeyword", "DesignPatterns\Observer.EventKeyword\Observer.EventKeyword.csproj", "{C5A0C1E8-5673-4BAB-8D26-60AE443D3609}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.Weak", "DesignPatterns\Observer.Weak\Observer.Weak.csproj", "{DA084489-7D41-4F2E-B327-D1E5647FE4C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -857,6 +859,10 @@ Global
 		{C5A0C1E8-5673-4BAB-8D26-60AE443D3609}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5A0C1E8-5673-4BAB-8D26-60AE443D3609}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5A0C1E8-5673-4BAB-8D26-60AE443D3609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA084489-7D41-4F2E-B327-D1E5647FE4C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA084489-7D41-4F2E-B327-D1E5647FE4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA084489-7D41-4F2E-B327-D1E5647FE4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA084489-7D41-4F2E-B327-D1E5647FE4C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1014,6 +1020,7 @@ Global
 		{258A8A5E-B4D3-4228-B9CC-1187D104701A} = {7150746B-98AC-434C-8F61-1989AB30BC26}
 		{5E0E0A88-27A1-4304-B22D-85D833B4214C} = {A9519945-259D-461B-8479-6646D9C14044}
 		{C5A0C1E8-5673-4BAB-8D26-60AE443D3609} = {5E0E0A88-27A1-4304-B22D-85D833B4214C}
+		{DA084489-7D41-4F2E-B327-D1E5647FE4C2} = {5E0E0A88-27A1-4304-B22D-85D833B4214C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBBEABDB-C638-4F3C-91AD-24FC0CF6A3C2}
