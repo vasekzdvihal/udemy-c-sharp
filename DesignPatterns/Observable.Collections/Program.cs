@@ -7,7 +7,7 @@ using Observable.Collections.Annotations;
 
 namespace Observable.Collections
 {
-    public class Market
+    public class Market // observable
     {
         public BindingList<float> Prices = new BindingList<float>();
 
@@ -18,7 +18,7 @@ namespace Observable.Collections
         
     }
     
-    static class Program
+    static class Program // observer
     {
         public static void Main(string[] args)
         {
