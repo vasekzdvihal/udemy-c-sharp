@@ -327,6 +327,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.Weak", "DesignPatt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.SpecialInterfaces", "DesignPatterns\Observer.SpecialInterfaces\Observer.SpecialInterfaces.csproj", "{F6E54F44-3214-433C-B944-C1A77BD5722C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observable.Collections", "DesignPatterns\Observable.Collections\Observable.Collections.csproj", "{4B8B0B00-F0C0-4668-AD82-AB00CB084BBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -869,6 +871,10 @@ Global
 		{F6E54F44-3214-433C-B944-C1A77BD5722C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6E54F44-3214-433C-B944-C1A77BD5722C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6E54F44-3214-433C-B944-C1A77BD5722C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8B0B00-F0C0-4668-AD82-AB00CB084BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8B0B00-F0C0-4668-AD82-AB00CB084BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8B0B00-F0C0-4668-AD82-AB00CB084BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8B0B00-F0C0-4668-AD82-AB00CB084BBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1028,6 +1034,7 @@ Global
 		{C5A0C1E8-5673-4BAB-8D26-60AE443D3609} = {5E0E0A88-27A1-4304-B22D-85D833B4214C}
 		{DA084489-7D41-4F2E-B327-D1E5647FE4C2} = {5E0E0A88-27A1-4304-B22D-85D833B4214C}
 		{F6E54F44-3214-433C-B944-C1A77BD5722C} = {5E0E0A88-27A1-4304-B22D-85D833B4214C}
+		{4B8B0B00-F0C0-4668-AD82-AB00CB084BBD} = {5E0E0A88-27A1-4304-B22D-85D833B4214C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBBEABDB-C638-4F3C-91AD-24FC0CF6A3C2}
