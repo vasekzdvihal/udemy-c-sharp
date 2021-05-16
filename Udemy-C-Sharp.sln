@@ -327,11 +327,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.Weak", "DesignPatt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.SpecialInterfaces", "DesignPatterns\Observer.SpecialInterfaces\Observer.SpecialInterfaces.csproj", "{F6E54F44-3214-433C-B944-C1A77BD5722C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observable.Collections", "DesignPatterns\Observable.Collections\Observable.Collections.csproj", "{4B8B0B00-F0C0-4668-AD82-AB00CB084BBD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.Collections", "DesignPatterns\Observer.Collections\Observer.Collections.csproj", "{4B8B0B00-F0C0-4668-AD82-AB00CB084BBD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.Bidirectional", "DesignPatterns\Observer.Bidirectional\Observer.Bidirectional.csproj", "{A3CADBDE-2EB9-475E-84EF-465793D9A5B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observable.PropertyDependencies", "DesignPatterns\Observable.PropertyDependencies\Observable.PropertyDependencies.csproj", "{5D23FA4C-9080-4225-A307-CEE501EFD059}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.PropertyDependencies", "DesignPatterns\Observer.PropertyDependencies\Observer.PropertyDependencies.csproj", "{5D23FA4C-9080-4225-A307-CEE501EFD059}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.EventSubscriptionsWithInterfaces", "DesignPatterns\Observer.EventSubscriptionsWithInterfaces\Observer.EventSubscriptionsWithInterfaces.csproj", "{BEFC192F-5A6D-4A09-AC54-83CD03831911}"
 EndProject

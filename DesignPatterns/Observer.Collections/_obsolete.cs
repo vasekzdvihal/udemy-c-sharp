@@ -1,9 +1,9 @@
 ﻿// using System;
 // using System.ComponentModel;
 // using System.Runtime.CompilerServices;
-// using Observable.Collections.Annotations;
+// using Observer.Collections.Annotations;
 //
-// namespace Observable.Collections
+// namespace Observer.Collections
 // {
 //     public class Market : INotifyPropertyChanged
 //     {
