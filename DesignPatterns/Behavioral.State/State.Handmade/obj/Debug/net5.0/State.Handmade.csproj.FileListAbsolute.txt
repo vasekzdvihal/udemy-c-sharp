@@ -1,0 +1,16 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Handmade\bin\Debug\net5.0\State.Handmade.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Handmade\bin\Debug\net5.0\State.Handmade.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Handmade\bin\Debug\net5.0\State.Handmade.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Handmade\bin\Debug\net5.0\State.Handmade.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Handmade\bin\Debug\net5.0\State.Handmade.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Handmade\bin\Debug\net5.0\ref\State.Handmade.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Handmade\bin\Debug\net5.0\State.Handmade.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Handmade\obj\Debug\net5.0\State.Handmade.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Handmade\obj\Debug\net5.0\State.Handmade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Handmade\obj\Debug\net5.0\State.Handmade.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Handmade\obj\Debug\net5.0\State.Handmade.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Handmade\obj\Debug\net5.0\State.Handmade.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Handmade\obj\Debug\net5.0\State.Handmade.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Handmade\obj\Debug\net5.0\ref\State.Handmade.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Handmade\obj\Debug\net5.0\State.Handmade.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Handmade\obj\Debug\net5.0\State.Handmade.genruntimeconfig.cache
