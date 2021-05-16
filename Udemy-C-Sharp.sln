@@ -349,6 +349,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State.SwitchExpression", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State.WithStateless", "DesignPatterns\Behavioral.State\State.WithStateless\State.WithStateless.csproj", "{F32A8E77-7F4D-44A9-8481-71F0C584FB25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State.Exercise", "DesignPatterns\Behavioral.State\State.Exercise\State.Exercise.csproj", "{90069CEA-1ADA-4943-ABA2-BED666E4349C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -931,6 +933,10 @@ Global
 		{F32A8E77-7F4D-44A9-8481-71F0C584FB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F32A8E77-7F4D-44A9-8481-71F0C584FB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F32A8E77-7F4D-44A9-8481-71F0C584FB25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90069CEA-1ADA-4943-ABA2-BED666E4349C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90069CEA-1ADA-4943-ABA2-BED666E4349C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90069CEA-1ADA-4943-ABA2-BED666E4349C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90069CEA-1ADA-4943-ABA2-BED666E4349C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1101,6 +1107,7 @@ Global
 		{266B7571-DDF9-4EB9-B4BB-D16F7C9B5D40} = {FB17D91B-5DE1-4D34-978B-845CDC201297}
 		{809D9825-A39E-4033-B62A-B8AA9BA3AB05} = {FB17D91B-5DE1-4D34-978B-845CDC201297}
 		{F32A8E77-7F4D-44A9-8481-71F0C584FB25} = {FB17D91B-5DE1-4D34-978B-845CDC201297}
+		{90069CEA-1ADA-4943-ABA2-BED666E4349C} = {FB17D91B-5DE1-4D34-978B-845CDC201297}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBBEABDB-C638-4F3C-91AD-24FC0CF6A3C2}
