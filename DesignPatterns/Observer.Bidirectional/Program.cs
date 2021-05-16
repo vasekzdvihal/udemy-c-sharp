@@ -104,8 +104,8 @@ namespace Observer.Bidirectional
     {
         public static void Main(string[] args)
         {
-            var product = new Product{Name = "Book"};
-            var window = new Window{ ProductName = "Book"};
+            var product = new Product{ Name = "Book" };
+            var window = new Window{ ProductName = "Book" };
 
             // product.PropertyChanged += (sender, eventArgs) =>
             // {
