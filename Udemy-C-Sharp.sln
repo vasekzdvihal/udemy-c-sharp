@@ -357,6 +357,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stategy.Dynamic", "DesignPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.Static", "DesignPatterns\Strategy.Static\Strategy.Static.csproj", "{B6E56CB3-130F-4383-94BF-4D011D574966}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.EqualityAndComparsion", "DesignPatterns\Strategy.EqualityAndComparsion\Strategy.EqualityAndComparsion.csproj", "{080D4B60-2644-4377-A6EB-D2FCCECB71A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -951,6 +953,10 @@ Global
 		{B6E56CB3-130F-4383-94BF-4D011D574966}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6E56CB3-130F-4383-94BF-4D011D574966}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6E56CB3-130F-4383-94BF-4D011D574966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{080D4B60-2644-4377-A6EB-D2FCCECB71A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080D4B60-2644-4377-A6EB-D2FCCECB71A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080D4B60-2644-4377-A6EB-D2FCCECB71A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080D4B60-2644-4377-A6EB-D2FCCECB71A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1125,6 +1131,7 @@ Global
 		{61735BF4-C7A3-423B-9908-F79E38224E97} = {A9519945-259D-461B-8479-6646D9C14044}
 		{3C4A2A86-8444-4C38-B1E1-875E8D3ED8B9} = {61735BF4-C7A3-423B-9908-F79E38224E97}
 		{B6E56CB3-130F-4383-94BF-4D011D574966} = {61735BF4-C7A3-423B-9908-F79E38224E97}
+		{080D4B60-2644-4377-A6EB-D2FCCECB71A2} = {61735BF4-C7A3-423B-9908-F79E38224E97}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBBEABDB-C638-4F3C-91AD-24FC0CF6A3C2}
