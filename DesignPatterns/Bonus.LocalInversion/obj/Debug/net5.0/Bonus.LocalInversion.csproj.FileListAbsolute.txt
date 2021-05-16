@@ -1,0 +1,5 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Bonus.LocalInversion\obj\Debug\net5.0\Bonus.LocalInversion.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Bonus.LocalInversion\obj\Debug\net5.0\Bonus.LocalInversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Bonus.LocalInversion\obj\Debug\net5.0\Bonus.LocalInversion.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Bonus.LocalInversion\obj\Debug\net5.0\Bonus.LocalInversion.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Bonus.LocalInversion\obj\Debug\net5.0\Bonus.LocalInversion.csproj.CoreCompileInputs.cache
