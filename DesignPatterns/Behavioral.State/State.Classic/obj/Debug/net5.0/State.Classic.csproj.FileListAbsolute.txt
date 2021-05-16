@@ -1,0 +1,16 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Classic\bin\Debug\net5.0\State.Classic.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Classic\bin\Debug\net5.0\State.Classic.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Classic\bin\Debug\net5.0\State.Classic.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Classic\bin\Debug\net5.0\State.Classic.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Classic\bin\Debug\net5.0\State.Classic.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Classic\bin\Debug\net5.0\ref\State.Classic.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Classic\bin\Debug\net5.0\State.Classic.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Classic\obj\Debug\net5.0\State.Classic.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Classic\obj\Debug\net5.0\State.Classic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Classic\obj\Debug\net5.0\State.Classic.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Classic\obj\Debug\net5.0\State.Classic.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Classic\obj\Debug\net5.0\State.Classic.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Classic\obj\Debug\net5.0\State.Classic.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Classic\obj\Debug\net5.0\ref\State.Classic.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Classic\obj\Debug\net5.0\State.Classic.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Behavioral.State\State.Classic\obj\Debug\net5.0\State.Classic.genruntimeconfig.cache
