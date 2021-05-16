@@ -351,6 +351,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State.WithStateless", "Desi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State.Exercise", "DesignPatterns\Behavioral.State\State.Exercise\State.Exercise.csproj", "{90069CEA-1ADA-4943-ABA2-BED666E4349C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral.Strategy", "Behavioral.Strategy", "{61735BF4-C7A3-423B-9908-F79E38224E97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stategy.Dynamic", "DesignPatterns\Stategy.Dynamic\Stategy.Dynamic.csproj", "{3C4A2A86-8444-4C38-B1E1-875E8D3ED8B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -937,6 +941,10 @@ Global
 		{90069CEA-1ADA-4943-ABA2-BED666E4349C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90069CEA-1ADA-4943-ABA2-BED666E4349C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90069CEA-1ADA-4943-ABA2-BED666E4349C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C4A2A86-8444-4C38-B1E1-875E8D3ED8B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4A2A86-8444-4C38-B1E1-875E8D3ED8B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4A2A86-8444-4C38-B1E1-875E8D3ED8B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4A2A86-8444-4C38-B1E1-875E8D3ED8B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1108,6 +1116,8 @@ Global
 		{809D9825-A39E-4033-B62A-B8AA9BA3AB05} = {FB17D91B-5DE1-4D34-978B-845CDC201297}
 		{F32A8E77-7F4D-44A9-8481-71F0C584FB25} = {FB17D91B-5DE1-4D34-978B-845CDC201297}
 		{90069CEA-1ADA-4943-ABA2-BED666E4349C} = {FB17D91B-5DE1-4D34-978B-845CDC201297}
+		{61735BF4-C7A3-423B-9908-F79E38224E97} = {A9519945-259D-461B-8479-6646D9C14044}
+		{3C4A2A86-8444-4C38-B1E1-875E8D3ED8B9} = {61735BF4-C7A3-423B-9908-F79E38224E97}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBBEABDB-C638-4F3C-91AD-24FC0CF6A3C2}
