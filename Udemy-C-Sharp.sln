@@ -335,6 +335,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observable.PropertyDependen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.EventSubscriptionsWithInterfaces", "DesignPatterns\Observer.EventSubscriptionsWithInterfaces\Observer.EventSubscriptionsWithInterfaces.csproj", "{BEFC192F-5A6D-4A09-AC54-83CD03831911}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.Exercise", "DesignPatterns\Observer.Exercise\Observer.Exercise.csproj", "{1CEFD93C-61D6-402C-ACCA-B3E678806B46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -893,6 +895,10 @@ Global
 		{BEFC192F-5A6D-4A09-AC54-83CD03831911}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEFC192F-5A6D-4A09-AC54-83CD03831911}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEFC192F-5A6D-4A09-AC54-83CD03831911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CEFD93C-61D6-402C-ACCA-B3E678806B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CEFD93C-61D6-402C-ACCA-B3E678806B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CEFD93C-61D6-402C-ACCA-B3E678806B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CEFD93C-61D6-402C-ACCA-B3E678806B46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1056,6 +1062,7 @@ Global
 		{A3CADBDE-2EB9-475E-84EF-465793D9A5B0} = {5E0E0A88-27A1-4304-B22D-85D833B4214C}
 		{5D23FA4C-9080-4225-A307-CEE501EFD059} = {5E0E0A88-27A1-4304-B22D-85D833B4214C}
 		{BEFC192F-5A6D-4A09-AC54-83CD03831911} = {5E0E0A88-27A1-4304-B22D-85D833B4214C}
+		{1CEFD93C-61D6-402C-ACCA-B3E678806B46} = {5E0E0A88-27A1-4304-B22D-85D833B4214C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBBEABDB-C638-4F3C-91AD-24FC0CF6A3C2}
