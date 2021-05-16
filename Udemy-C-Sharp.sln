@@ -389,6 +389,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonus.AsciiString", "Design
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonus.LocalInversion", "DesignPatterns\Bonus.LocalInversion\Bonus.LocalInversion.csproj", "{D1FCB67D-E4F2-4272-A5BA-1E460E07188A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonus.BeyondElvisOperator", "DesignPatterns\Bonus.BeyondElvisOperator\Bonus.BeyondElvisOperator.csproj", "{E7260E19-1B38-4920-8A2B-99964E000518}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1035,6 +1037,10 @@ Global
 		{D1FCB67D-E4F2-4272-A5BA-1E460E07188A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1FCB67D-E4F2-4272-A5BA-1E460E07188A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1FCB67D-E4F2-4272-A5BA-1E460E07188A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7260E19-1B38-4920-8A2B-99964E000518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7260E19-1B38-4920-8A2B-99964E000518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7260E19-1B38-4920-8A2B-99964E000518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7260E19-1B38-4920-8A2B-99964E000518}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1225,6 +1231,7 @@ Global
 		{EFBCADB5-3A1F-4AFA-BE17-8187D3DE3352} = {A9519945-259D-461B-8479-6646D9C14044}
 		{E87AE9CA-DBF1-4A2D-82D5-AF9954B6A02B} = {EFBCADB5-3A1F-4AFA-BE17-8187D3DE3352}
 		{D1FCB67D-E4F2-4272-A5BA-1E460E07188A} = {EFBCADB5-3A1F-4AFA-BE17-8187D3DE3352}
+		{E7260E19-1B38-4920-8A2B-99964E000518} = {EFBCADB5-3A1F-4AFA-BE17-8187D3DE3352}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBBEABDB-C638-4F3C-91AD-24FC0CF6A3C2}
