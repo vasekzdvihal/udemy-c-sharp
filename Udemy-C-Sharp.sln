@@ -383,6 +383,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor.Acyclic", "DesignPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor.Exercise", "DesignPatterns\Visitor.Exercise\Visitor.Exercise.csproj", "{D4D14CC8-777B-4B45-A49C-DEBDCC0DBB89}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Bonus", "_Bonus", "{EFBCADB5-3A1F-4AFA-BE17-8187D3DE3352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonus.AsciiString", "DesignPatterns\Bonus.AsciiString\Bonus.AsciiString.csproj", "{E87AE9CA-DBF1-4A2D-82D5-AF9954B6A02B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1021,6 +1025,10 @@ Global
 		{D4D14CC8-777B-4B45-A49C-DEBDCC0DBB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4D14CC8-777B-4B45-A49C-DEBDCC0DBB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4D14CC8-777B-4B45-A49C-DEBDCC0DBB89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E87AE9CA-DBF1-4A2D-82D5-AF9954B6A02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E87AE9CA-DBF1-4A2D-82D5-AF9954B6A02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E87AE9CA-DBF1-4A2D-82D5-AF9954B6A02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E87AE9CA-DBF1-4A2D-82D5-AF9954B6A02B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1208,6 +1216,8 @@ Global
 		{B6513391-7D54-4858-88CF-EEDCE99AEC07} = {EAD01923-4524-4BF0-A4F6-0874C8F86706}
 		{51623E62-D8BE-4722-BE6B-AE0A86289CD4} = {EAD01923-4524-4BF0-A4F6-0874C8F86706}
 		{D4D14CC8-777B-4B45-A49C-DEBDCC0DBB89} = {EAD01923-4524-4BF0-A4F6-0874C8F86706}
+		{EFBCADB5-3A1F-4AFA-BE17-8187D3DE3352} = {A9519945-259D-461B-8479-6646D9C14044}
+		{E87AE9CA-DBF1-4A2D-82D5-AF9954B6A02B} = {EFBCADB5-3A1F-4AFA-BE17-8187D3DE3352}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBBEABDB-C638-4F3C-91AD-24FC0CF6A3C2}
