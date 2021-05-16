@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "UEk4KLeJjSOt7dkFeABl0H/3UbQDaqd4HLlzPn4/tJujEnWvJKkrrIKAr7fYSbtb9mqs66k8RfRwbop9C10nsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Behavioral.State\\State.WithStateless\\State.WithStateless.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\stateless-4.0\\2.3.1.1\\stateless-4.0.2.3.1.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'stateless-4.0 2.3.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "stateless-4.0",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
