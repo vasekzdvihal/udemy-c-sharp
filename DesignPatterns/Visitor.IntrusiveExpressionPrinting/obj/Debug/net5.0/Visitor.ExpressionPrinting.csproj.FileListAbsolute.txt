@@ -1,0 +1,16 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.ExpressionPrinting\bin\Debug\net5.0\Visitor.ExpressionPrinting.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.ExpressionPrinting\bin\Debug\net5.0\Visitor.ExpressionPrinting.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.ExpressionPrinting\bin\Debug\net5.0\Visitor.ExpressionPrinting.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.ExpressionPrinting\bin\Debug\net5.0\Visitor.ExpressionPrinting.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.ExpressionPrinting\bin\Debug\net5.0\Visitor.ExpressionPrinting.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.ExpressionPrinting\bin\Debug\net5.0\ref\Visitor.ExpressionPrinting.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.ExpressionPrinting\bin\Debug\net5.0\Visitor.ExpressionPrinting.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.ExpressionPrinting\obj\Debug\net5.0\Visitor.ExpressionPrinting.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.ExpressionPrinting\obj\Debug\net5.0\Visitor.ExpressionPrinting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.ExpressionPrinting\obj\Debug\net5.0\Visitor.ExpressionPrinting.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.ExpressionPrinting\obj\Debug\net5.0\Visitor.ExpressionPrinting.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.ExpressionPrinting\obj\Debug\net5.0\Visitor.ExpressionPrinting.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.ExpressionPrinting\obj\Debug\net5.0\Visitor.ExpressionPrinting.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.ExpressionPrinting\obj\Debug\net5.0\ref\Visitor.ExpressionPrinting.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.ExpressionPrinting\obj\Debug\net5.0\Visitor.ExpressionPrinting.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.ExpressionPrinting\obj\Debug\net5.0\Visitor.ExpressionPrinting.genruntimeconfig.cache
