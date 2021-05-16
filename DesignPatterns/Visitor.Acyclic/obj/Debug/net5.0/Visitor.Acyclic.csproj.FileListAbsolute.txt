@@ -1,0 +1,16 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.Acyclic\bin\Debug\net5.0\Visitor.Acyclic.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.Acyclic\bin\Debug\net5.0\Visitor.Acyclic.deps.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.Acyclic\bin\Debug\net5.0\Visitor.Acyclic.runtimeconfig.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.Acyclic\bin\Debug\net5.0\Visitor.Acyclic.runtimeconfig.dev.json
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.Acyclic\bin\Debug\net5.0\Visitor.Acyclic.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.Acyclic\bin\Debug\net5.0\ref\Visitor.Acyclic.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.Acyclic\bin\Debug\net5.0\Visitor.Acyclic.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.Acyclic\obj\Debug\net5.0\Visitor.Acyclic.csprojAssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.Acyclic\obj\Debug\net5.0\Visitor.Acyclic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.Acyclic\obj\Debug\net5.0\Visitor.Acyclic.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.Acyclic\obj\Debug\net5.0\Visitor.Acyclic.AssemblyInfo.cs
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.Acyclic\obj\Debug\net5.0\Visitor.Acyclic.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.Acyclic\obj\Debug\net5.0\Visitor.Acyclic.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.Acyclic\obj\Debug\net5.0\ref\Visitor.Acyclic.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.Acyclic\obj\Debug\net5.0\Visitor.Acyclic.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Visitor.Acyclic\obj\Debug\net5.0\Visitor.Acyclic.genruntimeconfig.cache
