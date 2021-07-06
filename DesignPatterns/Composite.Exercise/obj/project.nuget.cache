@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vb061lTp6ZZcv6KuGM6QhIqrcyzM31s/7bD29BTDPqoEiHG+Qby66Dipy2BA/nU5R2tuo6PwUANpFFvScysJEA==",
+  "dgSpecHash": "KlKrwOFV0ZVBrQd2ijX4KHJPTaMfaB1q7rkKRXdewW5mwhUUQEFrU5hp1ruwBEPPXKNaP2wERf8cN1TfcofODQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Composite.Exercise\\Composite.Exercise.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

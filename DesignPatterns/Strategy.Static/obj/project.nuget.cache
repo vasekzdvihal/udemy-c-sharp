@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tNdL8O2I0s0KGsehAlkLgkMhb/E6OjBF8kUf2D2Qoq6K3NEVhWrGXdyGJUdVJQB1Z1zTG7ukbvhbyh9OHAmj1Q==",
+  "dgSpecHash": "BjIDUT7ZS9T2qvJ0StY+9e/kH0s//lHTDKUxlt1Ukr4LoKyETzKBd8ikDzgp1kauPJ9TQ+Zpo/+L7sUJogphkQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Strategy.Static\\Strategy.Static.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

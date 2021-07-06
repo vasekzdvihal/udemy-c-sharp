@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "q76HNVth6mMe2niTb6UdsLQ5lksCum6UdllqZaIirlslWz1+0e+DXdTl7QJToXAoI6AqHiy+xwoFUCuj55A8MA==",
+  "dgSpecHash": "rLdNB9IwSMR22R7trkFNofi/rrpP2vVFqSa/vXJ5l6GOVt9NpIexLSefTfsXzc8PRDcYjQJOB9eIDJXBz+IDpQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Decorator.MultupleInheritenceDefaultMembers\\Decorator.MultupleInheritenceDefaultMembers.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

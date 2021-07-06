@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "F2aPeVsv+tRFsQU8uW7blQbXGrhqNcV9c/ueLx9AfEBK8aDnOPzBm+S5lW7YVZ9mGfO+hlnq/Pt/Jw6bvX7dDQ==",
+  "dgSpecHash": "opAl0IGpO+egcYmcqQrACBDaduIaYVSFhaO8PgcDUb4LzCmKd5nUeWfyezZwjhtWMUdLGmM2YGmqgcyAGHfwdA==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Bonus.LocalInversion\\Bonus.LocalInversion.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

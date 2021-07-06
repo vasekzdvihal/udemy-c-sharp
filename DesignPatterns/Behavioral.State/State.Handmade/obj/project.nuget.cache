@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tZH4QxKkESDk+7we5yvpuHx+D4NPc6r+5ixNgx1CKpJpydFxFeAycSFFhUvXDvxmw34Y20jsgARZGZTGN/QQXA==",
+  "dgSpecHash": "iPCJKdTfRFdDC469zfwhyu6ef4YtqM+l+Qiz4tKlglvDuriXtX7MrbuFw+n6g5M+b1W9ypz+BJJL7jwi3h+vgw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Behavioral.State\\State.Handmade\\State.Handmade.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xd701FZh1cORV+Z3Phnm4PTS8D6HnQN8bmkKAc1l9AaALu0k58Co01hNx07+xzwyYZYEt5ZZXFoth/reLIe0/w==",
+  "dgSpecHash": "m9hKKQT5ap/ZptS1XPiFp/BHHSkYlPSxt7IvoWvz81JSjpLZ2MQI1nWDWueyhNhD1Cxi2FN73/XgFao7ELceSw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Adapter\\Adapter\\Adapter.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
   ],
   "logs": []
 }

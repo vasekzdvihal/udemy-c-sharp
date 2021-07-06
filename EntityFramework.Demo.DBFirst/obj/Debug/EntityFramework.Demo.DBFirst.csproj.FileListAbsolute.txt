@@ -1,0 +1,12 @@
+C:\Users\zdvih\source\repos\udemy-c-sharp\EntityFramework.Demo.DBFirst\bin\Debug\EntityFramework.Demo.DBFirst.exe.config
+C:\Users\zdvih\source\repos\udemy-c-sharp\EntityFramework.Demo.DBFirst\bin\Debug\EntityFramework.Demo.DBFirst.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\EntityFramework.Demo.DBFirst\bin\Debug\EntityFramework.Demo.DBFirst.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\EntityFramework.Demo.DBFirst\bin\Debug\EntityFramework.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\EntityFramework.Demo.DBFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zdvih\source\repos\udemy-c-sharp\EntityFramework.Demo.DBFirst\bin\Debug\EntityFramework.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\EntityFramework.Demo.DBFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zdvih\source\repos\udemy-c-sharp\EntityFramework.Demo.DBFirst\obj\Debug\EntityFramework.Demo.DBFirst.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\EntityFramework.Demo.DBFirst\obj\Debug\EntityFramework.Demo.DBFirst.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\repos\udemy-c-sharp\EntityFramework.Demo.DBFirst\obj\Debug\EntityFramework.Demo.DBFirst.csproj.CopyComplete
+C:\Users\zdvih\source\repos\udemy-c-sharp\EntityFramework.Demo.DBFirst\obj\Debug\EntityFramework.Demo.DBFirst.exe
+C:\Users\zdvih\source\repos\udemy-c-sharp\EntityFramework.Demo.DBFirst\obj\Debug\EntityFramework.Demo.DBFirst.pdb

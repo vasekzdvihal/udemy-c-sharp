@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uBLBnYkQn7zBenuZ6vMmoDMDozYOt3hpBKl3kp4geUkOSFgAy+RLOCkGS8KZGZmCzwDbe2HjTkwvZjYcm0QsBA==",
+  "dgSpecHash": "uepJgUKQ24yvMSqw4tnLW8Qv2cqGpTxgzNY2aVWVtzZDJLyoANB5Cx8wxilg2X3a+A987BibB7nyscyRqFI1hg==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Visitor.IntrusiveExpressionPrinting\\Visitor.IntrusiveExpressionPrinting.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

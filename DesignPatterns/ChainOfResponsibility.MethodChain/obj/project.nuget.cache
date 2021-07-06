@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "fGAB9e5rM7482dZZMNvfb12+5UOZ8yA5WZ2LnZqljGwfQsqjmqeceODcnXJRHrX7BpA8i+c+cV+HbIxn/9OqPA==",
+  "dgSpecHash": "AneDqFVDD4Andnlb2Yg1PdueNYXnYM6IYBjEljY4mF9isfvPHHZefk3IB7PEIcb3BNcgv/lDQT18aEXNXNND9g==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\ChainOfResponsibility.MethodChain\\ChainOfResponsibility.MethodChain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

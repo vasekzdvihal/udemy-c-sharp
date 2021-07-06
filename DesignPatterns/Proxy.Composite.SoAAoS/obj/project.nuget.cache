@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "vmVfru/7+PfZ9almydLtXi2xH1vJnViuLNRi2ezSIhH6dt7miOwQeZTkvr9ILvrRGMoTC+G3T+lOjOofj2fRLQ==",
+  "dgSpecHash": "FGPSis54sH+6DvW27xVi05ymDoJYi0OCaiVh11dlniZbr7JhE+c0W3xGROqnK63yD1AyV4DIGF8wPz7rr8qYEQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Proxy.Composite.SoAAoS\\Proxy.Composite.SoAAoS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

@@ -18,7 +18,6 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirs
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\bin\Debug\EntityFramework.xml
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\obj\Debug\CodeFirstExistingDb.csprojAssemblyReference.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\obj\Debug\CodeFirstExistingDb.Migrations.InitialModel.resources
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\obj\Debug\CodeFirstExistingDb.Migrations.AddNumberOfDownloadsToAlbum.resources
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\obj\Debug\CodeFirstExistingDb.csproj.GenerateResource.cache
@@ -26,3 +25,4 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirs
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\obj\Debug\CodeFirstExistingDb.csproj.CopyComplete
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\obj\Debug\CodeFirstExistingDb.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\obj\Debug\CodeFirstExistingDb.pdb
+C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\obj\Debug\CodeFirstExistingDb.csproj.AssemblyReference.cache

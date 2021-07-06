@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qMQLDzYYDOQcsmur/hSkSR4cBApuMH9dXGdUaD0DLjIeGWTQtsT4GmVnUmHFbem2l5ViL6TuNH1dyTjvXnmvHQ==",
+  "dgSpecHash": "C9sxOThbT3h4xkyOQ5m8j8fybqtfp4Da8WW78TlVyo5KkgvkaDLwVoN0T2u/E1i4L6QunvKhT7bffbApsdMkSw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Composite.NeuralNetworks\\Composite.NeuralNetworks.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

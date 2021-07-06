@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EoPWYUut2X4Tsj3XRZCV6DcN7NToG0Dk2W9nrr2WLDb+n1szDrOj+EysPxrVkeDSj+N/MvFcnyfrvLyI/LAmJQ==",
+  "dgSpecHash": "JZUS2ghveum1Bzw6TWDy6CTtn8R2eTCalbWGm9SHwiXE3FNmZ1AvzKoRmifc26uW6eFISqu5VRWEDBCNyeKaCQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Singleton\\Singleton.DependencyInjection\\Singleton.DependencyInjection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "g3MdcmKqP8aqiDpISvB0lKePJ3FaW1BixO18MVjCmvXTdkJfSUk81ukhZaJgpeiGzqftTa14qiE08TMfOAT/4A==",
+  "dgSpecHash": "uo0i6JUuxyoQiWBBDdRv03tU8FmWAar1EtQAZCs7F3iPRIrMHKWnEu97ONsagoIRN+8JouAzSylxfpJa/jwsnw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Flyweight.Exercise\\Flyweight.Exercise.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

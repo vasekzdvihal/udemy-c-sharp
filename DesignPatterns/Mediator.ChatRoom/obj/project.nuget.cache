@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yDBewqzC3b8Slu0oIngu9FBaD1WSqtQ6NT6oJ6eDx6J2yjgxYHDEb2+C8QN3/7Jci6QEPOcdVKTsdtp/VETpvg==",
+  "dgSpecHash": "JZpTfHy+at5ksMK3G4vM+LRNJdjf/2xTEJmIasayUOvzyI4wJdWv+ptm5W8Fdf/yMEAU1fEPSu5PA7+jvEAR5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Mediator.ChatRoom\\Mediator.ChatRoom.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

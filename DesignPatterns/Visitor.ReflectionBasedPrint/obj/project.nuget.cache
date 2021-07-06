@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VXNOb1hW0Nik3WRSVSY7gjECCDTdPaO/oslfYGSe0LQaSsZOlkpBF0MZ3dJaxBM221W2Ys8eg0gX4mN3ta5guQ==",
+  "dgSpecHash": "OWg8ZBvIsk//OU+whU0MfvTdG1eIUbR2w64hSdd1MGjZ1zm5y3yBMIz9mVb6/rDFzm2orOdDT2ukMpFWKZ+bOA==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Visitor.ReflectionBasedPrint\\Visitor.ReflectionBasedPrint.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

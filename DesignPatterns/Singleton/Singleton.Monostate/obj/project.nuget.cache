@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Rf+olhUnZdQv2Ly/RpWrUv+/hYS7lHf1U16gM5Z0JHRu9fQZn+vv1KM+Lrl63r3s+grF3oDIoIgWdvMqWBaKcQ==",
+  "dgSpecHash": "7zqlBtJVOyxq9KhTdiwdAK1tU/g3Ahu68yqHhFJFVR91GRJjzWYUnnJ+H5sqpxDzb8fll1QR1ZxRfvwNW+iOXw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Singleton\\Singleton.Monostate\\Singleton.Monostate.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

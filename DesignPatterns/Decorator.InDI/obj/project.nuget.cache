@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "XaHmLgi69XXQq7Gw6HFECqBScrIjShRhxsRecitW9Y/bjKYFdjs53BVCqTD92kkRpZiruTIodDHGgbWy5XjwZQ==",
+  "dgSpecHash": "9CLfQW4SHhgFLZqutjnqgURopta2brnRDwT3lJnU44AMQ/1tKo0n3fQXTCvwoZyLpUR1PPQfAqDPJ73z7T1NDg==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Decorator.InDI\\Decorator.InDI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

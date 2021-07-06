@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "22Dw0+U99/Ztnucwf/iFsEKBmrdYfSkcwvma+Tc1CEjW4+5EB8I9CrBQcraVWjWgiZWeceydKGDw9FMRiLwvgw==",
+  "dgSpecHash": "ka7m5MeSyGU2Ru1Nlg6bsR6Yu2KRbRN6XXf3uqjG2HTn5USFXiDyyywXWjcUe3VYDIqNe/ft261HpkhwOhWscw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Adapter.GenericValue\\Adapter.GenericValue.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

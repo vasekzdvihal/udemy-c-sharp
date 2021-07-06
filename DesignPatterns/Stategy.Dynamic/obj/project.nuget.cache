@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IElALTWsUf/ctrubkgT7rOHu/vjvrZBG1LcJCgjSXRSvbTuh+EmU8ZgFkKGxx6efKK56cDNJkGsjRVpA1JwLmg==",
+  "dgSpecHash": "KWhijqJgzQmOGOaqeF134ikwVaIVqj8g2llcqOXHphAsFO997i0crfKBeeSuSykSztOd/axn/4MV7x0utfvLaA==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Stategy.Dynamic\\Stategy.Dynamic.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

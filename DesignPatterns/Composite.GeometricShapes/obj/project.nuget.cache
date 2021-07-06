@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "E937t9WjR4gxH7ScsUFHZgwDqLAVhlZakaPzX5P2XDii0ykEvxfgymSn2jEOROcqShkS5YWOnvxyUajZw0dKuQ==",
+  "dgSpecHash": "fhJ8ymw0KnOBbZlCgcHnEZbk83RKc2v2rLK+pvAvEvegS98y8E/A0BvGUBBxvHMJfiVL36Igkj/gMOGHJzv65A==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Composite.GeometricShapes\\Composite.GeometricShapes.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

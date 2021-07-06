@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "esNNRmjQ8PWM9hQAjKI5tCdELa8UbLHQ7wCwFYtJ+nsXlrJKi0copaU5frTZ8jNZCFhlc6K1KY1Qk/IgjQaxoA==",
+  "dgSpecHash": "P0NxidQbjXagyj/13d6t71H3gtKIyWePeGgtMrzoTj9uYkjY7sLwgXTI1Ue2CtYEiTlA3vsiyCn5D9BsspPCCw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\NullObject.Dynamic\\NullObject.Dynamic.csproj",
   "expectedPackageFiles": [
@@ -82,8 +82,8 @@
     "C:\\Users\\zdvih\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }
