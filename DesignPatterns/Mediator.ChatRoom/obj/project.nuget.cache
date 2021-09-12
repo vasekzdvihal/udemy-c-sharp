@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kDkSyKED9lVbd74IlOLhgfDKiV87oF1rFe/Q/D4uzdrBD0WzOQ0lC+OF5l+ncv7wZsk6/ogHPnElenmZ+Gwirg==",
+  "dgSpecHash": "5Tmdug6Ml19bQ74CgKc9/3XbX1jPmR7jUXnH+sms62xmdd7g8B50na/BuPrgGPZwIg0jfjaDeoFkow2/svWh7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Mediator.ChatRoom\\Mediator.ChatRoom.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Mediator.ChatRoom\\Mediator.ChatRoom.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

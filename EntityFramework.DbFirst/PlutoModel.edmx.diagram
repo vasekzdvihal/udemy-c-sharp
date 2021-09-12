@@ -14,7 +14,6 @@
         <AssociationConnector Association="PlutoModel.FK_Courses_Authors" ManuallyRouted="false" />
         <AssociationConnector Association="PlutoModel.FK_CourseSections_Courses" ManuallyRouted="false" />
         <AssociationConnector Association="PlutoModel.CourseTags" ManuallyRouted="false" />
-        <EntityTypeShape EntityType="PlutoModel.UserProfile" Width="1.5" PointX="5.375" PointY="6.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

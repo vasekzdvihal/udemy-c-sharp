@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "97RpZhd25XmiUujPqKCncI9wlwM9C8OhmOwuElTeW+WpH0tOjJzWrxiNgdbWYVv05Ozb8wPmBMlABMOdgsT1Jg==",
+  "dgSpecHash": "qjCPxlxmqug6m0fKST1/a33aazngxDepFx/sJD70mz0vEx2m9TyqRsvdP30rwd7Ok1yHCU/hDdB+QBtgjcWDMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Facade.Exercise\\Facade.Exercise.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Facade.Exercise\\Facade.Exercise.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

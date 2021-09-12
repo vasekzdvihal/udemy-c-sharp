@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/M0jJr+tdEz5by4/oec7vrqTAXvZUIAGtVjfAgSHxzXWsfjvSvPOUvKQen0C+6oiPbhksTujDMiF7YTAJo0aTg==",
+  "dgSpecHash": "puPJgy3aSR4mPRLvplHcD2EdDqj96B9de1wnJCnEOkKM7KVHvatYbmEtMZBSDnnC15xWGNM2nR1k0dhtbBId7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Decorator.DynamicComposition\\Decorator.DynamicComposition.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Decorator.DynamicComposition\\Decorator.DynamicComposition.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

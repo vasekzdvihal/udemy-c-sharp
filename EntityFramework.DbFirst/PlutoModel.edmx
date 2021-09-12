@@ -63,15 +63,6 @@
           <Property Name="Username" Type="varchar" MaxLength="50" Nullable="false" />
           <Property Name="Password" Type="int" Nullable="false" />
         </EntityType>
-        <!--Errors Found During Generation:
-warning 6002: The table/view 'Pluto.dbo.UserProfiles' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
-        <EntityType Name="UserProfiles">
-          <Key>
-            <PropertyRef Name="UserProfileID" />
-          </Key>
-          <Property Name="UserProfileID" Type="int" Nullable="false" />
-          <Property Name="Nane" Type="varchar" MaxLength="50" />
-        </EntityType>
         <Association Name="FK_Courses_Authors">
           <End Role="Authors" Type="Self.Authors" Multiplicity="1">
             <OnDelete Action="Cascade" />
@@ -128,6 +119,41 @@ warning 6002: The table/view 'Pluto.dbo.UserProfiles' does not have a primary ke
             </Dependent>
           </ReferentialConstraint>
         </Association>
+        <Function Name="DeleteCourse" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="CourseID" Type="int" Mode="In" />
+        </Function>
+        <Function Name="funcGetAuthorCourses" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="AuthorID" Type="int" Mode="In" />
+          <ReturnType>
+            <CollectionType>
+              <RowType>
+                <Property Name="CourseID" Type="int" Nullable="false" />
+                <Property Name="AuthorID" Type="int" Nullable="false" />
+                <Property Name="Title" Type="varchar" MaxLength="255" Nullable="false" />
+                <Property Name="Description" Type="varchar" MaxLength="8000" Nullable="false" />
+                <Property Name="Price" Type="smallint" Nullable="false" />
+                <Property Name="LevelString" Type="varchar" MaxLength="50" Nullable="false" />
+                <Property Name="Level" Type="tinyint" Nullable="false" />
+              </RowType>
+            </CollectionType>
+          </ReturnType>
+        </Function>
+        <Function Name="GetCourses" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <Function Name="InsertCourse" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="AuthorID" Type="int" Mode="In" />
+          <Parameter Name="Title" Type="varchar" Mode="In" />
+          <Parameter Name="Description" Type="varchar" Mode="In" />
+          <Parameter Name="Price" Type="smallint" Mode="In" />
+          <Parameter Name="LevelString" Type="varchar" Mode="In" />
+          <Parameter Name="Level" Type="tinyint" Mode="In" />
+        </Function>
+        <Function Name="UpdateCourse" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="CourseID" Type="int" Mode="In" />
+          <Parameter Name="Title" Type="varchar" Mode="In" />
+          <Parameter Name="Description" Type="varchar" Mode="In" />
+          <Parameter Name="LevelString" Type="varchar" Mode="In" />
+          <Parameter Name="Level" Type="tinyint" Mode="In" />
+        </Function>
         <EntityContainer Name="PlutoModelStoreContainer">
           <EntitySet Name="Authors" EntityType="Self.Authors" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Courses" EntityType="Self.Courses" Schema="dbo" store:Type="Tables" />
@@ -136,12 +162,6 @@ warning 6002: The table/view 'Pluto.dbo.UserProfiles' does not have a primary ke
           <EntitySet Name="Posts" EntityType="Self.Posts" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Tags" EntityType="Self.Tags" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="tblUser" EntityType="Self.tblUser" Schema="dbo" store:Type="Tables" />
-          <EntitySet Name="UserProfiles" EntityType="Self.UserProfiles" store:Type="Tables" store:Schema="dbo">
-            <DefiningQuery>SELECT 
-    [UserProfiles].[UserProfileID] AS [UserProfileID], 
-    [UserProfiles].[Nane] AS [Nane]
-    FROM [dbo].[UserProfiles] AS [UserProfiles]</DefiningQuery>
-          </EntitySet>
           <AssociationSet Name="FK_Courses_Authors" Association="Self.FK_Courses_Authors">
             <End Role="Authors" EntitySet="Authors" />
             <End Role="Courses" EntitySet="Courses" />
@@ -179,7 +199,7 @@ warning 6002: The table/view 'Pluto.dbo.UserProfiles' does not have a primary ke
           <Property Name="AuthorID" Type="Int32" Nullable="false" />
           <Property Name="Title" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
           <Property Name="Description" Type="String" MaxLength="8000" FixedLength="false" Unicode="false" Nullable="false" />
-          <Property Name="Level" Type="String" Nullable="false" />
+          <Property Name="Level" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
           <NavigationProperty Name="Author" Relationship="Self.FK_Courses_Authors" FromRole="Courses" ToRole="Authors" />
           <NavigationProperty Name="CourseSections" Relationship="Self.FK_CourseSections_Courses" FromRole="Courses" ToRole="CourseSections" />
           <NavigationProperty Name="Tags" Relationship="Self.CourseTags" FromRole="Courses" ToRole="Tags" />
@@ -270,15 +290,46 @@ warning 6002: The table/view 'Pluto.dbo.UserProfiles' does not have a primary ke
             <End Role="Courses" EntitySet="Courses" />
             <End Role="Tags" EntitySet="Tags" />
           </AssociationSet>
-          <EntitySet Name="UserProfiles" EntityType="PlutoModel.UserProfile" />
+          <FunctionImport Name="DeleteCourse">
+            <Parameter Name="CourseID" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="funcGetAuthorCourses" IsComposable="true" ReturnType="Collection(PlutoModel.funcGetAuthorCourses_Result)">
+            <Parameter Name="AuthorID" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="GetCourses" ReturnType="Collection(PlutoModel.GetCourses_Result)" />
+          <FunctionImport Name="InsertCourse">
+            <Parameter Name="AuthorID" Mode="In" Type="Int32" />
+            <Parameter Name="Title" Mode="In" Type="String" />
+            <Parameter Name="Description" Mode="In" Type="String" />
+            <Parameter Name="Price" Mode="In" Type="Int16" />
+            <Parameter Name="LevelString" Mode="In" Type="String" />
+            <Parameter Name="Level" Mode="In" Type="Byte" />
+          </FunctionImport>
+          <FunctionImport Name="UpdateCourse">
+            <Parameter Name="CourseID" Mode="In" Type="Int32" />
+            <Parameter Name="Title" Mode="In" Type="String" />
+            <Parameter Name="Description" Mode="In" Type="String" />
+            <Parameter Name="LevelString" Mode="In" Type="String" />
+            <Parameter Name="Level" Mode="In" Type="Byte" />
+          </FunctionImport>
         </EntityContainer>
-        <EntityType Name="UserProfile">
-          <Key>
-            <PropertyRef Name="UserProfileID" />
-          </Key>
-          <Property Name="UserProfileID" Type="Int32" Nullable="false" />
-          <Property Name="Nane" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
-        </EntityType>
+        <ComplexType Name="funcGetAuthorCourses_Result">
+          <Property Type="Int32" Name="CourseID" Nullable="false" />
+          <Property Type="Int32" Name="AuthorID" Nullable="false" />
+          <Property Type="String" Name="Title" Nullable="false" MaxLength="255" />
+          <Property Type="String" Name="Description" Nullable="false" MaxLength="8000" />
+          <Property Type="Int16" Name="Price" Nullable="false" />
+          <Property Type="String" Name="LevelString" Nullable="false" MaxLength="50" />
+          <Property Type="Byte" Name="Level" Nullable="false" />
+        </ComplexType>
+        <ComplexType Name="GetCourses_Result">
+          <Property Type="Int32" Name="CourseID" Nullable="false" />
+          <Property Type="Int32" Name="AuthorID" Nullable="false" />
+          <Property Type="String" Name="Title" Nullable="false" MaxLength="255" />
+          <Property Type="String" Name="Description" Nullable="false" MaxLength="8000" />
+          <Property Type="Int16" Name="FullPrice" Nullable="false" />
+          <Property Type="String" Name="Level" Nullable="false" MaxLength="50" />
+        </ComplexType>
       </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
@@ -349,14 +400,34 @@ warning 6002: The table/view 'Pluto.dbo.UserProfiles' does not have a primary ke
               <ScalarProperty Name="TagID" ColumnName="TagID" />
             </EndProperty>
           </AssociationSetMapping>
-          <EntitySetMapping Name="UserProfiles">
-            <EntityTypeMapping TypeName="PlutoModel.UserProfile">
-              <MappingFragment StoreEntitySet="UserProfiles">
-                <ScalarProperty Name="Nane" ColumnName="Nane" />
-                <ScalarProperty Name="UserProfileID" ColumnName="UserProfileID" />
-              </MappingFragment>
-            </EntityTypeMapping>
-          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="DeleteCourse" FunctionName="PlutoModel.Store.DeleteCourse" />
+          <FunctionImportMapping FunctionImportName="funcGetAuthorCourses" FunctionName="PlutoModel.Store.funcGetAuthorCourses">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="PlutoModel.funcGetAuthorCourses_Result">
+                <ScalarProperty Name="CourseID" ColumnName="CourseID" />
+                <ScalarProperty Name="AuthorID" ColumnName="AuthorID" />
+                <ScalarProperty Name="Title" ColumnName="Title" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="Price" ColumnName="Price" />
+                <ScalarProperty Name="LevelString" ColumnName="LevelString" />
+                <ScalarProperty Name="Level" ColumnName="Level" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="GetCourses" FunctionName="PlutoModel.Store.GetCourses">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="PlutoModel.GetCourses_Result">
+                <ScalarProperty Name="CourseID" ColumnName="CourseID" />
+                <ScalarProperty Name="AuthorID" ColumnName="AuthorID" />
+                <ScalarProperty Name="Title" ColumnName="Title" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="FullPrice" ColumnName="FullPrice" />
+                <ScalarProperty Name="Level" ColumnName="Level" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="InsertCourse" FunctionName="PlutoModel.Store.InsertCourse" />
+          <FunctionImportMapping FunctionImportName="UpdateCourse" FunctionName="PlutoModel.Store.UpdateCourse" />
         </EntityContainerMapping>
       </Mapping>
     </edmx:Mappings>

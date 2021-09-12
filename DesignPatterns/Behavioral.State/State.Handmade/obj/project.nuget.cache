@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KliA4TSbDXkJVyKfx/0f1iSzWzGmntNnostPQdpJhaJR4R0RQzfk64p0+GdTdGX6ZpIbyeKuC+ncn4KK6kHZ2Q==",
+  "dgSpecHash": "G8d89EU0d8gl+5l9HlBeCBi8qkd+xDM3BxcB1Cpnr9sY2hQt6nChzdUy7vJPcmNdN5rvrfCSOH7nj8alv56BrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Behavioral.State\\State.Handmade\\State.Handmade.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Behavioral.State\\State.Handmade\\State.Handmade.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xWNFKxoURbDnNLOsC17DH1F3U3R5/oXharaXmfDHmX71crGiVcXckoEkLSt3LFnV7RXdT3PP3xCT6rbACjvkPg==",
+  "dgSpecHash": "REgTSkMnulrBRNmuH4I1wotPkZTjG+CC8HDI4BdMwTpgyb9f0q6gxbR5M4S1GHiKaKvxZ3k5asV55SritbzflQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Mediator.Exercise\\Mediator.Exercise.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Mediator.Exercise\\Mediator.Exercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

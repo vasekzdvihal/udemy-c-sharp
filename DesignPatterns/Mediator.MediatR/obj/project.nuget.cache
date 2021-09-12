@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xrANcoae30mpP1z38GKkfQfFQVVC5lULrwcHx68X44v36FJ/h1wE01zvSvrMJ47OlTM1/o9XIDX4Qu8HZL3ueA==",
+  "dgSpecHash": "SfAtbaTFf4XzFMIGaudPwoOs65pinf/lT4fK8QGcmoofh+0/mFCX1kGhbvQg5jMB047m41kbybXT4EqhVcydPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Mediator.MediatR\\Mediator.MediatR.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Mediator.MediatR\\Mediator.MediatR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\jetbrains.annotations\\2021.1.0\\jetbrains.annotations.2021.1.0.nupkg.sha512",

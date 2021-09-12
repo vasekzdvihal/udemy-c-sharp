@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Jum0IVkjXLdAQcsxuPqN9e5toqiEw+zafCOKOECuy54rzzRmtxHoi5SFHNfN9eVtmFPWLvmRiiEty8fmmLrJA==",
+  "dgSpecHash": "iMKFKsm//sSusLABrBTa+aJjw5ymnRuZOvtEXi3jBj49BV/BsMUl+1qk3VRfXR5Ivwu0s15LIxx0k1wDZTnLPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Singleton\\Singleton.AmbientContext\\Singleton.AmbientContext.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Singleton\\Singleton.AmbientContext\\Singleton.AmbientContext.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

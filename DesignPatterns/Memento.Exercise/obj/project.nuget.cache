@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nmiyoxpiuOGcwUex6NbxTTDis0GCoG2fHVwiaW1vYWWETlc9V/TUu48oKfzUoY7e9v949vZx31PEeUkVa4xUPA==",
+  "dgSpecHash": "gJen9xna2AuOKr3DzXt9n+Nwf1QBEXEQ6qXxj8tYkyuzccR9sqGGDkwGKTYBxII8Ddxn2hJKza6kvRcydHVhEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Memento.Exercise\\Memento.Exercise.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Memento.Exercise\\Memento.Exercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

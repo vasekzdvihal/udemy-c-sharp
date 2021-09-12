@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DOot6x28VNZGAg8yGdQJglas9mwL+Kg8+HNqlvl4eSeT8y0s8KvV9jNcq1o6sGnrfyC8JGTmBAiGjXdpPdFOpg==",
+  "dgSpecHash": "2cCe6gMlLtso0Q8tZg2zJ4ctnN46rkqMC3ap0r+TWAsOeduX7AzFdPNeaobMDgdBCO+b82tdVhPeKWhmpouh5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

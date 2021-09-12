@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cdv4ozi5UhPGfTmI+hyrpRkW6SZNYrO5/zYk4u2QOVgO6XuTjGdRtdGMLucyi2ECCYo7u2ubqYxuk6sb2Dgmkg==",
+  "dgSpecHash": "rVZ/VmHPW6x2nZDWf97OVt//bCPfuEc4tenrSs/q2jndIVQTUleva9geh1GU1PhyPDPmlTVQCbT4NuoFA7Rb0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Observer.EventKeyword\\Observer.EventKeyword.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Observer.EventKeyword\\Observer.EventKeyword.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

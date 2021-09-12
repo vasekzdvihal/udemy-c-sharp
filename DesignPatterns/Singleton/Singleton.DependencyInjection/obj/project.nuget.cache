@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yW+P26A0rZ5EfxxzJrL7br61yOKFvjAluJj/bI8+XhuQVcQDJ7fHs91fwEVopYzasXjePz2trvZgW4h03OPUpg==",
+  "dgSpecHash": "XExL2hCz5UpMkJfQ64+KX48af72DB2cBNoJJ7d799lSspSLZ2X/pmYzC1JTzj9jbsqBKw6F+4mvfIibr+fpHyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Singleton\\Singleton.DependencyInjection\\Singleton.DependencyInjection.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Singleton\\Singleton.DependencyInjection\\Singleton.DependencyInjection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",

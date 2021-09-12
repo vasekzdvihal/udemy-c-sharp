@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+JT5qGiNPId36opM6+SwNl4udJ9NQXOasArlsLNa8nuzaoX0S0iYHOyIKYKcWbJnVL3qkCRDhyoIu0yIv51U0g==",
+  "dgSpecHash": "ucqc6jLpUFgVHE31M9p0uzK/6YkqyKb1vJ+JeU+GQ8NMnwO/rzzyWMk1sGog64xVU545VFf8uhM6XAYkZeNrMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Flyweight.Exercise\\Flyweight.Exercise.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Flyweight.Exercise\\Flyweight.Exercise.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

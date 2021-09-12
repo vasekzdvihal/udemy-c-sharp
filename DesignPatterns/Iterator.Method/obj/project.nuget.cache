@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j/SFHJxzlPZxNZiNMhbHEd8rxuVtxUk85WTrvGyX+BJAQtYKPZAbvXzVg2a8To2YA+wCsypNzcts+0PtUtRxQg==",
+  "dgSpecHash": "kkZUDCqH2hdCpX82zKM1iYwdrKvmalM+wymslayTcbl949Ffmwh3yFr1ejg+3YWLf/t7v0Fbig3VR9FHg6moaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Iterator.Method\\Iterator.Method.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Iterator.Method\\Iterator.Method.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

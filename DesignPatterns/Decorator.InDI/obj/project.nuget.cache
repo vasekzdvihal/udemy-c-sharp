@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W7aAi82u5m4svZ4mD8D118hTkUit097kVmf8KlHRS36qcULzOOXxC6L5sYDkS5iFhLNj+QxHikvQ65c+EoIhfA==",
+  "dgSpecHash": "3Q8tXMP9SeR3bUD9Fd2XrTDBXJh9bmj7KcW9biYl7Vfd+musgssQl5eylngYMP/hXn8ZoAwtTb1mqMJPU/zDJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Decorator.InDI\\Decorator.InDI.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Decorator.InDI\\Decorator.InDI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"

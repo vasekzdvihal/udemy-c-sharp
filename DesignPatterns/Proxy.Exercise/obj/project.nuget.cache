@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lm2jEkguPedfJJXK53HW4zI5Dp1jkxxn5k9MdaHmHLMv0Z11UkzvFB/8hXUp1t/ODnFKhvGTUAnFFRrMjeG5pA==",
+  "dgSpecHash": "v7fTKuz8n8u+sk1iWGhwY4W0WW76kEpl/3KnX0uLDRsD1F0f+799oRFSobYNUtOOHoLRVBtLkX6N/8EONyGYsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Proxy.Exercise\\Proxy.Exercise.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Proxy.Exercise\\Proxy.Exercise.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

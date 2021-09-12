@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K8+C8Iir/1vkUZjd8rUyPogJobs1lngUYEhBC4GHiXFS1K6l8YXYrJi6TeGuKNkURflf5LqVin9+ZpwXSsJ1GQ==",
+  "dgSpecHash": "c+tOD9qCoyY3YQABTIFVNpKIvf0Ur85yWIuHRqCIHV8/Q09tdUh1WH0w5D757XJeK1ZF4aAsHUt3Rh5yld2j7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Adapter.GenericValue\\Adapter.GenericValue.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Adapter.GenericValue\\Adapter.GenericValue.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

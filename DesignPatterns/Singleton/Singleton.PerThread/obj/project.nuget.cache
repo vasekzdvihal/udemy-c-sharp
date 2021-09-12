@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RG+mIb72rLZ2IuVZ3tNkZkCfjP1GIV+H/K0y1D/1sC8v2ZbQVyKjmNnIRlpTJOpMx3L+MT3A77Dd5zcMobvynQ==",
+  "dgSpecHash": "3lPqh2BRyRHyNmvMYEMJCzMqcQ+l3KfZi+6uaYgNuEbX8hY8zSmu3WpsMYfYm6cJzai/EcbVv/Ox9s5xHkfdZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Singleton\\Singleton.PerThread\\Singleton.PerThread.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Singleton\\Singleton.PerThread\\Singleton.PerThread.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

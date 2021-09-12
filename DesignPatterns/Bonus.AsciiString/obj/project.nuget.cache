@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sMG+a1NMuSJr4gi7NvA/WolEQLbXODORuQRDdipINi5z6ao18BZnQS4z6P9IUSE70j+80tYjugBdjBHMusL+sA==",
+  "dgSpecHash": "aUAZLquS2oJ/2Tfy3HQ2P0qK/Lr6gwiiunte3WN9CavxYDrdZp+XUpjir7JzlO9HzY+gVwzF9eSaSMPYDTus2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Bonus.AsciiString\\Bonus.AsciiString.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Bonus.AsciiString\\Bonus.AsciiString.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

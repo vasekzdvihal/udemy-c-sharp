@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nP6Z9OjJXHA2253DGzLuGzMdgZ3MML2Rkz9gBThFOzjp/fUddmlhW4KvT2CZzQqI/uTQhU64eSjRf8pbFl7Gig==",
+  "dgSpecHash": "1vnm5FqPbgL9HfwNEaqIWV/8gJ5l+icwuZw0LO5+ZUkU5gIn+WjSFf5bMS67W5oQAkkDLryqtAvXU5tNUhIr5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Visitor.Acyclic\\Visitor.Acyclic.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Visitor.Acyclic\\Visitor.Acyclic.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

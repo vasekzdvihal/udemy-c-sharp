@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O7Th3lMHYkHPr9KBNDyAfrYVyqGRsurscEWXnEL6YVzflXlpMzxcRYXqfaYqdVMbH8AkTYtKf0nTqvfZGzxMUw==",
+  "dgSpecHash": "aWPC8RtdWlHVk5cCx1Lj+xDYWTNIAyTvsnJEe4CU31Le12TnGPalrzmVTuGP70VyXE8xOOG1FJGUdMxVjM/P7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Proxy.BitFragging\\Proxy.BitFragging.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Proxy.BitFragging\\Proxy.BitFragging.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

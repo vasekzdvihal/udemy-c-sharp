@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3HaYdJi2vhmZAoD8ejMha3+VFCYPwoc/kPZGtv9XGFM/SHuxNRzkwFkrrSVLIDyS64kO5C5rAqhu+Gl09MZSUg==",
+  "dgSpecHash": "jerwi67uuwYZ7Z6KpOt1NrNb5q1kYAWuComA3ZRzObX+6Kd+1bkxJMQYrkeWkyfV19JII13s3WrW6I88eom95g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Intepreter.Exercise\\Intepreter.Exercise.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Intepreter.Exercise\\Intepreter.Exercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

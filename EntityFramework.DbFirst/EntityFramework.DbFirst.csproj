@@ -56,6 +56,12 @@
     <Compile Include="CourseSection.cs">
       <DependentUpon>PlutoModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="funcGetAuthorCourses_Result.cs">
+      <DependentUpon>PlutoModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GetCourses_Result.cs">
+      <DependentUpon>PlutoModel.tt</DependentUpon>
+    </Compile>
     <Compile Include="PlutoModel.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -80,9 +86,6 @@
       <DependentUpon>PlutoModel.tt</DependentUpon>
     </Compile>
     <Compile Include="tblUser.cs">
-      <DependentUpon>PlutoModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="UserProfile.cs">
       <DependentUpon>PlutoModel.tt</DependentUpon>
     </Compile>
   </ItemGroup>

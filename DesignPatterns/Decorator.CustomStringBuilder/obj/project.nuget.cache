@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SxwplL6/A5LsJ0NBut3azxHtM1V6HyVNrd/TgJMLVhQbLOaK8XZRvfDjEamvmUK7UvUgjCCk54obH1Q3VRV7kQ==",
+  "dgSpecHash": "XVcDoXEzuLrOy1ilEzRi94PHW7q97u9x2vz94/GA/MfokN0tMbYN/HxZ79EmqYwQCLONuo0SApA3OiudxVoONw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Decorator.CustomStringBuilder\\Decorator.CustomStringBuilder.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Decorator.CustomStringBuilder\\Decorator.CustomStringBuilder.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

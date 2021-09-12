@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\IAmTimCorey\\DI.DemoLibrary\\DI.DemoLibrary.csproj": {}
+    "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\IAmTimCorey\\DI.DemoLibrary\\DI.DemoLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\IAmTimCorey\\DI.DemoLibrary\\DI.DemoLibrary.csproj": {
+    "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\IAmTimCorey\\DI.DemoLibrary\\DI.DemoLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\IAmTimCorey\\DI.DemoLibrary\\DI.DemoLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\IAmTimCorey\\DI.DemoLibrary\\DI.DemoLibrary.csproj",
         "projectName": "DI.DemoLibrary",
-        "projectPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\IAmTimCorey\\DI.DemoLibrary\\DI.DemoLibrary.csproj",
+        "projectPath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\IAmTimCorey\\DI.DemoLibrary\\DI.DemoLibrary.csproj",
         "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\IAmTimCorey\\DI.DemoLibrary\\obj\\",
+        "outputPath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\IAmTimCorey\\DI.DemoLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.6.21355.2\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

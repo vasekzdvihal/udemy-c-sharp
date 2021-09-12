@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Juq4TOGNmNkWCAxYyPivU/LlgB3dYJInwrNHuToOy2R8LWwbmDDXgB1vzRh+rqDV++YfyW6ESm3Hqnc/EFJc4A==",
+  "dgSpecHash": "dMGsXMmHB61vSck8Wq30nl3be/xavfCx+ObGGZgevEcHrLPqI+QDifTaXwxPWwbJa4O6MekaOAwKyXOswjk1Aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Template\\Template.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Template\\Template.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

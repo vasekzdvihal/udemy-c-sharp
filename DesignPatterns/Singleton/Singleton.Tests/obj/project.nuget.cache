@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mwPaE1O/LJekMgquaeaJTj7a/QmmUsedHFacnN4HGBwodKtiMBO4iUJ2ntpR3cgizX3YLjFQ4g8D1tDU6F1YfA==",
+  "dgSpecHash": "+9GU/2VM6Ph5i2ZV58xlMFfFwGk4qP7almp+8TyoVk1Q1PagZp9ghOgqs9BYfGlk0f2is41AMuvLDAMkRcp8rw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Singleton\\Singleton.Tests\\Singleton.Tests.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Singleton\\Singleton.Tests\\Singleton.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

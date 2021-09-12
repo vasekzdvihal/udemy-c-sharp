@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p5R60y0lDMSuf2fMO8u1INZWFKNge4tdEmLGYN1bfCHNKXOgdJbBeji93bdbTtVEgRIskZ0AWRGV0EucZrnvRA==",
+  "dgSpecHash": "5cLeHNNahj01qL0NkUyOjyw3QtX8c83Za2J2BqlXmffabWfJfxdiJGE4WrKlc3cBqhL+DPr7X4eXmsan4nuwiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\ChainOfResponsibility.MethodChain\\ChainOfResponsibility.MethodChain.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\ChainOfResponsibility.MethodChain\\ChainOfResponsibility.MethodChain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

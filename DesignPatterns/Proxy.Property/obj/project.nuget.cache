@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PtS0OqJ08+bVRkNwQndIvfbpKyfMGRWkj0s8paBgEpGfWoz9dRNwI6V5PSKf8z7+JJQvaoatJcKpjBcyKv9+sQ==",
+  "dgSpecHash": "WVMp2kQVDHEkLvBN7i7/qXOcq3lLItznXaGds0Ja7hGXveqdn3DhJzAE/18ytTN+me2SawvqcUlqpIHNoZXtuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Proxy.Property\\Proxy.Property.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Proxy.Property\\Proxy.Property.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

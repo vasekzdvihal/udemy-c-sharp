@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rolp9m6qahtRCGCYwcMoCZ/NBJfOYN/PI0uYgTmfmkZZZIa889vdBkDIDRniCYJZkJOUQ6WTLjlrfL61k2jp8w==",
+  "dgSpecHash": "4nVS+xlFT9hJqBVJvZ6yHuLmm++8JZLLoRbtz9IJmYHRA49cqgFHtLmMsqisLx4y2En8pKuxwIbsRtUQdKVfOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Proxy.DynamicForLogging\\Proxy.DynamicForLogging.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Proxy.DynamicForLogging\\Proxy.DynamicForLogging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\dynamitey\\2.0.9.136\\dynamitey.2.0.9.136.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\impromptuinterface\\7.0.1\\impromptuinterface.7.0.1.nupkg.sha512",

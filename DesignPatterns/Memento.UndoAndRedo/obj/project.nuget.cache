@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LJ+yz5wq852RvmGu4Qyanl97aY/a0toAbdhk+F+6nfz9UVVJBoB9ImdM5t57KHIItmuJEVnFSgZbHyftOrupaA==",
+  "dgSpecHash": "tPa6DvHNXeahmCBx29gQ3YR21fFBrrbQPwKs80yUjvbNhvoy2yrm9q61jprdwRGZX3WEeIUhRV7PcEIh47/SyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Memento.UndoAndRedo\\Memento.UndoAndRedo.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Memento.UndoAndRedo\\Memento.UndoAndRedo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

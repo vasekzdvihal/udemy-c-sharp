@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\BoxingAndUnboxing\\BoxingAndUnboxing.csproj": {}
+    "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\BoxingAndUnboxing\\BoxingAndUnboxing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\BoxingAndUnboxing\\BoxingAndUnboxing.csproj": {
+    "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\BoxingAndUnboxing\\BoxingAndUnboxing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\BoxingAndUnboxing\\BoxingAndUnboxing.csproj",
+        "projectUniqueName": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\BoxingAndUnboxing\\BoxingAndUnboxing.csproj",
         "projectName": "BoxingAndUnboxing",
-        "projectPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\BoxingAndUnboxing\\BoxingAndUnboxing.csproj",
+        "projectPath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\BoxingAndUnboxing\\BoxingAndUnboxing.csproj",
         "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\BoxingAndUnboxing\\obj\\",
+        "outputPath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\BoxingAndUnboxing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.6.21355.2\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H8UAm4RrtQsJxDpqdjx8K4Vt9T5UmqJW/n4B0SoblabuFFG7CSZElUJq1Tl5LBWLrySjIv/v7BlxkRmyffzS9w==",
+  "dgSpecHash": "taYKlG4RFwLcyREYrOg0MKBJzZzc9EOQEt6GTuDYggeWm+hQymACEJ0ErhtfOuk/xoCDyYS8a5gWkHPbVsB62A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Adapter.Exercise\\Adapter.Exercise.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Adapter.Exercise\\Adapter.Exercise.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

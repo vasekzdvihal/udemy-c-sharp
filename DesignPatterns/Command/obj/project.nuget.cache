@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4NxRMRLzSgY06PSOnqqZwPPMI2X30RbDpRr/MFh44YVNBwwlo6OcaZ3hMhWjoGeaCYDC1RFUgdGccC004AHM8w==",
+  "dgSpecHash": "+lRR+H2Qa6ArQvKRgQTVrGeEQtmD3ghV0KWVBbniCqYSs+hfD5PlwS6jAXpyk+C7T7U1KiVmTsktaYxjlO3DEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Command\\Command.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Command\\Command.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

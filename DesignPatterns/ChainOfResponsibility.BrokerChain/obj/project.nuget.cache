@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BwW9pFDSK4qiAFO5nwKA9Tq6sDHLOUa6NQ+tR7orwUFXO8jTPKBoXWCkCddKKVoaVRLdJMBN8V3FHkBHmToOjg==",
+  "dgSpecHash": "g3hsZNwWLWSZac6usHKZVrsjG5ieYcuQp8Xxtim7njYhc9HRdKBC4zTbpH44prh50dIo41At4ky9szLybRGJ1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\ChainOfResponsibility.BrokerChain\\ChainOfResponsibility.BrokerChain.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\ChainOfResponsibility.BrokerChain\\ChainOfResponsibility.BrokerChain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

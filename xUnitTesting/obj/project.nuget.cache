@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9nTvp4pIhQxwJTp+0U1x+WYjT4l7qVz5w4fPPULst7uMzhwcpBIqmkKb5RzkqYTNrSvINNm60d77vI3zWfxrxQ==",
+  "dgSpecHash": "h96ISGeB19iwSrTeWDWC6fRt3NvaVvl9BuNkQz5HYjCMf4o70UPdsr1Eo5SIP8VXJQ341UYHgY9znlZQSDgROQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\xUnitTesting\\xUnitTesting.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\xUnitTesting\\xUnitTesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.codecoverage\\16.10.0-release-20210330-02\\microsoft.codecoverage.16.10.0-release-20210330-02.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

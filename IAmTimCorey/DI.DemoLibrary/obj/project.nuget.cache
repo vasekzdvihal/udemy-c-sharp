@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cJT1y1GXsbCms9rkVhlmt6uiU2fg/mZ5JvkqpKbs3GqYa/L48AnwQC+PLjxSz5EKTSpdP6nMoDo/i7Dq9IsaXg==",
+  "dgSpecHash": "6wY3fVhx5ybK5SmXNDIQ/3K1cGFfCZJgTtFKrPYaVOEReJevUJzhYpBh5/x1LOi4LQ3hkIBIA2isr0XiSHME+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\IAmTimCorey\\DI.DemoLibrary\\DI.DemoLibrary.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\IAmTimCorey\\DI.DemoLibrary\\DI.DemoLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"

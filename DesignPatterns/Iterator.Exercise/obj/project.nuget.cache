@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NZyJwCc3wh7r0MArpexWIyB9kCdHkkgCiTI7Vkas607rolJ0+SRH2JC993MNJalBa1UvPOmIBWFa6aOGpgkbvw==",
+  "dgSpecHash": "DWs7Oyb0915VUmlWi86QE8ttEyVerRYeOnwDBWbVF1SLv4zOMP4mFrV/Rk/8GX3u/7KRUba7pB+blO6h/R+75A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Iterator.Exercise\\Iterator.Exercise.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Iterator.Exercise\\Iterator.Exercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

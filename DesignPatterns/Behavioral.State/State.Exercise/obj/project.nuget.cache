@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "smmb5M36+G86QZxYlQAdksuROR6d7YjJSW+ZJUamKLIoODhPMqzyfvSWsQisCJI6w4Oay/rGyzQGL+BlVn1qVA==",
+  "dgSpecHash": "VnSyombj5B6V0lt7D5An6RMGnYfyl7r/snM/llfW6QcdF6Pr3Gm4vu4vdhDswOEibkw6VNdlRz+slWK6YKvNZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Behavioral.State\\State.Exercise\\State.Exercise.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Behavioral.State\\State.Exercise\\State.Exercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

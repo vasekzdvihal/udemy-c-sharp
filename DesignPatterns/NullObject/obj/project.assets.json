@@ -86,11 +86,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\NullObject\\NullObject.csproj",
+      "projectUniqueName": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\NullObject\\NullObject.csproj",
       "projectName": "NullObject",
-      "projectPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\NullObject\\NullObject.csproj",
+      "projectPath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\NullObject\\NullObject.csproj",
       "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\NullObject\\obj\\",
+      "outputPath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\NullObject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -143,7 +143,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.6.21355.2\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

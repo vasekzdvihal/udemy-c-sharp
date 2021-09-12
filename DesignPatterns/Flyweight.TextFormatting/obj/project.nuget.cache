@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NyGkqz3TkEFcih/vrEpFP1Bdm+ytnj/OuE/78s+2sObRWRzEFR/Qr6AVFeI/SnGlUU0X9FvsBDMWQC7UWWnU8Q==",
+  "dgSpecHash": "u+TbwuuQ5kQUigjWnY2QvTHW1o/51Y9AoAopvedgLURCFHrFXn9HmbWgubhMjIT8z19GLHuP+JhVUYfzreJj0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Flyweight.TextFormatting\\Flyweight.TextFormatting.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Flyweight.TextFormatting\\Flyweight.TextFormatting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

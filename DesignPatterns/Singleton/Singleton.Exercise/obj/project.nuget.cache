@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "br5/maEl4yUFo+pc7qCYylQrgb8M4EN5oYvUPZKp2Pg1oc9+dTpuETMmb91+hwBxPpSKxDRT1y4exf39qrFXXQ==",
+  "dgSpecHash": "5JRZO1b6D65BftW+vW9voW/MreS+Z1IOOrtL4cJoQ4e3zNob3eS/WaawKUmYu4Gz/a/hpCVgxnPsyDPUr0cHmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Singleton\\Singleton.Exercise\\Singleton.Exercise.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Singleton\\Singleton.Exercise\\Singleton.Exercise.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

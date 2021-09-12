@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M3daa/fCab71PGUkF4nmmnSLK1mTrpBE0BryNs0+wWR1qa7vdqdw0vMCFbqonaalC4rr25aO533bbAuhPlSF9Q==",
+  "dgSpecHash": "HjsXkQGYN9nL1tHYB2rgwkZ6KSVwmt6vu7GfGC4N4Ye3ueowlxZeazgmHAs3NPajL/Ha41/IXJGRV2y3CNr+2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Iterator.ArrayBackProperties\\Iterator.ArrayBackProperties.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Iterator.ArrayBackProperties\\Iterator.ArrayBackProperties.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

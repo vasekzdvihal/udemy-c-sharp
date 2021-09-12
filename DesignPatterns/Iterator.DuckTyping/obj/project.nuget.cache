@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PxSXphuxgSCd6Wj4NLw7J2KAav6FCokpzM2Ksv0N1rrQiKNK6or54Si7p06Ms5egCzRfrpjYi77OqUYo0NZHTw==",
+  "dgSpecHash": "l6t6+xKMCNHDx29uLi4bNjXdkUxTWl0T7iFKZA1ApWtXJIzLVvz3NcHXlZ3pLYrrLQcB/GmVWL97QxMI6+IbIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Iterator.DuckTyping\\Iterator.DuckTyping.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Iterator.DuckTyping\\Iterator.DuckTyping.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5P9jCPpS5fyytf4HtbmTwh61Df6o6CqWy0xmSJEmqI8Eox4xsbKfG/YQ62AflCRU/xmg8mn2uYTPtlv/GoEQDg==",
+  "dgSpecHash": "OEosQSKlxPuKQO2aihRcxthJFlWCF8OJpm6jfMgD82WwEYM42Clu27n55MCRhDxSdyF66T7ef9FI6HrgOKDYmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Bridge\\Bridge.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Bridge\\Bridge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"

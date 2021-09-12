@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/l81juWvp350Xh6okpI40uWQ0yRAs7A4DVyixTh4HDbxX+t7k5LJgzNiCXl/v6yEVlCyhZ3hVxcxceJWG2W40w==",
+  "dgSpecHash": "G9SKgr7yRimKx6xlcX4GVkDVpDTMAPi8RSNYjmJaZ4MReD0zThZIUyH8v0yzZBwU0kSR/mkqgJJ6uiKIhZNBuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\NullObject\\NullObject.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\NullObject\\NullObject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"

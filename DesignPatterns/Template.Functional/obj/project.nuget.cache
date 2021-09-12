@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xwSj3FPFDsShsBQPDR92r7B3ezR9ClqSS4XqvEcB+zt6gx+gmxFxZpEBD5wovC5nNmTi28eppZGwQebLrsq3Lg==",
+  "dgSpecHash": "6uzU+ECp0bnPPBGSrh9jeAnAi+VtkbXJJFE0+N4SVz/Zau9RTupRF51HCGQNO/Hw8LnOlJBMRLS71QYmM0+8bQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Template.Functional\\Template.Functional.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Template.Functional\\Template.Functional.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

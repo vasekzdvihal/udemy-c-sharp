@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1SCS6DjkCMQQVdmUdfUCLDMArNf60A2Bn+dx9qFr4ZdTppOAJouoVXbMlXnxLRZo5UwHi24fH7ZsPZE7+M1Djg==",
+  "dgSpecHash": "xt1AmAMhY3jUkNrcBDlGn2A3WOj1a+/UOccI/40wziLAqd4quz7NA3yggXQd7FHZVvl4DchcwApxdY5K7JfXCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Adapter\\Adapter\\Adapter.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Adapter\\Adapter\\Adapter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
   ],

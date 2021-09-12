@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aY1S5jaPNH3NY/kHO3B63t6lFHfHrMhtyA5FYdMwM7uVfg8KqjZ56SCFHNZIeDN1m2wbjs4QBOHlgnMhYyfKWg==",
+  "dgSpecHash": "75YX19BBOJshE1fc1fSp6LTfMEIxgCXHx6q2Ih2tESB9c0Sfb77+aJnEdPq34HAZ+TkJ9qXUKIdWjJtIRAcXXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Command.UndoOperation\\Command.UndoOperation.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Command.UndoOperation\\Command.UndoOperation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

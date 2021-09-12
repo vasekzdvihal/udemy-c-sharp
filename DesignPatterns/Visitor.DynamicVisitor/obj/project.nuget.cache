@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bGNgVTjF1U3owH4cq5g/VuUjgAzNHvO4TnQcce1F8J8WMA7U8lrUyBG51qjbjDaY0g63Oy/qZ+gxG//UWaORbQ==",
+  "dgSpecHash": "kInJli9gyB/BOvv5+qQqBB+SO3T3jB5nv5XhCNvO2ngfWSfotVUicf2wAVG+2Xe55ovi9RRvz1xembvzUSF1mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Visitor.DynamicVisitor\\Visitor.DynamicVisitor.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Visitor.DynamicVisitor\\Visitor.DynamicVisitor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

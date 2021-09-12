@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4EQF1xwb7HHDVpgnj5iqeSaLRuz1op+wl88iwdmJg9wW8xSXbo1KS2M/p5RAB1Y6vDPi4x7XMbPFVwDlwFfvXQ==",
+  "dgSpecHash": "DpLEmMoIT9ujMr/kewDGPeMZZDv6o/kUyR6G0JPmOIk0GSrI7iTb6u4wW+nSAV/jfZgV4pzUnwn42APKFWl9JQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Strategy.EqualityAndComparsion\\Strategy.EqualityAndComparsion.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Strategy.EqualityAndComparsion\\Strategy.EqualityAndComparsion.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

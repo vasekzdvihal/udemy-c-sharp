@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LNYm2Qc4QpcTRZtFoNzkGHosxA1+2SH4KK3zPcJgZIAOCoKFoJJ37EGP+QG7sFPdFnwi/q3//9cFQ5DQt+onvw==",
+  "dgSpecHash": "WfhTir3e0RWp+YEjNYYu9x3Ga92Imte2qskR61eUVzJUyVuPdhOUDg+GAuWCUBU/IvXQkmcDLHlHqvOfenx4Fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Strategy.Static\\Strategy.Static.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Strategy.Static\\Strategy.Static.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

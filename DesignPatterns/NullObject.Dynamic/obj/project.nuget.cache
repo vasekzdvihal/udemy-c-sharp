@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hzHqvahPIbGRpWEG7jzcwE/p1cffy/oHfqZm7dplU61axvMz5YTqHhvBnLHzbLr8EJ/o6T5DJ0N0Hq4/zJyrkg==",
+  "dgSpecHash": "MgG1rZRmvfeUP4yz7nnveQfYkhIOTlzF0MvSVD7xN8Uj32mQ0/uwbdJmhBOJaZslBYQYno6F4Ab4fl3jV3RjsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\NullObject.Dynamic\\NullObject.Dynamic.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\NullObject.Dynamic\\NullObject.Dynamic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\dynamitey\\2.0.9.136\\dynamitey.2.0.9.136.nupkg.sha512",

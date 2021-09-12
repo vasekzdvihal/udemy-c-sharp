@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ay5S24SQiJ0h8Qwa5Hvu8gTAriyINNZLrCVNNmW6GpL96amuSFUdnMVxfEfmB8ghcazq/oQZ7xwGG4MV3YID1Q==",
+  "dgSpecHash": "haIvCZxkuylmEtPCRXDWrP/b01N2Rmk8++TwdTqStnKZP8oFsdfkNWkXuuujCelPOASRePeLzPamhA85yG+/CQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Mediator.EventBroker\\Mediator.EventBroker.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Mediator.EventBroker\\Mediator.EventBroker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",

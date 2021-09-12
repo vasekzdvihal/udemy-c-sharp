@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MLoX6k6VzAXETWDTZwn1ViCrqZwjmKHVwZqnJSyrSL4hZ3Ru6h0v6YKd4123FFs7uhDoPzYukjjlI/ZdFxksWQ==",
+  "dgSpecHash": "ZhvRVbtnY6VB8Qz2wolweJo6mTlmfgzi5wSr9Lzz2b/zFIP5PcrfoKf8exEDP+4600j7LnQB6hJd/tQUZoYLAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Visitor.DoubleDispatch\\Visitor.DoubleDispatch.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Visitor.DoubleDispatch\\Visitor.DoubleDispatch.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

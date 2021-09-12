@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LFjUt+VyM7BmlgHl9eBwPFOrL9f9LcV8QlSUqqkce6IKOD78zGaGRKgntnC6rhCYhH7BDQiuZGoHQuIKinN+1A==",
+  "dgSpecHash": "oAsBDan5Qt5eNCE2kirLp7jzYm93B3Vcj1nVDp/YwzMrfCGNnHjEmTEmdToWDIOWU87GIB7heq51fs+bprojFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\NullObject.Singleton\\NullObject.Singleton.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\NullObject.Singleton\\NullObject.Singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

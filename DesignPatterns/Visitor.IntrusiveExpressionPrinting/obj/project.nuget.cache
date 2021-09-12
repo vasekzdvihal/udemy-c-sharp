@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YGKk6ou9usccJZdm6vXyVYEimEvwagmD+/XXcXGkBWjMNiFmiYUsRuYcHQjInEdPgc0h3PDMkyowetcmkDS+1g==",
+  "dgSpecHash": "a9E3pwsSLB7CGoJnDn6GLLBRzfhpNDo6JU9f+iYRCCtx4r2KIHvt4pp7rKIjQYlzCuWFPSiZEWf2XtbDEqQqFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Visitor.IntrusiveExpressionPrinting\\Visitor.IntrusiveExpressionPrinting.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Visitor.IntrusiveExpressionPrinting\\Visitor.IntrusiveExpressionPrinting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

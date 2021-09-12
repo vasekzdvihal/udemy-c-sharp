@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "te4siTPN6LLFbM16O/t19cdLXaun8t1jB38D4Ij/YErDPc07gvqtnFnR2wKaN2WrBFkEX0GEeJASM3+BJCt+sQ==",
+  "dgSpecHash": "uGhZfcI4quv+6K4O+7+u/9oR/i9bwZW1zPI0UXOY/fwYAHJBi43cwlhCO/t8ZxPX9PhubiZMSDmnzjWiX05Tnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Decorator.MultupleInheritenceDefaultMembers\\Decorator.MultupleInheritenceDefaultMembers.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Decorator.MultupleInheritenceDefaultMembers\\Decorator.MultupleInheritenceDefaultMembers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

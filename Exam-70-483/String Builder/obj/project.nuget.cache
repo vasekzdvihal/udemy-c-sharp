@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XduPBt8jXWK0UQ4o4v9+JUiY6mKrcWlVpqA9Tn/Jvlye8XkM2v1C9bMy3gqiLnJYp3MA6BjmM2jio4e3ItS80g==",
+  "dgSpecHash": "DYXqBw/8q5VJLpK+rEzaaiin8d6c/LHdyEruMfQ+lU6AMmY5tEdbodZW/g1//axwWWkUKcXFY+zWEEoyrqUffw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Exam-70-483\\String Builder\\String Builder.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\String Builder\\String Builder.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

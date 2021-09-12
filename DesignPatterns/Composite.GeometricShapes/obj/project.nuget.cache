@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U3u8DW6Nhwm+K+U1j0Q2Y+eTsdUZIBa6iej78dWXqrxa5SLtCWm1KB5GPeDAwtlMNco3krlvW55rs78mM+GPpA==",
+  "dgSpecHash": "CVN/RyY9fnkd3yJiARgf1yg7g4VXAHuHwLAGjxv8M4FYiZEYiDnbX+1bRn5vVr5TWvQItJw3mGY9X8kzFATy9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Composite.GeometricShapes\\Composite.GeometricShapes.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Composite.GeometricShapes\\Composite.GeometricShapes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

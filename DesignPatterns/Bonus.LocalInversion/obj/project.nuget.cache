@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cLGvGsAJwAPAl2sV861LwZ9Dt8WuMCMqsG5IXuN+3lqFiM/vv36ipYEC20EUx3mF1tn0t4cr5DG5kXth+c9YNQ==",
+  "dgSpecHash": "xk5ll2ga2jpGgaeRHDszYHfoT91/fcNHJFhNgH8AlAoOoJ6N243DRE1yAwDUAnodBH1+t3jC5c9qnDVzvYA4lA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Bonus.LocalInversion\\Bonus.LocalInversion.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Bonus.LocalInversion\\Bonus.LocalInversion.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

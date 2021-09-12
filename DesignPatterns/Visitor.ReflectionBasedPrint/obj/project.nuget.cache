@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x7GZtSjSi7PZTZqSpWfhIc7B6DvVzyogEbIwParpJL1QYjqEeM4LLsRKKHqp68bJJy+G2I0Q2n/oZV6u9tBtCA==",
+  "dgSpecHash": "Y+UgpHt8DjDIw8qoDaJb67bniwunqbJqpMQQ+Cpt5iVbSF+bPpEl53umNi2rFhvMb+4ZU9Jv0cUF4U/5u2CtZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Visitor.ReflectionBasedPrint\\Visitor.ReflectionBasedPrint.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Visitor.ReflectionBasedPrint\\Visitor.ReflectionBasedPrint.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

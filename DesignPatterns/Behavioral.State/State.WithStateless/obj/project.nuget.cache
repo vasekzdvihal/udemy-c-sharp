@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I/4QW2nPaylaRSzEUFoZTtD6XDorBfLWcAPYvxJUeufSlzi6H98UT2suCyg7/xvvghXQTsuXhj4+UoDxUZ4ziA==",
+  "dgSpecHash": "FVxNfl8Emxh3IJ3bQHA9I8mvB3D8z8bwh1x49t90Gw5YyoPjjiI4vEpA24NgXu6LhgNy3E4TEKBQkny256Guew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Behavioral.State\\State.WithStateless\\State.WithStateless.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Behavioral.State\\State.WithStateless\\State.WithStateless.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\stateless-4.0\\2.3.1.1\\stateless-4.0.2.3.1.1.nupkg.sha512"
   ],
