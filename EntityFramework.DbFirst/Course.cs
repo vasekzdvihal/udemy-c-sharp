@@ -25,9 +25,8 @@ namespace EntityFramework.DbFirst
         public int AuthorID { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
-        public short Price { get; set; }
-        public string LevelString { get; set; }
-        public byte Level { get; set; }
+        public string Level { get; set; }
+        public short FullPrice { get; set; }
     
         public virtual Author Author { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]

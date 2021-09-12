@@ -82,6 +82,9 @@
     <Compile Include="tblUser.cs">
       <DependentUpon>PlutoModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="UserProfile.cs">
+      <DependentUpon>PlutoModel.tt</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EntityDeploy Include="PlutoModel.edmx">
