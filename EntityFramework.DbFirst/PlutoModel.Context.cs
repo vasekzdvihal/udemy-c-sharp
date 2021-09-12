@@ -53,14 +53,9 @@ namespace EntityFramework.DbFirst
             return ((IObjectContextAdapter)this).ObjectContext.CreateQuery<funcGetAuthorCourses_Result>("[PlutoDbContext].[funcGetAuthorCourses](@AuthorID)", authorIDParameter);
         }
     
-        public virtual ObjectResult<Course> GetCourses()
+        public virtual ObjectResult<GetCoursesResultTest> GetCourses()
         {
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<Course>("GetCourses");
-        }
-    
-        public virtual ObjectResult<Course> GetCourses(MergeOption mergeOption)
-        {
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<Course>("GetCourses", mergeOption);
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<GetCoursesResultTest>("GetCourses");
         }
     
         public virtual int InsertCourse(Nullable<int> authorID, string title, string description, Nullable<short> price, string levelString, Nullable<byte> level)
