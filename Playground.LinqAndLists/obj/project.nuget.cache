@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qyq5YeKJgERkSbBC4gNZv4yKISI4/pShBSieMv4xO55P4cqczbAOPeMYDOQWRQmxUCj3yJ1dhOCznlTvRQHXVA==",
+  "dgSpecHash": "nCYjLaWpGBkgf1y0F9c/muQa72kSk49U9me1ab7U8v+oC1WSga0XXkNkaMUMypas8H0dHkFiFY9zZGLUFczKjA==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\Playground.LinqAndLists\\Playground.LinqAndLists.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

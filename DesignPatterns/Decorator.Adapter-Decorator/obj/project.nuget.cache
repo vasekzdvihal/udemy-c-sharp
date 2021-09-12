@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JgC2soKeZp6KtDtuNVSwWx4wjOVea1E2rAwVusmd0cif95ZwjN6thTQkpMUAFCLio5V8UrRH5l8D0MzfNYLf0w==",
+  "dgSpecHash": "HIchMBA+W3zI7eqgM66r3IHaWD0PFKviXFWYphHQa1E/rdzapuSJ9yk92rBja0t/eDpWSYHxfrZfM/K16rRPJg==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Decorator.Adapter-Decorator\\Decorator.Adapter-Decorator.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

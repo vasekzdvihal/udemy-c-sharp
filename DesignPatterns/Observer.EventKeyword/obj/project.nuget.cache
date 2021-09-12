@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PcVUt8uv8rdbCy5hrVQ6H/pb7MzeuM/tnR7BSCDh/MV08qik651aG/eRDFZUMnKqiKzJ1+6ZuGdmuGXMuUSldw==",
+  "dgSpecHash": "Cdv4ozi5UhPGfTmI+hyrpRkW6SZNYrO5/zYk4u2QOVgO6XuTjGdRtdGMLucyi2ECCYo7u2ubqYxuk6sb2Dgmkg==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Observer.EventKeyword\\Observer.EventKeyword.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

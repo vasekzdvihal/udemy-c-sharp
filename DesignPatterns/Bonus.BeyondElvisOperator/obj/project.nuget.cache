@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v2Q6srRudeDHpYDgbGGnOVeN9lRCQWWQLUl0fVr2sZMSmy1FHZtJTqY0nlq/aWj/6SRnOMyPCCaU0bxIW3I3Tw==",
+  "dgSpecHash": "sM/giL7Vu49KniyKliwR8Nrx1ICTYpAfG8LP5Nf7eoWb4pmM1a8+5tq8QgitLWj9ZaaQ7AqtlxMP5C5AfePz1w==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Bonus.BeyondElvisOperator\\Bonus.BeyondElvisOperator.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

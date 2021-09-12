@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0+bcBSrSXYz45+O3IcU60r8dRUbBNoByetjqqjq0yneJTNRJTQqWV1FkrSNfmvkc39L+Oci2FAXSdptBFwv6OA==",
+  "dgSpecHash": "FHC8dzI/suQLekYW8YRgMxwgBUiG8D2Wi0dOACiox1PlZQD3NbBxwoVMw7pWDNwq0DMNHV8FdZdIw2Z6dCLlFA==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\IAmTimCorey\\Generics.Basics\\Generics.Basics.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

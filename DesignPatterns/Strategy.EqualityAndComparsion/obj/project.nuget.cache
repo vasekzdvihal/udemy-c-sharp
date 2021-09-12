@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sVMKEGNaD6vClFq4bjiw5V99cBWi+OERxxEClBd98AHdVimpiDCNS8jzGLbcZG2pdVaHsmwKTKnerKsC+iAP2g==",
+  "dgSpecHash": "4EQF1xwb7HHDVpgnj5iqeSaLRuz1op+wl88iwdmJg9wW8xSXbo1KS2M/p5RAB1Y6vDPi4x7XMbPFVwDlwFfvXQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Strategy.EqualityAndComparsion\\Strategy.EqualityAndComparsion.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

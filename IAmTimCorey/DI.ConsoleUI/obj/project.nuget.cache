@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "jrWoeBKNevXMo30VfCkwygAQDekGSIPjx1ugMLGTLq8WUcJZiasjTp6wvfOlk6FNKYMIxwczYE/54geYpJP7SQ==",
+  "dgSpecHash": "QsM/gFcL3Pq/Tx8iYMFVlh3mUMvzNBZ1x1Fly2MgU4jafuagMEDmdozcQ2G3yQ7IR5G7F9x4wp6FMksEll5vzw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\IAmTimCorey\\DI.ConsoleUI\\DI.ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

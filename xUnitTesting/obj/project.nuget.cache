@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FYGE/vDrL/Tq1DBEXhebOirpTaIWj6HFYJa3jXTgnuJbtTmVlLlnZNSEmpbT97jGsckIKYy5ED2RFDRDaI6Riw==",
+  "dgSpecHash": "9nTvp4pIhQxwJTp+0U1x+WYjT4l7qVz5w4fPPULst7uMzhwcpBIqmkKb5RzkqYTNrSvINNm60d77vI3zWfxrxQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\xUnitTesting\\xUnitTesting.csproj",
   "expectedPackageFiles": [
@@ -94,9 +94,7 @@
     "C:\\Users\\zdvih\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
   ],
   "logs": []
 }

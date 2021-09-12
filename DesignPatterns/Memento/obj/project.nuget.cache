@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FeezISLXRAw8g0DwH9elVs3y6mcaP5rDtKjUtX9m7zGortdu0bF6fVfs4ejqRAURH7ggf2Y5FRkEW8f/A45ZVA==",
+  "dgSpecHash": "kV+6s7bDYee2pJxsuTw4d42uAq99zvMI9aEPpnCo9f4V03vfPUqaIr3oWh7OwAaj0u/zFvcOTx1lyVnGSm7Q5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Memento\\Memento.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

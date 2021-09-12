@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YWq9CFqK8Nwq+A8SIm9dR6QUxOlOzCmV/hyD5nDsD8dtdlhF7pBCuEBsZKfPZooD4vX5etLo1mbeiRylL0XUCQ==",
+  "dgSpecHash": "O7Th3lMHYkHPr9KBNDyAfrYVyqGRsurscEWXnEL6YVzflXlpMzxcRYXqfaYqdVMbH8AkTYtKf0nTqvfZGzxMUw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Proxy.BitFragging\\Proxy.BitFragging.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

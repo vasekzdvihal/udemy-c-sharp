@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "39K1rk0HY13XX5s0ugBFzVBaeXCkVLdvhAm8+7NH5Rmatw8SL/qJJEv9ejlDe1x/zDuccnLuPxp20Qvcb+5gVw==",
+  "dgSpecHash": "Juq4TOGNmNkWCAxYyPivU/LlgB3dYJInwrNHuToOy2R8LWwbmDDXgB1vzRh+rqDV++YfyW6ESm3Hqnc/EFJc4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Template\\Template.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

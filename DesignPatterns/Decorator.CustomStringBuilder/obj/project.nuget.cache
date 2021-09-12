@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oKkspyYFUZREkvQ6Evd+vGOHORyICDDqOooJdn7ptNGJyIk71M9L/bbyAnJab3vdUi+PNRkVAsaUeohJt762hg==",
+  "dgSpecHash": "SxwplL6/A5LsJ0NBut3azxHtM1V6HyVNrd/TgJMLVhQbLOaK8XZRvfDjEamvmUK7UvUgjCCk54obH1Q3VRV7kQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Decorator.CustomStringBuilder\\Decorator.CustomStringBuilder.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

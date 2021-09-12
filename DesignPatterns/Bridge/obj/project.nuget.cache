@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "WDnYwN56eoAIDfbquFHRrbmMjBIGIeTBSd0kPyolMiH8BO+iIO0aLZvj34udDWbyh3xnTbWYFFEG2ydy21ZKgA==",
+  "dgSpecHash": "5P9jCPpS5fyytf4HtbmTwh61Df6o6CqWy0xmSJEmqI8Eox4xsbKfG/YQ62AflCRU/xmg8mn2uYTPtlv/GoEQDg==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Bridge\\Bridge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

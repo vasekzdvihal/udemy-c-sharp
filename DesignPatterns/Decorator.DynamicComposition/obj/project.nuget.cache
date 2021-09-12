@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P7dThAafSSk9XxD2C1tOCCPt+uCXdVmu7R8FeUzyuaDSHdpICgTNy5MWXNJDR4yq6MHB7pj3ZfMNlusqOrQ2gA==",
+  "dgSpecHash": "/M0jJr+tdEz5by4/oec7vrqTAXvZUIAGtVjfAgSHxzXWsfjvSvPOUvKQen0C+6oiPbhksTujDMiF7YTAJo0aTg==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Decorator.DynamicComposition\\Decorator.DynamicComposition.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rAlTiZEq97Hg/jNu0j0uP3qh5o9D5iAr+Ul/b0FqHzyg7rOdDh/RSYFc/uthGi15Oz7R/IURC0wo687vBNkFSw==",
+  "dgSpecHash": "PxSXphuxgSCd6Wj4NLw7J2KAav6FCokpzM2Ksv0N1rrQiKNK6or54Si7p06Ms5egCzRfrpjYi77OqUYo0NZHTw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Iterator.DuckTyping\\Iterator.DuckTyping.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

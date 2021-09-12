@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aqQ0cbr6/s6h5Q4hkpkuCvfZ0YT3RtGCOjtVzfwyg7odGH5aK1s3E/THuS5YjTMkgfxP7f4Za40gyibpoie1pA==",
+  "dgSpecHash": "3E9fwF4isPMKancQDJQQiyl0It/AQ396iAYGuACvKsjlYD0+3lu3jCT6fLeZpCos1qV4oN98NcXHJ6PG+f+8og==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Bridge.Exercise\\Bridge.Exercise.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

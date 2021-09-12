@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CH8+X0el+31vHtGZkctqVnlf9dHKk+oL6GqMQPSD8eDg3DXO2wKcf1hHHzT6WA+v3Q+IAahblQVnTiZOnTSssw==",
+  "dgSpecHash": "NyGkqz3TkEFcih/vrEpFP1Bdm+ytnj/OuE/78s+2sObRWRzEFR/Qr6AVFeI/SnGlUU0X9FvsBDMWQC7UWWnU8Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Flyweight.TextFormatting\\Flyweight.TextFormatting.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

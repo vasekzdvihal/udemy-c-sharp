@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ir6HwdvwcHHVVjHfubUnYakbEYsh6RQN/JlI8hrSFigv6szXYtpd97feIU7XVHmGvshDO4RBRKWhkzrMpEwc3g==",
+  "dgSpecHash": "MLoX6k6VzAXETWDTZwn1ViCrqZwjmKHVwZqnJSyrSL4hZ3Ru6h0v6YKd4123FFs7uhDoPzYukjjlI/ZdFxksWQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Visitor.DoubleDispatch\\Visitor.DoubleDispatch.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gzFU6XK4MSKL6VJ59AKrVA6MGVS+dzfQd2nwOZBsr8Barz6mIgqBsTOHD32CbNF8k2fDvoOgFDojFaFe5aCXVA==",
+  "dgSpecHash": "FflACH6/PA8s/ylX4TWZayg3hQ6frvist+9FVl4xiugvPoTKbmGmjFIUiWkAXTGdvOhIx97/wDTEYVW6cP8E6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Behavioral.State\\State.SwitchExpression\\State.SwitchExpression.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "h7mK87RxmUiBO3xCLH4iZ7/OTZIfyPxlIQkDDd45oWNa2SYFXnuYaZyAwGMI3qCCJsfi+JWdm/M1MTGZARwf7g==",
+  "dgSpecHash": "Ay5S24SQiJ0h8Qwa5Hvu8gTAriyINNZLrCVNNmW6GpL96amuSFUdnMVxfEfmB8ghcazq/oQZ7xwGG4MV3YID1Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Mediator.EventBroker\\Mediator.EventBroker.csproj",
   "expectedPackageFiles": [
@@ -12,9 +12,7 @@
     "C:\\Users\\zdvih\\.nuget\\packages\\system.reactive.linq\\5.0.0\\system.reactive.linq.5.0.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\system.reactive.platformservices\\5.0.0\\system.reactive.platformservices.5.0.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\system.reactive.windows.threading\\5.0.0\\system.reactive.windows.threading.5.0.0.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": [
     {

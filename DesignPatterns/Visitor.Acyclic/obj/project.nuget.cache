@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nskkt1Fxj+nx3U9EAAwYrC96Aid3KgESJpfvsahg94QneMnU1yUy737JW5IAfVrq2V1HqCucV7IssPhHU8jCQw==",
+  "dgSpecHash": "nP6Z9OjJXHA2253DGzLuGzMdgZ3MML2Rkz9gBThFOzjp/fUddmlhW4KvT2CZzQqI/uTQhU64eSjRf8pbFl7Gig==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Visitor.Acyclic\\Visitor.Acyclic.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

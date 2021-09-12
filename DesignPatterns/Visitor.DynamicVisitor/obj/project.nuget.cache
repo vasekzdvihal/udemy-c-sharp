@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0oQjDq0k/TkqCWIisQQBzyD4Y+/LWAiyZKP+di9BpS0vOgnJ3i/PlIFpzuIiTi3GgUtqz6sXj6iqYBbRRwzR/w==",
+  "dgSpecHash": "bGNgVTjF1U3owH4cq5g/VuUjgAzNHvO4TnQcce1F8J8WMA7U8lrUyBG51qjbjDaY0g63Oy/qZ+gxG//UWaORbQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Visitor.DynamicVisitor\\Visitor.DynamicVisitor.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

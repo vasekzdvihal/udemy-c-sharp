@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BQksAscUwC7jhMqehOoN92+fbwIfJEX289wA8PhW6/1P1O49pQtBgtupFWOHac/XCZ6bdtkppElFQvDZzm4+aw==",
+  "dgSpecHash": "mwPaE1O/LJekMgquaeaJTj7a/QmmUsedHFacnN4HGBwodKtiMBO4iUJ2ntpR3cgizX3YLjFQ4g8D1tDU6F1YfA==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Singleton\\Singleton.Tests\\Singleton.Tests.csproj",
   "expectedPackageFiles": [

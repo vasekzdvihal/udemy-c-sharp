@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2iri9sMozcy4pNO4JPrjib9wUF1iBlZkGrNUFql/7sk83C7ct2Ew16MuvNzNRXFwT0I63qTtpJW4Q+/OoGWhzA==",
+  "dgSpecHash": "br5/maEl4yUFo+pc7qCYylQrgb8M4EN5oYvUPZKp2Pg1oc9+dTpuETMmb91+hwBxPpSKxDRT1y4exf39qrFXXQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Singleton\\Singleton.Exercise\\Singleton.Exercise.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

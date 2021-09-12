@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WtadzxaD89UdKxG49vbkjGwaQoUKnNT39wQzF+1uU9sNXIfa3X6aWIQ9d0emmhUmjwQ8Pd/D33D38JlxW5BLCQ==",
+  "dgSpecHash": "9Jum0IVkjXLdAQcsxuPqN9e5toqiEw+zafCOKOECuy54rzzRmtxHoi5SFHNfN9eVtmFPWLvmRiiEty8fmmLrJA==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Singleton\\Singleton.AmbientContext\\Singleton.AmbientContext.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

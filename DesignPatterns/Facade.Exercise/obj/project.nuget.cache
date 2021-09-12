@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZBKH7YZd5+EE9S/uUK/ok06ws/OKoQ76uZGcDmV2RjY76BKS4Tf0L94UWvwgF+v1FLGQxWws/Ln4di9Fh5+fZQ==",
+  "dgSpecHash": "97RpZhd25XmiUujPqKCncI9wlwM9C8OhmOwuElTeW+WpH0tOjJzWrxiNgdbWYVv05Ozb8wPmBMlABMOdgsT1Jg==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Facade.Exercise\\Facade.Exercise.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

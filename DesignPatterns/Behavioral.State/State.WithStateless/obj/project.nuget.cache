@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KKG87ucP7sAxdAhnjxeZYz+eWAbf97u3A5c3kqfD5l7++vXa/DOW/VE53cYSyVUSfPEGxr4wmlTQCqxkYJ3LDA==",
+  "dgSpecHash": "I/4QW2nPaylaRSzEUFoZTtD6XDorBfLWcAPYvxJUeufSlzi6H98UT2suCyg7/xvvghXQTsuXhj4+UoDxUZ4ziA==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Behavioral.State\\State.WithStateless\\State.WithStateless.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\stateless-4.0\\2.3.1.1\\stateless-4.0.2.3.1.1.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\stateless-4.0\\2.3.1.1\\stateless-4.0.2.3.1.1.nupkg.sha512"
   ],
   "logs": [
     {

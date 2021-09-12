@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KrI7E9j1wKeEgesHMSJQRdH4LBsDsjFGKxDPRJ74PxjE6CCM9BNMeMYEK4NS+/ZZoL91zm6wKEdM0R6x1IW0xw==",
+  "dgSpecHash": "nK+XnEJvYJvVIPw8CBat9ph5MnqlGvDzTQuxjbfbEFsJ2L7tAawCK/qfM1I4TShtc041Kw2Lm7nYFTHctuLKtA==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Proxy.Protection\\Proxy.Protection.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

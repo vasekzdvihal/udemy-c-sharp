@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lrevzei8boz0wHgJZgK+zPqd++nogVKQHcKIi27dk37BqvKRy9oiERO7JGDP3+0fqm19QY/MAWAhDzgMb+CEEQ==",
+  "dgSpecHash": "3HaYdJi2vhmZAoD8ejMha3+VFCYPwoc/kPZGtv9XGFM/SHuxNRzkwFkrrSVLIDyS64kO5C5rAqhu+Gl09MZSUg==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\udemy-c-sharp\\DesignPatterns\\Intepreter.Exercise\\Intepreter.Exercise.csproj",
   "expectedPackageFiles": [
@@ -47,9 +47,7 @@
     "C:\\Users\\zdvih\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\system.threading.tasks.extensions\\4.0.0\\system.threading.tasks.extensions.4.0.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\system.xml.readerwriter\\4.0.11\\system.xml.readerwriter.4.0.11.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512"
   ],
   "logs": []
 }
