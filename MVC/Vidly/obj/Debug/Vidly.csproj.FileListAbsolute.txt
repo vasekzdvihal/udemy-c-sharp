@@ -613,3 +613,5 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.csproj.CoreC
 C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.dll
 C:\Users\zdvih\source\repos\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\MVC\Vidly\obj\Debug\Vidly.pdb

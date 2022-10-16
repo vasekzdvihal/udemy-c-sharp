@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "75YX19BBOJshE1fc1fSp6LTfMEIxgCXHx6q2Ih2tESB9c0Sfb77+aJnEdPq34HAZ+TkJ9qXUKIdWjJtIRAcXXQ==",
+  "dgSpecHash": "AydbDLL8xjSAFSgOLguCigT3r6xaIhFjxFQyra2g0l+F6kg6/INKcMM/BwzQFqGsrjxSq4YDmoszpGgagHGqvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Command.UndoOperation\\Command.UndoOperation.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Command.UndoOperation\\Command.UndoOperation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
   "logs": []
 }

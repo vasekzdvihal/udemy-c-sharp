@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "tPa6DvHNXeahmCBx29gQ3YR21fFBrrbQPwKs80yUjvbNhvoy2yrm9q61jprdwRGZX3WEeIUhRV7PcEIh47/SyA==",
+  "dgSpecHash": "QhAWjy/Nz3MNntPWF0m3DtIo+UnRJjxnVdMtWqa555r1BZwPM/xn4YX9ihe4Xk/ZNsb/yCVKZ7leZB9jrO9k1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Memento.UndoAndRedo\\Memento.UndoAndRedo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Memento.UndoAndRedo\\Memento.UndoAndRedo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
   "logs": []
 }

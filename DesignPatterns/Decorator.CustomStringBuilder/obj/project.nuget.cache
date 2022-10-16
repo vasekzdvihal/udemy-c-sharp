@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "XVcDoXEzuLrOy1ilEzRi94PHW7q97u9x2vz94/GA/MfokN0tMbYN/HxZ79EmqYwQCLONuo0SApA3OiudxVoONw==",
+  "dgSpecHash": "m0rSsNoI1z4l58auFfcxzO+j/xokdEMdmZj3gFg7753dob4poAE+09QTLtQQBbZ6R195Cxj8La/yrw4qLa3Rhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Decorator.CustomStringBuilder\\Decorator.CustomStringBuilder.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Decorator.CustomStringBuilder\\Decorator.CustomStringBuilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

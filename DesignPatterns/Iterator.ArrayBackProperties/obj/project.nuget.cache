@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HjsXkQGYN9nL1tHYB2rgwkZ6KSVwmt6vu7GfGC4N4Ye3ueowlxZeazgmHAs3NPajL/Ha41/IXJGRV2y3CNr+2g==",
+  "dgSpecHash": "kzL6CisaDvEL7kMnrA4ipm55RQJkldco9z2q6Hvtb2kDVlsfsvySuEk6Bn83ZfDcr3k5pDekAnA1JtiY4EawFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Iterator.ArrayBackProperties\\Iterator.ArrayBackProperties.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Iterator.ArrayBackProperties\\Iterator.ArrayBackProperties.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
   "logs": []
 }

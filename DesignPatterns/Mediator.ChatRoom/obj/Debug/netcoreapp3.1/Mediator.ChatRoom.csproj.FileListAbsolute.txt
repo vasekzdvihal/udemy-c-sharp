@@ -11,3 +11,17 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Mediator.ChatRoom\obj\D
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Mediator.ChatRoom\obj\Debug\netcoreapp3.1\Mediator.ChatRoom.dll
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Mediator.ChatRoom\obj\Debug\netcoreapp3.1\Mediator.ChatRoom.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Mediator.ChatRoom\obj\Debug\netcoreapp3.1\Mediator.ChatRoom.genruntimeconfig.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Mediator.ChatRoom\bin\Debug\netcoreapp3.1\Mediator.ChatRoom.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Mediator.ChatRoom\bin\Debug\netcoreapp3.1\Mediator.ChatRoom.deps.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Mediator.ChatRoom\bin\Debug\netcoreapp3.1\Mediator.ChatRoom.runtimeconfig.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Mediator.ChatRoom\bin\Debug\netcoreapp3.1\Mediator.ChatRoom.runtimeconfig.dev.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Mediator.ChatRoom\bin\Debug\netcoreapp3.1\Mediator.ChatRoom.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Mediator.ChatRoom\bin\Debug\netcoreapp3.1\Mediator.ChatRoom.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Mediator.ChatRoom\obj\Debug\netcoreapp3.1\Mediator.ChatRoom.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Mediator.ChatRoom\obj\Debug\netcoreapp3.1\Mediator.ChatRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Mediator.ChatRoom\obj\Debug\netcoreapp3.1\Mediator.ChatRoom.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Mediator.ChatRoom\obj\Debug\netcoreapp3.1\Mediator.ChatRoom.AssemblyInfo.cs
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Mediator.ChatRoom\obj\Debug\netcoreapp3.1\Mediator.ChatRoom.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Mediator.ChatRoom\obj\Debug\netcoreapp3.1\Mediator.ChatRoom.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Mediator.ChatRoom\obj\Debug\netcoreapp3.1\Mediator.ChatRoom.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Mediator.ChatRoom\obj\Debug\netcoreapp3.1\Mediator.ChatRoom.genruntimeconfig.cache

@@ -11,3 +11,17 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observer.EventKeyword\o
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observer.EventKeyword\obj\Debug\netcoreapp3.1\Observer.EventKeyword.dll
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observer.EventKeyword\obj\Debug\netcoreapp3.1\Observer.EventKeyword.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observer.EventKeyword\obj\Debug\netcoreapp3.1\Observer.EventKeyword.genruntimeconfig.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.EventKeyword\bin\Debug\netcoreapp3.1\Observer.EventKeyword.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.EventKeyword\bin\Debug\netcoreapp3.1\Observer.EventKeyword.deps.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.EventKeyword\bin\Debug\netcoreapp3.1\Observer.EventKeyword.runtimeconfig.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.EventKeyword\bin\Debug\netcoreapp3.1\Observer.EventKeyword.runtimeconfig.dev.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.EventKeyword\bin\Debug\netcoreapp3.1\Observer.EventKeyword.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.EventKeyword\bin\Debug\netcoreapp3.1\Observer.EventKeyword.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.EventKeyword\obj\Debug\netcoreapp3.1\Observer.EventKeyword.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.EventKeyword\obj\Debug\netcoreapp3.1\Observer.EventKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.EventKeyword\obj\Debug\netcoreapp3.1\Observer.EventKeyword.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.EventKeyword\obj\Debug\netcoreapp3.1\Observer.EventKeyword.AssemblyInfo.cs
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.EventKeyword\obj\Debug\netcoreapp3.1\Observer.EventKeyword.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.EventKeyword\obj\Debug\netcoreapp3.1\Observer.EventKeyword.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.EventKeyword\obj\Debug\netcoreapp3.1\Observer.EventKeyword.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.EventKeyword\obj\Debug\netcoreapp3.1\Observer.EventKeyword.genruntimeconfig.cache

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3lPqh2BRyRHyNmvMYEMJCzMqcQ+l3KfZi+6uaYgNuEbX8hY8zSmu3WpsMYfYm6cJzai/EcbVv/Ox9s5xHkfdZw==",
+  "dgSpecHash": "DyCMzMOlmJkMw2HyE0TqizzxWUDgNY1/N+XY7f0v4PXKvc0TPgp99+Rh5Q1AOV3lUR3L9WgGO9rtvxsJy0+c0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Singleton\\Singleton.PerThread\\Singleton.PerThread.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Singleton\\Singleton.PerThread\\Singleton.PerThread.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

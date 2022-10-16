@@ -11,3 +11,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Builder\bin\Debug\Build
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Builder\obj\Debug\Builder.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Builder\obj\Debug\Builder.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Builder\obj\Debug\Builder.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Builder\obj\Debug\Builder.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Builder\bin\Debug\Builder.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Builder\bin\Debug\Builder.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Builder\bin\Debug\Builder.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Builder\obj\Debug\Builder.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache

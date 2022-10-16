@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "dMGsXMmHB61vSck8Wq30nl3be/xavfCx+ObGGZgevEcHrLPqI+QDifTaXwxPWwbJa4O6MekaOAwKyXOswjk1Aw==",
+  "dgSpecHash": "vgdr0K1NM2fuMDuIf5QA0F4x2i/MDmHD4GcVZQ9bnEAY4AjnTb7UqWD59N9130vDPSe1UYnFbe9xu6bIwVWHXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Template\\Template.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Template\\Template.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

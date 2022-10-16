@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h96ISGeB19iwSrTeWDWC6fRt3NvaVvl9BuNkQz5HYjCMf4o70UPdsr1Eo5SIP8VXJQ341UYHgY9znlZQSDgROQ==",
+  "dgSpecHash": "3nw7ISbUXLt3R3viV2WwQQxGS9Ga6SWvkZEHpK9uSN3+Bx3OJtUZeTGcvDMDs9/IgTEdgU8WoiaSpzkhp6xvyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\xUnitTesting\\xUnitTesting.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\xUnitTesting\\xUnitTesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.codecoverage\\16.10.0-release-20210330-02\\microsoft.codecoverage.16.10.0-release-20210330-02.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
@@ -94,7 +94,11 @@
     "C:\\Users\\zdvih\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "c+tOD9qCoyY3YQABTIFVNpKIvf0Ur85yWIuHRqCIHV8/Q09tdUh1WH0w5D757XJeK1ZF4aAsHUt3Rh5yld2j7w==",
+  "dgSpecHash": "D3NMHM1iF3hNyuRTS82JwagEmEAH1Lcq8wfCYPGcuSpNxXEHVC4kcZxvz0i9D3zqtTnuzRoFT08ZqaKkw1AIRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Adapter.GenericValue\\Adapter.GenericValue.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Adapter.GenericValue\\Adapter.GenericValue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

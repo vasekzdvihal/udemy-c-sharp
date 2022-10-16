@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+nCzFgVUNYzHqrLJjh04OGcjYDA61MgVajmXBoGTlb5S2LO6+xgkcOdzvLW5qtgqerlkr8+MattSwJki1xIHOQ==",
+  "dgSpecHash": "dZpIkSd7sANz9Qa6QCUksGB55NJ088aFJW0U1YCAUdBgmrQEACtRqrm1WvTBSAaLYRB0ac2Xlrfsp2Sxr4GVLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Playground.LinqAndLists\\Playground.LinqAndLists.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Playground.LinqAndLists\\Playground.LinqAndLists.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -11,3 +11,17 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Interpreter\bin\Debug\n
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.dll
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.genruntimeconfig.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.deps.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.dev.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfo.cs
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.genruntimeconfig.cache

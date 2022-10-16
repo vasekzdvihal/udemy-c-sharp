@@ -11,3 +11,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Basic Event Example\obj\De
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Basic Event Example\obj\Debug\Basic Event Example.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Basic Event Example\obj\Debug\Basic Event Example.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Basic Event Example\obj\Debug\Basic Event Example.csprojAssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Basic Event Example\obj\Debug\Basic Event Example.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Basic Event Example\obj\Debug\Basic Event Example.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Basic Event Example\bin\Debug\Basic Event Example.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Basic Event Example\bin\Debug\Basic Event Example.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Basic Event Example\bin\Debug\Basic Event Example.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Basic Event Example\obj\Debug\Basic Event Example.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Basic Event Example\obj\Debug\Basic Event Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Basic Event Example\obj\Debug\Basic Event Example.csproj.CoreCompileInputs.cache

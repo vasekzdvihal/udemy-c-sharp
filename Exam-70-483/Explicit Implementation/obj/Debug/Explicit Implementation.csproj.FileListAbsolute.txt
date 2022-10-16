@@ -4,3 +4,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Explicit Implementation\bi
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Explicit Implementation\obj\Debug\Explicit Implementation.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Explicit Implementation\obj\Debug\Explicit Implementation.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Explicit Implementation\obj\Debug\Explicit Implementation.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Explicit Implementation\obj\Debug\Explicit Implementation.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Explicit Implementation\obj\Debug\Explicit Implementation.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Explicit Implementation\bin\Debug\Explicit Implementation.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Explicit Implementation\bin\Debug\Explicit Implementation.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Explicit Implementation\bin\Debug\Explicit Implementation.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Explicit Implementation\obj\Debug\Explicit Implementation.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Explicit Implementation\obj\Debug\Explicit Implementation.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Explicit Implementation\obj\Debug\Explicit Implementation.csproj.CoreCompileInputs.cache

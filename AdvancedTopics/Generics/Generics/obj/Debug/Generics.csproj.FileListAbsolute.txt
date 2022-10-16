@@ -11,3 +11,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\Generics\Generics\obj\D
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\Generics\Generics\obj\Debug\Generics.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\Generics\Generics\obj\Debug\Generics.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\Generics\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\AdvancedTopics\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\AdvancedTopics\Generics\Generics\obj\Debug\Generics.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\AdvancedTopics\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\AdvancedTopics\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\AdvancedTopics\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\AdvancedTopics\Generics\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\AdvancedTopics\Generics\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\AdvancedTopics\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache

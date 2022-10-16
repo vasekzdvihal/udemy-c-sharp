@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "eO1mz1wPHM0m3ZfWpuhpdcHA51fMlH6pFCcVe6PGQw/fQZAaEMxX862Fz4C6azOYrvVzB5XFMkIpGQY/JlKweQ==",
+  "dgSpecHash": "c9HWQRXOfKpirWZyUhIK0sYS5banKIxNQ+xFtXaHD0qe0X7FD6LSxgSWc4CVEigZadTaXYno8iQ0d7yAiudPow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Adapter\\Adapter.Caching\\Adapter.Caching.csproj",
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Adapter\\Adapter.Caching\\Adapter.Caching.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\zdvih\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

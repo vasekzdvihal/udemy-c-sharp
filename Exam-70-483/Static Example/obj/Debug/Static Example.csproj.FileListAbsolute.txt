@@ -10,3 +10,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Static Example\bin\Debug\S
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Static Example\obj\Debug\Static Example.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Static Example\obj\Debug\Static Example.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Static Example\obj\Debug\Static Example.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Static Example\obj\Debug\Static Example.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Static Example\obj\Debug\Static Example.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Static Example\bin\Debug\Static Example.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Static Example\bin\Debug\Static Example.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Static Example\bin\Debug\Static Example.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Static Example\obj\Debug\Static Example.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Static Example\obj\Debug\Static Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Static Example\obj\Debug\Static Example.csproj.CoreCompileInputs.cache

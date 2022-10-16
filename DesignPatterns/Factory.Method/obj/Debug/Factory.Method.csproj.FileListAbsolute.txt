@@ -4,3 +4,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Method\bin\Debu
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Method\obj\Debug\Factory.Method.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Method\obj\Debug\Factory.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Method\obj\Debug\Factory.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.Method\obj\Debug\Factory.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.Method\obj\Debug\Factory.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.Method\bin\Debug\Factory.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.Method\bin\Debug\Factory.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.Method\bin\Debug\Factory.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.Method\obj\Debug\Factory.Method.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.Method\obj\Debug\Factory.Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.Method\obj\Debug\Factory.Method.csproj.CoreCompileInputs.cache

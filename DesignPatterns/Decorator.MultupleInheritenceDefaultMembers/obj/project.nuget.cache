@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "uGhZfcI4quv+6K4O+7+u/9oR/i9bwZW1zPI0UXOY/fwYAHJBi43cwlhCO/t8ZxPX9PhubiZMSDmnzjWiX05Tnw==",
+  "dgSpecHash": "irPQO4PBi0khhS4aNFc4oQB6B7cLIxTgwkRDeyOfxGrnlKEu6opRUF9Qe4KGqHFriueEulgFDycePs/3pBh+NQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Decorator.MultupleInheritenceDefaultMembers\\Decorator.MultupleInheritenceDefaultMembers.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Decorator.MultupleInheritenceDefaultMembers\\Decorator.MultupleInheritenceDefaultMembers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -21,3 +21,16 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Exception Example\obj\Debu
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Exception Example\obj\Debug\netcoreapp2.1\Exception Example.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Exception Example\obj\Debug\netcoreapp2.1\Exception Example.genruntimeconfig.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Exception Example\obj\Debug\netcoreapp2.1\Exception Example.csprojAssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Exception Example\bin\Debug\netcoreapp2.1\Exception Example.deps.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Exception Example\bin\Debug\netcoreapp2.1\Exception Example.runtimeconfig.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Exception Example\bin\Debug\netcoreapp2.1\Exception Example.runtimeconfig.dev.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Exception Example\bin\Debug\netcoreapp2.1\Exception Example.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Exception Example\bin\Debug\netcoreapp2.1\Exception Example.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Exception Example\obj\Debug\netcoreapp2.1\Exception Example.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Exception Example\obj\Debug\netcoreapp2.1\Exception Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Exception Example\obj\Debug\netcoreapp2.1\Exception Example.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Exception Example\obj\Debug\netcoreapp2.1\Exception Example.AssemblyInfo.cs
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Exception Example\obj\Debug\netcoreapp2.1\Exception Example.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Exception Example\obj\Debug\netcoreapp2.1\Exception Example.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Exception Example\obj\Debug\netcoreapp2.1\Exception Example.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Exception Example\obj\Debug\netcoreapp2.1\Exception Example.genruntimeconfig.cache

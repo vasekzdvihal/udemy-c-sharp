@@ -10,3 +10,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Creating an Interface\bin\
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Creating an Interface\obj\Debug\Creating an Interface.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Creating an Interface\obj\Debug\Creating an Interface.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Creating an Interface\obj\Debug\Creating an Interface.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Creating an Interface\obj\Debug\Creating an Interface.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Creating an Interface\obj\Debug\Creating an Interface.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Creating an Interface\bin\Debug\Creating an Interface.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Creating an Interface\bin\Debug\Creating an Interface.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Creating an Interface\bin\Debug\Creating an Interface.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Creating an Interface\obj\Debug\Creating an Interface.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Creating an Interface\obj\Debug\Creating an Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Creating an Interface\obj\Debug\Creating an Interface.csproj.CoreCompileInputs.cache

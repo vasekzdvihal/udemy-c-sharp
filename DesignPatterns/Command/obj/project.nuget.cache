@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+lRR+H2Qa6ArQvKRgQTVrGeEQtmD3ghV0KWVBbniCqYSs+hfD5PlwS6jAXpyk+C7T7U1KiVmTsktaYxjlO3DEw==",
+  "dgSpecHash": "lwQg74NcZ0UykHqRIWgSnNBzvRZvz3oNHYuWf9BzbAjWwfvit7ginPQW3KkWknsVMdTOsDWLX68vH8BiMyvDGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Command\\Command.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Command\\Command.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
   "logs": []
 }

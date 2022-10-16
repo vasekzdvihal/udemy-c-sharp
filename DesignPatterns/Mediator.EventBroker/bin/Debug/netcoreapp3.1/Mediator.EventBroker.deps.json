@@ -90,6 +90,10 @@
         }
       },
       "System.Reactive.Windows.Threading/5.0.0": {
+        "dependencies": {
+          "System.Reactive": "5.0.0",
+          "System.Threading.Tasks.Extensions": "4.5.4"
+        },
         "runtime": {
           "lib/net472/System.Reactive.Windows.Threading.dll": {
             "assemblyVersion": "3.0.6000.0",

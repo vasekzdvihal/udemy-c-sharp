@@ -7,3 +7,13 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observer.Exercise\bin\D
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observer.Exercise\obj\Debug\Observer.Exercise.csproj.CopyComplete
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observer.Exercise\obj\Debug\Observer.Exercise.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observer.Exercise\obj\Debug\Observer.Exercise.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.Exercise\obj\Debug\Observer.Exercise.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.Exercise\obj\Debug\Observer.Exercise.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.Exercise\bin\Debug\Observer.Exercise.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.Exercise\bin\Debug\Observer.Exercise.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.Exercise\bin\Debug\nunit.framework.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.Exercise\bin\Debug\nunit.framework.xml
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.Exercise\obj\Debug\Observer.Exercise.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.Exercise\obj\Debug\Observer.Exercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.Exercise\obj\Debug\Observer.Exercise.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.Exercise\obj\Debug\Observer.Exercise.csproj.CopyComplete

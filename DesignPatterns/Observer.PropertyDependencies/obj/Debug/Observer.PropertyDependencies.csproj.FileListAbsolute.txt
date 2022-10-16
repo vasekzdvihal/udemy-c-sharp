@@ -1,0 +1,7 @@
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.PropertyDependencies\bin\Debug\Observer.PropertyDependencies.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.PropertyDependencies\bin\Debug\Observer.PropertyDependencies.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.PropertyDependencies\obj\Debug\Observer.PropertyDependencies.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.PropertyDependencies\obj\Debug\Observer.PropertyDependencies.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.PropertyDependencies\obj\Debug\Observer.PropertyDependencies.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.PropertyDependencies\obj\Debug\Observer.PropertyDependencies.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.PropertyDependencies\obj\Debug\Observer.PropertyDependencies.pdb

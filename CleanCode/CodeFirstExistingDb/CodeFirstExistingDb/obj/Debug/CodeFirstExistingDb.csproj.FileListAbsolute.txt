@@ -26,3 +26,7 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirs
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\obj\Debug\CodeFirstExistingDb.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\obj\Debug\CodeFirstExistingDb.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\obj\Debug\CodeFirstExistingDb.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\obj\Debug\CodeFirstExistingDb.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\obj\Debug\CodeFirstExistingDb.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\obj\Debug\CodeFirstExistingDb.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\CleanCode\CodeFirstExistingDb\CodeFirstExistingDb\obj\Debug\CodeFirstExistingDb.csproj.SuggestedBindingRedirects.cache

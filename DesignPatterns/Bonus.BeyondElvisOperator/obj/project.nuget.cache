@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vS16btBg/H1gyQRAzrEWoDPlz/75fLkIHkQMKRKx3g8KUg2gL8kSBt4/8Ak5RBFoo45+ydfmq5DijTLo+bai2Q==",
+  "dgSpecHash": "JGdn+LZ7Na1ZTtDROSkyjpkYCaM83DQqECPtinm3isBa7lm2ctIZJj8PRbzzkOimAqTCKIJkfbSohd9XohfV8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Bonus.BeyondElvisOperator\\Bonus.BeyondElvisOperator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Bonus.BeyondElvisOperator\\Bonus.BeyondElvisOperator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

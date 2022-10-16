@@ -11,3 +11,17 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Iterator.DuckTyping\obj
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Iterator.DuckTyping\obj\Debug\netcoreapp3.1\Iterator.DuckTyping.dll
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Iterator.DuckTyping\obj\Debug\netcoreapp3.1\Iterator.DuckTyping.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Iterator.DuckTyping\obj\Debug\netcoreapp3.1\Iterator.DuckTyping.genruntimeconfig.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.DuckTyping\bin\Debug\netcoreapp3.1\Iterator.DuckTyping.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.DuckTyping\bin\Debug\netcoreapp3.1\Iterator.DuckTyping.deps.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.DuckTyping\bin\Debug\netcoreapp3.1\Iterator.DuckTyping.runtimeconfig.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.DuckTyping\bin\Debug\netcoreapp3.1\Iterator.DuckTyping.runtimeconfig.dev.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.DuckTyping\bin\Debug\netcoreapp3.1\Iterator.DuckTyping.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.DuckTyping\bin\Debug\netcoreapp3.1\Iterator.DuckTyping.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.DuckTyping\obj\Debug\netcoreapp3.1\Iterator.DuckTyping.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.DuckTyping\obj\Debug\netcoreapp3.1\Iterator.DuckTyping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.DuckTyping\obj\Debug\netcoreapp3.1\Iterator.DuckTyping.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.DuckTyping\obj\Debug\netcoreapp3.1\Iterator.DuckTyping.AssemblyInfo.cs
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.DuckTyping\obj\Debug\netcoreapp3.1\Iterator.DuckTyping.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.DuckTyping\obj\Debug\netcoreapp3.1\Iterator.DuckTyping.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.DuckTyping\obj\Debug\netcoreapp3.1\Iterator.DuckTyping.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.DuckTyping\obj\Debug\netcoreapp3.1\Iterator.DuckTyping.genruntimeconfig.cache

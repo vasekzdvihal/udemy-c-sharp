@@ -4,3 +4,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.AsynchronousMet
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.AsynchronousMethod\obj\Debug\Factory.AsynchronousMethod.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.AsynchronousMethod\obj\Debug\Factory.AsynchronousMethod.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.AsynchronousMethod\obj\Debug\Factory.AsynchronousMethod.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.AsynchronousMethod\obj\Debug\Factory.AsynchronousMethod.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.AsynchronousMethod\obj\Debug\Factory.AsynchronousMethod.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.AsynchronousMethod\bin\Debug\Factory.AsynchronousMethod.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.AsynchronousMethod\bin\Debug\Factory.AsynchronousMethod.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.AsynchronousMethod\bin\Debug\Factory.AsynchronousMethod.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.AsynchronousMethod\obj\Debug\Factory.AsynchronousMethod.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.AsynchronousMethod\obj\Debug\Factory.AsynchronousMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.AsynchronousMethod\obj\Debug\Factory.AsynchronousMethod.csproj.CoreCompileInputs.cache

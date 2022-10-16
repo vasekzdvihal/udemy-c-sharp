@@ -11,3 +11,17 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Memento\obj\Debug\netco
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.dll
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.genruntimeconfig.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Memento\bin\Debug\netcoreapp3.1\Memento.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Memento\bin\Debug\netcoreapp3.1\Memento.deps.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.dev.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Memento\bin\Debug\netcoreapp3.1\Memento.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Memento\bin\Debug\netcoreapp3.1\Memento.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfo.cs
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Memento\obj\Debug\netcoreapp3.1\Memento.genruntimeconfig.cache

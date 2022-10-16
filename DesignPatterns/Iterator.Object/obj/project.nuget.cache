@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NpYzKZ0CgIkHYdAQi4rwyPtjuwRFRfKU2ipv4w6gZ41kAh6skRviX9ZGWrpz48MX2dGHDgw/k4AJ0PRuMkF7ig==",
+  "dgSpecHash": "kLiknge5+OM9W+C1AUM44fyps9qtoRZoydYpt6FU7PO9n9K0hwe0SVBPZLm1q3ELTaKTVOpgA6MXc+yZsMTXMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Iterator.Object\\Iterator.Object.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Iterator.Object\\Iterator.Object.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
   "logs": []
 }

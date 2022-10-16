@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ZhvRVbtnY6VB8Qz2wolweJo6mTlmfgzi5wSr9Lzz2b/zFIP5PcrfoKf8exEDP+4600j7LnQB6hJd/tQUZoYLAg==",
+  "dgSpecHash": "DQZNwWcuyiWuEfNY0oSbAL/F7LM+GWgNVrtPo2qDPrHOJb2mi1m7LMsrP0jhNcsFQYfaYcfRyxdxfV8UyIAM6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Visitor.DoubleDispatch\\Visitor.DoubleDispatch.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Visitor.DoubleDispatch\\Visitor.DoubleDispatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

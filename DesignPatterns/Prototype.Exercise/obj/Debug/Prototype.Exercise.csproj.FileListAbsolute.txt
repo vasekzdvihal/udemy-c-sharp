@@ -5,3 +5,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype.Exercise\obj\
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype.Exercise\obj\Debug\Prototype.Exercise.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype.Exercise\obj\Debug\Prototype.Exercise.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype.Exercise\obj\Debug\Prototype.Exercise.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Prototype.Exercise\obj\Debug\Prototype.Exercise.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Prototype.Exercise\obj\Debug\Prototype.Exercise.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Prototype.Exercise\bin\Debug\Prototype.Exercise.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Prototype.Exercise\bin\Debug\Prototype.Exercise.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Prototype.Exercise\bin\Debug\Prototype.Exercise.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Prototype.Exercise\obj\Debug\Prototype.Exercise.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Prototype.Exercise\obj\Debug\Prototype.Exercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Prototype.Exercise\obj\Debug\Prototype.Exercise.csproj.CoreCompileInputs.cache

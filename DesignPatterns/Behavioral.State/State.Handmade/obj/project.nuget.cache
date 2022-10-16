@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "G8d89EU0d8gl+5l9HlBeCBi8qkd+xDM3BxcB1Cpnr9sY2hQt6nChzdUy7vJPcmNdN5rvrfCSOH7nj8alv56BrQ==",
+  "dgSpecHash": "2KYUoQCmP97O+DHz1h+dI+qX4LT8TpfrxCe8RBbhfFOz8FGd3SL6COUzGiE7cKgpb4ab9KRjKMdy6JARRqHTMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Behavioral.State\\State.Handmade\\State.Handmade.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Behavioral.State\\State.Handmade\\State.Handmade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

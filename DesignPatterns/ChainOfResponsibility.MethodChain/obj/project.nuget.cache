@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5cLeHNNahj01qL0NkUyOjyw3QtX8c83Za2J2BqlXmffabWfJfxdiJGE4WrKlc3cBqhL+DPr7X4eXmsan4nuwiQ==",
+  "dgSpecHash": "pIH93sr/KLTwcRw4CindWFP3aE5sYlWpLYITkLsID4b8m4rHvjRhQCO2IQx0mYO6EwsCluLNpPOgYTXgpIxiWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\ChainOfResponsibility.MethodChain\\ChainOfResponsibility.MethodChain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\ChainOfResponsibility.MethodChain\\ChainOfResponsibility.MethodChain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
   "logs": []
 }

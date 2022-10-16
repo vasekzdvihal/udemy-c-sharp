@@ -5,3 +5,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Abstract\obj\De
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Abstract\obj\Debug\Factory.Abstract.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Abstract\obj\Debug\Factory.Abstract.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory.Abstract\obj\Debug\Factory.Abstract.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.Abstract\obj\Debug\Factory.Abstract.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.Abstract\obj\Debug\Factory.Abstract.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.Abstract\bin\Debug\Factory.Abstract.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.Abstract\bin\Debug\Factory.Abstract.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.Abstract\bin\Debug\Factory.Abstract.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.Abstract\obj\Debug\Factory.Abstract.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.Abstract\obj\Debug\Factory.Abstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Factory.Abstract\obj\Debug\Factory.Abstract.csproj.CoreCompileInputs.cache

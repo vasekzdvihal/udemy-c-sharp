@@ -4,3 +4,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.DependencyInversi
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.DependencyInversion\obj\Debug\Solid.DependencyInversion.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.DependencyInversion\obj\Debug\Solid.DependencyInversion.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.DependencyInversion\obj\Debug\Solid.DependencyInversion.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.DependencyInversion\obj\Debug\Solid.DependencyInversion.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.DependencyInversion\obj\Debug\Solid.DependencyInversion.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.DependencyInversion\bin\Debug\Solid.DependencyInversion.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.DependencyInversion\bin\Debug\Solid.DependencyInversion.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.DependencyInversion\bin\Debug\Solid.DependencyInversion.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.DependencyInversion\obj\Debug\Solid.DependencyInversion.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.DependencyInversion\obj\Debug\Solid.DependencyInversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.DependencyInversion\obj\Debug\Solid.DependencyInversion.csproj.CoreCompileInputs.cache

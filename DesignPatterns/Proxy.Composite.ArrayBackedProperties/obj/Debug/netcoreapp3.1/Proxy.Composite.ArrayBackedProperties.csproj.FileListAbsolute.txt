@@ -1,0 +1,14 @@
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Proxy.Composite.ArrayBackedProperties\bin\Debug\netcoreapp3.1\Proxy.Composite.ArrayBackedProperties.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Proxy.Composite.ArrayBackedProperties\bin\Debug\netcoreapp3.1\Proxy.Composite.ArrayBackedProperties.deps.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Proxy.Composite.ArrayBackedProperties\bin\Debug\netcoreapp3.1\Proxy.Composite.ArrayBackedProperties.runtimeconfig.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Proxy.Composite.ArrayBackedProperties\bin\Debug\netcoreapp3.1\Proxy.Composite.ArrayBackedProperties.runtimeconfig.dev.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Proxy.Composite.ArrayBackedProperties\bin\Debug\netcoreapp3.1\Proxy.Composite.ArrayBackedProperties.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Proxy.Composite.ArrayBackedProperties\bin\Debug\netcoreapp3.1\Proxy.Composite.ArrayBackedProperties.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Proxy.Composite.ArrayBackedProperties\obj\Debug\netcoreapp3.1\Proxy.Composite.ArrayBackedProperties.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Proxy.Composite.ArrayBackedProperties\obj\Debug\netcoreapp3.1\Proxy.Composite.ArrayBackedProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Proxy.Composite.ArrayBackedProperties\obj\Debug\netcoreapp3.1\Proxy.Composite.ArrayBackedProperties.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Proxy.Composite.ArrayBackedProperties\obj\Debug\netcoreapp3.1\Proxy.Composite.ArrayBackedProperties.AssemblyInfo.cs
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Proxy.Composite.ArrayBackedProperties\obj\Debug\netcoreapp3.1\Proxy.Composite.ArrayBackedProperties.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Proxy.Composite.ArrayBackedProperties\obj\Debug\netcoreapp3.1\Proxy.Composite.ArrayBackedProperties.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Proxy.Composite.ArrayBackedProperties\obj\Debug\netcoreapp3.1\Proxy.Composite.ArrayBackedProperties.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Proxy.Composite.ArrayBackedProperties\obj\Debug\netcoreapp3.1\Proxy.Composite.ArrayBackedProperties.genruntimeconfig.cache

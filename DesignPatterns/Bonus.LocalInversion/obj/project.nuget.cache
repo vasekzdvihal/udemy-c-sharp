@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xk5ll2ga2jpGgaeRHDszYHfoT91/fcNHJFhNgH8AlAoOoJ6N243DRE1yAwDUAnodBH1+t3jC5c9qnDVzvYA4lA==",
+  "dgSpecHash": "PuF6+F9rK1M2+VZI+RzWNu+oNHe9U9YkPkFmnDYsg7NCx8QNSh8rYpJ9WCQBZ0NJhZ52aCmqtnXZfANa9NAMqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Bonus.LocalInversion\\Bonus.LocalInversion.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Bonus.LocalInversion\\Bonus.LocalInversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

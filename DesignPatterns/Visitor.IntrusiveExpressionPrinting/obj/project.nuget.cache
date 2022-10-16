@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "a9E3pwsSLB7CGoJnDn6GLLBRzfhpNDo6JU9f+iYRCCtx4r2KIHvt4pp7rKIjQYlzCuWFPSiZEWf2XtbDEqQqFQ==",
+  "dgSpecHash": "3/NMnRL22SQPr/c0y7HBQY1wwR5S1hQIv9ShmaAjx8hjRN3MZ/WlOkuuJ0pXAlJP3Pd1nfEVHpxn+aMIccozBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Visitor.IntrusiveExpressionPrinting\\Visitor.IntrusiveExpressionPrinting.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Visitor.IntrusiveExpressionPrinting\\Visitor.IntrusiveExpressionPrinting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

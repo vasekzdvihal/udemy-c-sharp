@@ -12,3 +12,7 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\EntityFramework.Demo.CodeFirst\obj\Deb
 C:\Users\zdvih\source\repos\udemy-c-sharp\EntityFramework.Demo.CodeFirst\obj\Debug\EntityFramework.Demo.CodeFirst.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\EntityFramework.Demo.CodeFirst\obj\Debug\EntityFramework.Demo.CodeFirst.Migrations.CreatePost.resources
 C:\Users\zdvih\source\repos\udemy-c-sharp\EntityFramework.Demo.CodeFirst\obj\Debug\EntityFramework.Demo.CodeFirst.csproj.GenerateResource.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\EntityFramework.Demo.CodeFirst\obj\Debug\EntityFramework.Demo.CodeFirst.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\EntityFramework.Demo.CodeFirst\obj\Debug\EntityFramework.Demo.CodeFirst.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\EntityFramework.Demo.CodeFirst\obj\Debug\EntityFramework.Demo.CodeFirst.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\EntityFramework.Demo.CodeFirst\obj\Debug\EntityFramework.Demo.CodeFirst.csproj.SuggestedBindingRedirects.cache

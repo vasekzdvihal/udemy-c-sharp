@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1vnm5FqPbgL9HfwNEaqIWV/8gJ5l+icwuZw0LO5+ZUkU5gIn+WjSFf5bMS67W5oQAkkDLryqtAvXU5tNUhIr5w==",
+  "dgSpecHash": "kdJmz1UyG1jKghTHLjyHuMzoGrxgaoc1XxT8/ogA8+I2Z2MZp4zhm9RcGdhtNfLWMIIO2Wm6MorzAxb275dITg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Visitor.Acyclic\\Visitor.Acyclic.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Visitor.Acyclic\\Visitor.Acyclic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Using Properties and Fields\\Using Properties and Fields.csproj": {}
+    "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Using Properties and Fields\\Using Properties and Fields.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Using Properties and Fields\\Using Properties and Fields.csproj": {
+    "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Using Properties and Fields\\Using Properties and Fields.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Using Properties and Fields\\Using Properties and Fields.csproj",
+        "projectUniqueName": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Using Properties and Fields\\Using Properties and Fields.csproj",
         "projectName": "Using Properties and Fields",
-        "projectPath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Using Properties and Fields\\Using Properties and Fields.csproj",
+        "projectPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Using Properties and Fields\\Using Properties and Fields.csproj",
         "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Using Properties and Fields\\obj\\",
+        "outputPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Using Properties and Fields\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\zdvih\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -76,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\zdvih\\.dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

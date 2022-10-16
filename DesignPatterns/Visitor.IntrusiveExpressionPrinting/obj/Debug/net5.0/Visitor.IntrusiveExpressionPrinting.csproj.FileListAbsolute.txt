@@ -1,0 +1,16 @@
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Visitor.IntrusiveExpressionPrinting\bin\Debug\net5.0\Visitor.IntrusiveExpressionPrinting.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Visitor.IntrusiveExpressionPrinting\bin\Debug\net5.0\Visitor.IntrusiveExpressionPrinting.deps.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Visitor.IntrusiveExpressionPrinting\bin\Debug\net5.0\Visitor.IntrusiveExpressionPrinting.runtimeconfig.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Visitor.IntrusiveExpressionPrinting\bin\Debug\net5.0\Visitor.IntrusiveExpressionPrinting.runtimeconfig.dev.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Visitor.IntrusiveExpressionPrinting\bin\Debug\net5.0\Visitor.IntrusiveExpressionPrinting.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Visitor.IntrusiveExpressionPrinting\bin\Debug\net5.0\Visitor.IntrusiveExpressionPrinting.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Visitor.IntrusiveExpressionPrinting\obj\Debug\net5.0\Visitor.IntrusiveExpressionPrinting.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Visitor.IntrusiveExpressionPrinting\obj\Debug\net5.0\Visitor.IntrusiveExpressionPrinting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Visitor.IntrusiveExpressionPrinting\obj\Debug\net5.0\Visitor.IntrusiveExpressionPrinting.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Visitor.IntrusiveExpressionPrinting\obj\Debug\net5.0\Visitor.IntrusiveExpressionPrinting.AssemblyInfo.cs
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Visitor.IntrusiveExpressionPrinting\obj\Debug\net5.0\Visitor.IntrusiveExpressionPrinting.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Visitor.IntrusiveExpressionPrinting\obj\Debug\net5.0\Visitor.IntrusiveExpressionPrinting.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Visitor.IntrusiveExpressionPrinting\obj\Debug\net5.0\refint\Visitor.IntrusiveExpressionPrinting.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Visitor.IntrusiveExpressionPrinting\obj\Debug\net5.0\Visitor.IntrusiveExpressionPrinting.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Visitor.IntrusiveExpressionPrinting\obj\Debug\net5.0\Visitor.IntrusiveExpressionPrinting.genruntimeconfig.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Visitor.IntrusiveExpressionPrinting\obj\Debug\net5.0\ref\Visitor.IntrusiveExpressionPrinting.dll

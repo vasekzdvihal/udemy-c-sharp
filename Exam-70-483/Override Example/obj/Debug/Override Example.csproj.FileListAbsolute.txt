@@ -10,3 +10,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Override Example\bin\Debug
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Override Example\obj\Debug\Override Example.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Override Example\obj\Debug\Override Example.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Override Example\obj\Debug\Override Example.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Override Example\obj\Debug\Override Example.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Override Example\obj\Debug\Override Example.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Override Example\bin\Debug\Override Example.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Override Example\bin\Debug\Override Example.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Override Example\bin\Debug\Override Example.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Override Example\obj\Debug\Override Example.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Override Example\obj\Debug\Override Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Override Example\obj\Debug\Override Example.csproj.CoreCompileInputs.cache

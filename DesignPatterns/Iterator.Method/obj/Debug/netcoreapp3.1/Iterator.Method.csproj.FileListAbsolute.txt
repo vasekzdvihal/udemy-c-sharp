@@ -1,0 +1,14 @@
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.Method\bin\Debug\netcoreapp3.1\Iterator.Method.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.Method\bin\Debug\netcoreapp3.1\Iterator.Method.deps.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.Method\bin\Debug\netcoreapp3.1\Iterator.Method.runtimeconfig.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.Method\bin\Debug\netcoreapp3.1\Iterator.Method.runtimeconfig.dev.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.Method\bin\Debug\netcoreapp3.1\Iterator.Method.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.Method\bin\Debug\netcoreapp3.1\Iterator.Method.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.Method\obj\Debug\netcoreapp3.1\Iterator.Method.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.Method\obj\Debug\netcoreapp3.1\Iterator.Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.Method\obj\Debug\netcoreapp3.1\Iterator.Method.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.Method\obj\Debug\netcoreapp3.1\Iterator.Method.AssemblyInfo.cs
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.Method\obj\Debug\netcoreapp3.1\Iterator.Method.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.Method\obj\Debug\netcoreapp3.1\Iterator.Method.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.Method\obj\Debug\netcoreapp3.1\Iterator.Method.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Iterator.Method\obj\Debug\netcoreapp3.1\Iterator.Method.genruntimeconfig.cache

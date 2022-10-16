@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj": {}
+    "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj": {
+    "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj",
+        "projectUniqueName": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj",
         "projectName": "Exception Example",
-        "projectPath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj",
+        "projectPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Exception Example\\Exception Example.csproj",
         "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\Exam-70-483\\Exception Example\\obj\\",
+        "outputPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Exception Example\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\zdvih\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,11 +53,12 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\zdvih\\.dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

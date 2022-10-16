@@ -10,3 +10,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExtensionMethods\Extens
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\AdvancedTopics\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\AdvancedTopics\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\AdvancedTopics\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\AdvancedTopics\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\AdvancedTopics\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\AdvancedTopics\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\AdvancedTopics\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\AdvancedTopics\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\AdvancedTopics\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache

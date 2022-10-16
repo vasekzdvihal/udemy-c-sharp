@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "tBV9s9GkQ4lNbb9Sp5lI7Q93FdDBYzR5yMPNdJd5GUg6HTEAy5seXUs+HeQ8GATQ60PMdFy0GT4r1rsP9OSx3A==",
+  "dgSpecHash": "vd3q5uQRiZU8rx4+A2cGmGKSnIAUxgbvfezPCzdrqMmTcdE6l+Frl+dfEijq8g7yJer/3ko0IUqnVhK5P45ytw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\IAmTimCorey\\Generics.Basics\\Generics.Basics.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\IAmTimCorey\\Generics.Basics\\Generics.Basics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

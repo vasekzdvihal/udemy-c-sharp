@@ -10,3 +10,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Hashinh Data\bin\Debug\Has
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Hashinh Data\obj\Debug\Hashinh Data.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Hashinh Data\obj\Debug\Hashinh Data.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Hashinh Data\obj\Debug\Hashinh Data.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Hashinh Data\obj\Debug\Hashinh Data.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Hashinh Data\obj\Debug\Hashinh Data.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Hashinh Data\bin\Debug\Hashinh Data.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Hashinh Data\bin\Debug\Hashinh Data.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Hashinh Data\bin\Debug\Hashinh Data.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Hashinh Data\obj\Debug\Hashinh Data.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Hashinh Data\obj\Debug\Hashinh Data.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Hashinh Data\obj\Debug\Hashinh Data.csproj.CoreCompileInputs.cache

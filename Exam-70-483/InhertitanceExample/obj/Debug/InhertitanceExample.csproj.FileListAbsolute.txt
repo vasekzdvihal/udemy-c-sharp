@@ -4,3 +4,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\InhertitanceExample\bin\De
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\InhertitanceExample\obj\Debug\InhertitanceExample.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\InhertitanceExample\obj\Debug\InhertitanceExample.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\InhertitanceExample\obj\Debug\InhertitanceExample.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\InhertitanceExample\obj\Debug\InhertitanceExample.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\InhertitanceExample\obj\Debug\InhertitanceExample.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\InhertitanceExample\bin\Debug\InhertitanceExample.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\InhertitanceExample\bin\Debug\InhertitanceExample.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\InhertitanceExample\bin\Debug\InhertitanceExample.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\InhertitanceExample\obj\Debug\InhertitanceExample.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\InhertitanceExample\obj\Debug\InhertitanceExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\InhertitanceExample\obj\Debug\InhertitanceExample.csproj.CoreCompileInputs.cache

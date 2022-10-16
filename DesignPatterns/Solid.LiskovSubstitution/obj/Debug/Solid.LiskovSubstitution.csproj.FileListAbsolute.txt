@@ -4,3 +4,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.LiskovSubstitutio
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.LiskovSubstitution\obj\Debug\Solid.LiskovSubstitution.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.LiskovSubstitution\obj\Debug\Solid.LiskovSubstitution.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.LiskovSubstitution\obj\Debug\Solid.LiskovSubstitution.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.LiskovSubstitution\obj\Debug\Solid.LiskovSubstitution.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.LiskovSubstitution\obj\Debug\Solid.LiskovSubstitution.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.LiskovSubstitution\bin\Debug\Solid.LiskovSubstitution.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.LiskovSubstitution\bin\Debug\Solid.LiskovSubstitution.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.LiskovSubstitution\bin\Debug\Solid.LiskovSubstitution.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.LiskovSubstitution\obj\Debug\Solid.LiskovSubstitution.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.LiskovSubstitution\obj\Debug\Solid.LiskovSubstitution.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.LiskovSubstitution\obj\Debug\Solid.LiskovSubstitution.csproj.CoreCompileInputs.cache

@@ -1,0 +1,39 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Implementing IDisposable\\Implementing IDisposable.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Implementing IDisposable\\Implementing IDisposable.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Implementing IDisposable\\Implementing IDisposable.csproj",
+        "projectName": "Implementing IDisposable.csproj",
+        "projectPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Implementing IDisposable\\Implementing IDisposable.csproj",
+        "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Implementing IDisposable\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\zdvih\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

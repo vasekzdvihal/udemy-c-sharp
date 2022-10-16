@@ -12,3 +12,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.OpenClose\obj\Deb
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.OpenClose\obj\Debug\Solid.OpenClose.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.OpenClose\obj\Debug\Solid.OpenClose.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Solid.OpenClose\obj\Debug\Solid.OpenClose.csprojAssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.OpenClose\obj\Debug\Solid.OpenClose.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.OpenClose\obj\Debug\Solid.OpenClose.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.OpenClose\bin\Debug\Solid.OpenClose.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.OpenClose\bin\Debug\Solid.OpenClose.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.OpenClose\bin\Debug\Solid.OpenClose.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.OpenClose\obj\Debug\Solid.OpenClose.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.OpenClose\obj\Debug\Solid.OpenClose.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Solid.OpenClose\obj\Debug\Solid.OpenClose.csproj.CoreCompileInputs.cache

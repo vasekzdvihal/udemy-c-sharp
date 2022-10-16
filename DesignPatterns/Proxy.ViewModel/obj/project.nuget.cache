@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "M92RAl+eeHYsRegjlwU7DX2GqP/ZcMN6e2v37i46lCoT5YLdiSVqCKCmZrYqpI183UXNX5JEwG2QBTR/qP8wBA==",
+  "dgSpecHash": "H07Gvd8vATuutZVVK4zxYNhGIw2oA74dqmlrwnbB1gHIg/QSjc6G3teijiwpDEa3zCmso0Yjw91j3LWaWp2N4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zdvih\\source\\repos\\Udemy-C-Sharp\\DesignPatterns\\Proxy.ViewModel\\Proxy.ViewModel.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Proxy.ViewModel\\Proxy.ViewModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
   "logs": []
 }

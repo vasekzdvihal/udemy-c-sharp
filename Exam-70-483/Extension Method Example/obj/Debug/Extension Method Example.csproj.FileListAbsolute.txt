@@ -10,3 +10,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Extension Method Example\b
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Extension Method Example\obj\Debug\Extension Method Example.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Extension Method Example\obj\Debug\Extension Method Example.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Extension Method Example\obj\Debug\Extension Method Example.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Extension Method Example\obj\Debug\Extension Method Example.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Extension Method Example\obj\Debug\Extension Method Example.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Extension Method Example\bin\Debug\Extension Method Example.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Extension Method Example\bin\Debug\Extension Method Example.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Extension Method Example\bin\Debug\Extension Method Example.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Extension Method Example\obj\Debug\Extension Method Example.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Extension Method Example\obj\Debug\Extension Method Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Extension Method Example\obj\Debug\Extension Method Example.csproj.CoreCompileInputs.cache

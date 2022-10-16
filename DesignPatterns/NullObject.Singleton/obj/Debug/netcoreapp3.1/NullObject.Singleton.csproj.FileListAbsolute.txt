@@ -1,0 +1,14 @@
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\NullObject.Singleton\bin\Debug\netcoreapp3.1\NullObject.Singleton.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\NullObject.Singleton\bin\Debug\netcoreapp3.1\NullObject.Singleton.deps.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\NullObject.Singleton\bin\Debug\netcoreapp3.1\NullObject.Singleton.runtimeconfig.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\NullObject.Singleton\bin\Debug\netcoreapp3.1\NullObject.Singleton.runtimeconfig.dev.json
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\NullObject.Singleton\bin\Debug\netcoreapp3.1\NullObject.Singleton.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\NullObject.Singleton\bin\Debug\netcoreapp3.1\NullObject.Singleton.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\NullObject.Singleton\obj\Debug\netcoreapp3.1\NullObject.Singleton.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\NullObject.Singleton\obj\Debug\netcoreapp3.1\NullObject.Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\NullObject.Singleton\obj\Debug\netcoreapp3.1\NullObject.Singleton.AssemblyInfoInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\NullObject.Singleton\obj\Debug\netcoreapp3.1\NullObject.Singleton.AssemblyInfo.cs
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\NullObject.Singleton\obj\Debug\netcoreapp3.1\NullObject.Singleton.csproj.CoreCompileInputs.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\NullObject.Singleton\obj\Debug\netcoreapp3.1\NullObject.Singleton.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\NullObject.Singleton\obj\Debug\netcoreapp3.1\NullObject.Singleton.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\NullObject.Singleton\obj\Debug\netcoreapp3.1\NullObject.Singleton.genruntimeconfig.cache

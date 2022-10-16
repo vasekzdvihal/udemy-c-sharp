@@ -9,3 +9,9 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CleanCode\obj\Debug\CleanCod
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CleanCode\obj\Debug\CleanCode.dll
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CleanCode\obj\Debug\CleanCode.pdb
 C:\Users\zdvih\source\repos\udemy-c-sharp\CleanCode\CleanCode\obj\Debug\CleanCode.csprojAssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\CleanCode\CleanCode\obj\Debug\CleanCode.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\CleanCode\CleanCode\obj\Debug\CleanCode.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\CleanCode\CleanCode\bin\Debug\CleanCode.dll
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\CleanCode\CleanCode\bin\Debug\CleanCode.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.CoreCompileInputs.cache

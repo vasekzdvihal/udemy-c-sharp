@@ -10,3 +10,11 @@ C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Implementing IDisposable\b
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Implementing IDisposable\obj\Debug\Implementing IDisposable.csproj.CoreCompileInputs.cache
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Implementing IDisposable\obj\Debug\Implementing IDisposable.exe
 C:\Users\zdvih\source\repos\udemy-c-sharp\Exam-70-483\Implementing IDisposable\obj\Debug\Implementing IDisposable.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Implementing IDisposable\obj\Debug\Implementing IDisposable.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Implementing IDisposable\obj\Debug\Implementing IDisposable.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Implementing IDisposable\bin\Debug\Implementing IDisposable.exe.config
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Implementing IDisposable\bin\Debug\Implementing IDisposable.exe
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Implementing IDisposable\bin\Debug\Implementing IDisposable.pdb
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Implementing IDisposable\obj\Debug\Implementing IDisposable.csproj.AssemblyReference.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Implementing IDisposable\obj\Debug\Implementing IDisposable.csproj.SuggestedBindingRedirects.cache
+C:\Users\zdvih\source\GitHub\udemy-c-sharp\Exam-70-483\Implementing IDisposable\obj\Debug\Implementing IDisposable.csproj.CoreCompileInputs.cache
