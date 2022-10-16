@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QhAWjy/Nz3MNntPWF0m3DtIo+UnRJjxnVdMtWqa555r1BZwPM/xn4YX9ihe4Xk/ZNsb/yCVKZ7leZB9jrO9k1A==",
+  "dgSpecHash": "iHsP+lfcPGYxlAuCj2JXUPMPiMfHPTri/BkVniBPyGzp26t1xO23NWSE4eIszca21mJGVB9tTmWy2scGfupmUQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Memento.UndoAndRedo\\Memento.UndoAndRedo.csproj",
   "expectedPackageFiles": [

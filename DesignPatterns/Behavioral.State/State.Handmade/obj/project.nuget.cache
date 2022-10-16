@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2KYUoQCmP97O+DHz1h+dI+qX4LT8TpfrxCe8RBbhfFOz8FGd3SL6COUzGiE7cKgpb4ab9KRjKMdy6JARRqHTMw==",
+  "dgSpecHash": "dt7fMcuiETYQvRqkUdUQpC6PXhNbDg2nWRR9re9jxwenDWivrlXM3LOas6PrVygfHtNTCk6nl5xFi0KzzzZczw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Behavioral.State\\State.Handmade\\State.Handmade.csproj",
   "expectedPackageFiles": [

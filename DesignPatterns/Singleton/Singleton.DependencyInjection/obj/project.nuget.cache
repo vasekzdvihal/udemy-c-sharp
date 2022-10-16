@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TFbD8ge0PbuCCxGY+tbFRq0wI8M87IpQdDkG9MM/3OHRbLkkNHZ3G/PBYQWYbE9LbZhI5E6eUPOdC30KFc7w0A==",
+  "dgSpecHash": "GaSRK8B/YnabxWUJwYXPix768mTnU21vUS0UGRnix5QWnp/29wad81PS29XUR6aC7p2WgOR0KMevi/f7fSSEBw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Singleton\\Singleton.DependencyInjection\\Singleton.DependencyInjection.csproj",
   "expectedPackageFiles": [

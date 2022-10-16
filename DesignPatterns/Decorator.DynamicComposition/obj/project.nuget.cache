@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "l+iblMB627ymo17bl+yPjkGZTLwAqe7YX4+xYNc8EiOg2+SWA4rG1rivqTE7ZjqhlwOUCQp/fUw8M4VvTqiu0Q==",
+  "dgSpecHash": "ufhdml89zoev4htGZpU/bfS0DfFBMLwNHulc2hoXNjKrrHZ2g5lFsmj2Rg2ko29vVuKy7RVoXjJpKqppOswP6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Decorator.DynamicComposition\\Decorator.DynamicComposition.csproj",
   "expectedPackageFiles": [

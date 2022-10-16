@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/GnyQA/6uFyeMHnOAvfEGPVGAtBspQYbOb2t7DVk7jHqYRB+jPDjT2VzxcbNBSTl6NDGSLIhr7j8vZ4bvejiIw==",
+  "dgSpecHash": "fAQ2BxG/7jVN/I9681Elr49eQnzGNUppId0UsFDAVPZ3mynQGLNEui66g/c4zlOdD08Z7zXas37sojIbunmj0w==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Proxy.DynamicForLogging\\Proxy.DynamicForLogging.csproj",
   "expectedPackageFiles": [

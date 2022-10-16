@@ -1,0 +1,314 @@
+﻿# C# Basics
+
+- Simple - fewer operators, no pointers, etc.
+- Modern - Garbage collection, improved security
+- Object oriented
+    - Encapsulation, inheritance, polymorphism
+    - No global functions, variables or constants
+    - Everything is encapsulated inside a class
+- Type safe
+    - Cannot use uninitialised variables
+    - Unsafe casts are not allowed
+- Versionable - C# supports the versioning functionality provided by Common Language Specifications (CLS)
+- Compatible
+    - Allow you to access different APIs
+    - Compiler insures CLS Compliance
+- Flexible
+    - Classes and/or methods can be declared as unsafe
+    - Establishing use of pointers and other items that are required to use other APIs
+
+## Object Oriented Programming
+
+- Program functionality is grouped into and carried out by objects
+- The objects are defined by classes that are used to create the objects
+  Advantages
+- Code is divided into stand-alone groups
+- Code can be easily re-used
+- Complexity is reduced
+- De-coupling can be achieved
+- Extensibility
+
+Three main characteristics of OOP
+
+I. ENCAPSULATION
+
+- Grouping of data and functions into a single component
+- Allows selective 'hiding' of data and functionalities
+- Provides security and ease of use for objects
+- Example: Making a call using smartphone
+
+II. INHERITANCE
+
+- Enables one class to reuse code from another class
+- A single object can passes the the functionality of multiple classes
+- Avoids code duplications
+- Provides the ability to extend and modify behaviour in an easily maintained environment
+
+III. POLYMORPHISM
+
+- The result of inheritance and encapsulation
+- The ability to provide different functionalities for the same method name
+- Based on the context of how the method is called
+- An inheritance hierarchy of classes and objects can provide multiple functions bearing the same name, but different
+  functionalities
+
+## Classes
+
+What does a class do?
+
+- A class is a template that is used to create objects
+- Provides necessary details for building software objects
+- A class is the software version
+- A class is similar to blueprint that is used to construct buildings
+- A blueprint, can be used to construct multiple buildings
+- A class can be used to create multiple objects
+
+## Objects
+
+A objects is a variable that contains two things:
+
+- The properties that were defined in the class
+- The abilities defined as methods in the class
+- Multiple objects can be create based on a single class
+- Each object has its own 'state' or unique collection of data values
+- Making a change to a class will affect every object created from that class
+
+## C# Types
+
+- C# is a strongly-typed language
+  - Every variable and constant has a specific type
+  - Expressions that evaluate to value have a type
+- What exactly is a type?
+  - A type specifies up to four main characteristics of data that can be storage
+    - The storage space that a variable of the type requires
+    - The maximum and minimum values that it can represent
+    - The members (methods, fields, events, and so on...) that it contains
+    - The base type it inherits from
+- What does 'type-safe' means?
+  - The compiler makes sure that all operations performed are valid for the type of data being manipulated
+- C# provides a standard set of built-in types
+  - Numeric
+  - String
+  - Object
+- Types are divided into two categories
+  - VALUE TYPES
+  - REFERENCE TYPES
+
+### Value and reference type
+
+- The .NET Framework stores item in memory in one of two locations
+  - Stack
+  - Heap
+- Value types are stored on the Stack
+- Reference types are stored on the Heap
+
+- Let's look at value types stored on the Stack...
+  - Each variable is stored on the stack in the order it was created
+  - Each variable stores its own data
+  - The amount of memory required to store a value type is a set amount
+  - When the variable is no longer needed, it is deleted from the stack
+- Now, let's look at reference values...
+  - The variable is stored on the stack
+  - The data is stored on the heap
+
+### Collection and Arrays
+
+There are two ways to create and manage groups of related objects in C#
+
+- Creating an array of objects
+- Creating a collection of objects
+
+- Arrays store multiple variables of the same type in an array data structure
+- Collections provide a flexible way to work with groups of objects
+  - Unlike arrays, the group of objects can grow and shrink dynamically
+  - There are a number of different kinds of collections
+
+
+    using System;
+    using System.Collections.Generic;
+    
+    namespace Collection_and_Arrays
+    {
+        class Program
+        {
+            static void Main(string[] args)
+            {
+                // Create a collection that is a list of strings
+                var dogs = new List<string>();
+    
+                dogs.Add("Bulldog");
+                dogs.Add("Collie");
+                dogs.Add("Retriever");
+    
+                // foreach to move through the list
+                foreach(var dog in dogs)
+                {
+                    Console.WriteLine(dog + " ");
+                }
+    
+                Console.WriteLine(dogs[1]);
+    
+                // Create a array of integers
+                int[] a1 = new int[] { 1, 3, 5, 7, 9, 11 };
+    
+                foreach(int i in a1)
+                {
+                    Console.WriteLine(i + " ");
+                }
+            }
+        }
+    }
+
+## Exception Handling
+
+- In C#, unexpected or exceptional situations are called 'exceptions'
+  - When an exception occurs, it 'bubbles up' through the call stack looking for code that catches and handles the
+    exception
+- C# provides the Try, Catch, Finally block to handle exceptions
+  - It should be used around statements that might cause an exception
+- Exceptions are represented by classes
+  - These classes are derived from Exception
+  - This class identifies the type of exception and contains properties that have details about exception
+    Syntax
+
+1. TRY (All code in the TRY block is executed)
+2. CATCH (if an exception occurs, the code in the CATCH block is executed)
+3. FINALLY [optional] (This code is always executed)
+   Exception can be raised in code using "throw"
+
+
+    using System;
+    
+    namespace Exception_Example
+    {
+        class Program
+        {
+            static void Main(string[] args)
+            {
+                int a = 4;
+                int b = 0;
+    
+                try
+                {
+                    Console.WriteLine("a divided by b is: " + a / b);
+                }
+                catch(Exception e)
+                {
+                    Console.WriteLine("The following error has occured: " + e.Message);
+                }
+                finally
+                {
+                    Console.WriteLine("Finally has been called...");
+                }
+    
+                Console.WriteLine("... the program continues...");
+            }
+        }
+    }
+
+## String Builder
+
+- In C# a string is an object of type String whose value is text
+  - Internally, the text is stored as a sequential readonly collection of Char objects
+- The string keyword is an alias for String
+- String objects are immutable
+  - They cannot be changed after they have been created
+  - All methods and operation that appear to modify a string actually create a new string
+- String operations in .NET are highly optimised
+  - Under most conditions their use will not impact performance
+  - Looping functions that execute hundreds or thousands of times performing string operations can affect performance
+- The StringBuilder class creates a string buffer that provides better performance in these situations 
+
+
+    using System;
+    using System.Text;
+    
+    namespace String_Builder
+    {
+        class Program
+        {
+            static void Main(string[] args)
+            {
+                string s1 = "This is an example of ";
+                s1 = s1 + "string concatenation";
+                Console.WriteLine(s1);
+    
+                StringBuilder sb2 = new StringBuilder("This is an example of ");
+                sb2.Append("string concatenation");
+                Console.WriteLine(sb2);
+    
+                sb2.AppendLine();
+                sb2.Append(" using StringBuilder...");
+                Console.WriteLine(sb2);
+    
+                sb2.Replace("StringBuilder", "the StringBuilder class");
+                Console.WriteLine(sb2); 
+            }
+        }
+    }
+
+## StringWriter and StringReader
+
+- These classes provide the ability to manipulate string data inside a StringBuilder object
+  - StringWriter writes to the StringBuilder object
+  - StringReader read string data from the StringBuilder object
+  - Use them when you are dealing with lot of string manipulation
+
+
+    using System;
+    using System.IO;
+    using System.Text;
+    
+    namespace StringWriter_And_StringReader
+    {
+        class Program
+        {
+            static void Main(string[] args)
+            {
+                StringReadWrite srw = new StringReadWrite();
+            }
+        }
+    
+        #region "Write data using StringWriter"
+        public class StringReadWrite
+        {
+            StringBuilder sb = new StringBuilder();
+    
+            public StringReadWrite()
+            {
+                WriteData();
+                ReadData();
+            }
+    
+            public void WriteData()
+            {
+                StringWriter sw = new StringWriter(sb);
+    
+                Console.WriteLine("Please enter you first and last name...");
+                string name = Console.ReadLine();
+    
+                sw.WriteLine("Name: " + name);
+                sw.Flush();
+                sw.Close();
+            }
+            #endregion
+            #region "Read data from the StringBuilder object"
+            public void ReadData()
+            {
+                StringReader sr = new StringReader(sb.ToString());
+    
+                Console.WriteLine("Reading the information...");
+    
+                while(sr.Peek() > -1)
+                {
+                    Console.WriteLine(sr.ReadLine());
+                }
+    
+                Console.WriteLine();
+                Console.WriteLine("Thank you!");
+    
+                sr.Close();
+            }
+            #endregion
+        }
+    }

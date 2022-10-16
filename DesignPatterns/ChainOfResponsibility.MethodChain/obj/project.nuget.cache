@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pIH93sr/KLTwcRw4CindWFP3aE5sYlWpLYITkLsID4b8m4rHvjRhQCO2IQx0mYO6EwsCluLNpPOgYTXgpIxiWg==",
+  "dgSpecHash": "EGvtdL2OPZPnwRN1v/2XXLLw5itwrtz0qg5p0C288C2YbTe0Fc7/R1wZRfMcowgtJTlqUYcFC/YeB31lYeOoQQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\ChainOfResponsibility.MethodChain\\ChainOfResponsibility.MethodChain.csproj",
   "expectedPackageFiles": [

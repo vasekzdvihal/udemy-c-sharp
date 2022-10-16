@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bAFhBpCpdjYqBeUupXoco+VjYOkr7DyZQF0Vq/LXmkZN7adxfVx0cHi2xCCVK/n9CyAOSilzMmeMrzZZIwzqiA==",
+  "dgSpecHash": "ROrQjKj35pHGAx7nT000S4YNYHsLZKo1lmHI4UzvX8KNeJ0lBZNb9DCC94CWzCAV5CgGr+XMnQwrxbwzpdUSBg==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Behavioral.State\\State.SwitchBased\\State.SwitchBased.csproj",
   "expectedPackageFiles": [

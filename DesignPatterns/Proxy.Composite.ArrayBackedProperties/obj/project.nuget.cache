@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UXmbvCAIutZC2tEPjjH0GxThLEvXyDdlVE2RtjJDHdhb/0YPwhxMdz/8ZmVxXLcJQFnTK7ULZXDAhwJt5m8nEQ==",
+  "dgSpecHash": "1qphR+WEHg4dnN1DTdhTxcfrNXHBeK5oHmk5JkNdqR8cGjmgnN7gFfRXwbByLfTC0X+IXKFjzxk8ji0Kj/DTgQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Proxy.Composite.ArrayBackedProperties\\Proxy.Composite.ArrayBackedProperties.csproj",
   "expectedPackageFiles": [

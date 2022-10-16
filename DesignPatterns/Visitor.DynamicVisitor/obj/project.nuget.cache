@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qu5kR4OYHwqPub5mBZOGflmm3hdyjoVLDJ0506mKxoBdfA2C9tWdQ92CYniNz5HKMn4ysN5u5+dnhEK9k7sHCA==",
+  "dgSpecHash": "YiehCNrbWSM6XlFa8OGBWRDV0jX5/dILtbGakIxmNFGiz8ggVNXDzeDFO28v5lml0gLF9p027XDjo7b5ZnGWHQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Visitor.DynamicVisitor\\Visitor.DynamicVisitor.csproj",
   "expectedPackageFiles": [

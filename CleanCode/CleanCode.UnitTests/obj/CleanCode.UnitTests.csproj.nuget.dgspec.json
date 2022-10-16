@@ -37,6 +37,17 @@
       },
       "frameworks": {
         "net481": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
       }
     },
     "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\CleanCode\\CleanCode\\CleanCode.csproj": {
@@ -68,6 +79,17 @@
       },
       "frameworks": {
         "net481": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
       }
     }
   }

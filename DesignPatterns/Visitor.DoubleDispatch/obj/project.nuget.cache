@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DQZNwWcuyiWuEfNY0oSbAL/F7LM+GWgNVrtPo2qDPrHOJb2mi1m7LMsrP0jhNcsFQYfaYcfRyxdxfV8UyIAM6w==",
+  "dgSpecHash": "iGSpea3xSB2r0Cpue6KG7SyJVCfTGkDN6sW6HjBjyAcjrtw5RbVUFy1k6NuQFgLsAEepRw9iTBsRpX72t1+TXQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Visitor.DoubleDispatch\\Visitor.DoubleDispatch.csproj",
   "expectedPackageFiles": [

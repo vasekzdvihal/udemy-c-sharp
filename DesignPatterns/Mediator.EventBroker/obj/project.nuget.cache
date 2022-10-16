@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1S0ZwoR5sqCoEB6+YPRL/FXRH0mJy5Ngn/TZziBKoBEhMfgHZwjzFzIZZ1GgLKAd8wN7hFtDTXFgznw0fgkWfQ==",
+  "dgSpecHash": "zz3XnEYhdc22/ZQYO/HRLKgIrhHqavUZgmVOAIqZMdvkuNtJAMwGqDBQ0ROjBXMuvzFGRAr9o35qwHMI/UHKSQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Mediator.EventBroker\\Mediator.EventBroker.csproj",
   "expectedPackageFiles": [

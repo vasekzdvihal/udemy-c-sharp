@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "akqoHCscQGL/growmX1V3TBbQpUtZJ4BLLfNjqGDVb7g44XZeCLhflBd/Dnh34BYSg3gZjrKCiG13MQSgMbY3Q==",
+  "dgSpecHash": "lW6R0pe21oyPbj4pfRbK/ESLCnx3bODkKM1XVEwtI6gd109Stb4s/wJdU4c7JUxhMfSC59oelu1pUQx8TU0YEQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Command.Composite\\Command.Composite.csproj",
   "expectedPackageFiles": [

@@ -12,6 +12,42 @@
           "bin/placeholder/CleanCode.csproj.dll": {}
         }
       }
+    },
+    ".NETFramework,Version=v4.8.1/win": {
+      "CleanCode.csproj/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8.1",
+        "compile": {
+          "bin/placeholder/CleanCode.csproj.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanCode.csproj.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8.1/win-x64": {
+      "CleanCode.csproj/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8.1",
+        "compile": {
+          "bin/placeholder/CleanCode.csproj.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanCode.csproj.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8.1/win-x86": {
+      "CleanCode.csproj/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8.1",
+        "compile": {
+          "bin/placeholder/CleanCode.csproj.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanCode.csproj.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -62,6 +98,17 @@
     },
     "frameworks": {
       "net481": {}
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
     }
   }
 }
