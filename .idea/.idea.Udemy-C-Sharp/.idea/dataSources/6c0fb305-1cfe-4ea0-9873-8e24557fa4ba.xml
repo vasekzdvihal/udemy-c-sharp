@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataSource name="@localhost">
-  <database-model serializer="dbm" dbms="MSSQL" family-id="MSSQL" format-version="4.43">
+  <database-model serializer="dbm" dbms="MSSQL" family-id="MSSQL" format-version="4.45">
     <root id="1">
       <Grants>2|||2|connect|G
 3|||2|connect|G
