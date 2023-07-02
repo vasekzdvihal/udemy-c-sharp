@@ -1,7 +1,0 @@
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype\bin\Debug\Prototype.exe.config
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype\bin\Debug\Prototype.exe
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype\obj\Debug\Prototype.exe
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Prototype\obj\Debug\Prototype.pdb

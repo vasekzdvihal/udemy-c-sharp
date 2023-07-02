@@ -1,7 +1,0 @@
-C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.Collections\bin\Debug\Observer.Collections.exe
-C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.Collections\bin\Debug\Observer.Collections.pdb
-C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.Collections\obj\Debug\Observer.Collections.csproj.AssemblyReference.cache
-C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.Collections\obj\Debug\Observer.Collections.csproj.SuggestedBindingRedirects.cache
-C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.Collections\obj\Debug\Observer.Collections.csproj.CoreCompileInputs.cache
-C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.Collections\obj\Debug\Observer.Collections.exe
-C:\Users\zdvih\source\GitHub\udemy-c-sharp\DesignPatterns\Observer.Collections\obj\Debug\Observer.Collections.pdb

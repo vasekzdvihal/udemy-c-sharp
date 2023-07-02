@@ -1,6 +1,0 @@
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observable.Collections\obj\Debug\Observable.Collections.csprojAssemblyReference.cache
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observable.Collections\obj\Debug\Observable.Collections.csproj.CoreCompileInputs.cache
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observable.Collections\bin\Debug\Observable.Collections.exe
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observable.Collections\bin\Debug\Observable.Collections.pdb
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observable.Collections\obj\Debug\Observable.Collections.exe
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observable.Collections\obj\Debug\Observable.Collections.pdb
