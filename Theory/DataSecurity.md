@@ -52,7 +52,7 @@
     - Some limitation/concerns
     - Encryption is based on the user's password
 
-
+``` csharp
       using System;
       using System.IO;
       namespace Encrypting_Files {
@@ -88,7 +88,7 @@
           }
         }
       }
-
+```
 
 ## Hashing
 
@@ -103,7 +103,7 @@
     - Salt is a random string that is added to a value before is hashed
     - Makes hashed values much more difficult to crack
 
-
+``` csharp
     using System;
     using System.Security.Cryptography;
     using System.Text;
@@ -143,3 +143,4 @@
         }
       }
     }
+```
