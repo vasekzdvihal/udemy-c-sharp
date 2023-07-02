@@ -23,7 +23,7 @@
     - Using the Thread class
     - Calling the Start method
 
-
+``` csharp
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -49,6 +49,7 @@
         }
       }
     }
+```
 
 ## Managing a Thread
 
@@ -87,7 +88,7 @@
   - It starts a task that is executed on a thread from the ThreadPool
   - Remember that threads from the ThreadPool are background threads
 
-
+``` csharp
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -117,6 +118,7 @@
         }
       }
     }
+  ```
 
 ## Async and Await 
 
@@ -131,7 +133,7 @@
   - In the meantime, control return to the caller of the Async method
   - Async caller and Await method run simultaneously 
 
-
+``` csharp
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -169,5 +171,5 @@
           return ("Counter = " + counter);
         }
       }
-
     }
+```

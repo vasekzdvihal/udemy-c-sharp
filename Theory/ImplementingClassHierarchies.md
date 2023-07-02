@@ -26,7 +26,7 @@
     - Inheritance is transitive
     - A class inheriting from "child" also has access to properties and methods in "parent"
 
-    
+``` csharp    
     using System;
 
     namespace InhertitanceExample {
@@ -88,7 +88,7 @@
         }
       }
     }
-
+```
 
 ## Understanding Overloading
 
@@ -102,7 +102,7 @@
     - For the purpose of overloading a method's signature is it's name and the parameters it accepts
     - public string AddRecord(int a, string b)
 
-    
+``` csharp    
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -152,6 +152,7 @@
             }
         }
     }
+```
 
 ## Overriding Methods
 
@@ -163,7 +164,7 @@
     - The base method that is being replaced or overridden must include to keyword virtual
     - The overriding method must include the keyword override 
 
-
+``` csharp
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -200,6 +201,7 @@
             }
         }
     }
+```
 
 ## Extension methods
 
@@ -212,7 +214,7 @@
     - The 'this' modifier is applied to the first method parameter
     - The type of the first parameter is the type that will be extended
 
-
+``` csharp
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -242,6 +244,7 @@
             }
         }
     }
+```
 
 
 ## Understanding Interfaces
@@ -275,7 +278,7 @@
     - It agreed's to the terms of the contract
     - It must provide an implementation for all members defined in the interface
 
-
+``` csharp
     namespace Creating_an_Interface
     {
         class Program
@@ -340,6 +343,7 @@
             void Stop();
         }
     }
+```
 
 ## Explicit Interface Implementation
 
@@ -347,7 +351,7 @@
 - C# does allow a class to implement multiple interfaces
 - Explicit interface implementation can be utilised to resolve the problem
 
-
+``` csharp
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -394,7 +398,7 @@
             }
         }
     }
-
+```
 
 ## IEnumerable
 
@@ -436,7 +440,7 @@
     - It causes the compiler to create a hidden enumerator class behind the scenes
     - If then refactors GetEnumerator() to instantiate and return that class
 
-
+``` csharp
     using System;
     using System.Collections;
     using System.Collections.Generic;
@@ -491,3 +495,4 @@
             }
         }
     }
+```

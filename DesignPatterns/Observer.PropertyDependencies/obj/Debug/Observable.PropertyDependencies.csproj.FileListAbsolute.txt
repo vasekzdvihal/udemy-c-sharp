@@ -1,6 +1,0 @@
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observable.PropertyDependencies\obj\Debug\Observable.PropertyDependencies.csprojAssemblyReference.cache
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observable.PropertyDependencies\obj\Debug\Observable.PropertyDependencies.csproj.CoreCompileInputs.cache
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observable.PropertyDependencies\bin\Debug\Observable.PropertyDependencies.exe
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observable.PropertyDependencies\bin\Debug\Observable.PropertyDependencies.pdb
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observable.PropertyDependencies\obj\Debug\Observable.PropertyDependencies.exe
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Observable.PropertyDependencies\obj\Debug\Observable.PropertyDependencies.pdb

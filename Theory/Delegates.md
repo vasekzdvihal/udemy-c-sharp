@@ -8,12 +8,14 @@
     - A delegate considers the method signature to include the return type and the parameters types
 - If we created a delegate type using this code
 
+``` csharp
         delegate int d (int, int)
+```
 
 - we create a variable 'd' that is a type of delegate
 - 'd' can now be used to cal any method that returns an int and has two int parameters
 
-
+``` csharp
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -50,6 +52,7 @@
             }
         }
     }
+```
 
 ## Multicast delegates
 
@@ -58,7 +61,7 @@
 - A target method can be added to a delegate instance using += and remove using -=
 - Target methods are called in the order they were added to the delegate instance
 
-
+``` csharp
     using System;
     
     namespace Multicast_Delegate_Example
@@ -112,3 +115,4 @@
             }
         }
     }
+```

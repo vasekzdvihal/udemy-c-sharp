@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataSource name="@localhost">
-  <database-model serializer="dbm" dbms="MSSQL" family-id="MSSQL" format-version="4.45">
-    <root id="1">
-      <Grants>2|||2|connect|G
-3|||2|connect|G
-4|||2|connect|G
-5|||2|connect|G
-0|root||264|alter any availability group|G
-0|root||265|alter any event session|G
-0|root||102|authenticate server|G
-0|root||103|authenticate server|G
-0|root||265|connect any database|G
-0|root||1|connect sql|G
-0|root||256|connect sql|G
-0|root||257|connect sql|G
-0|root||258|connect sql|G
-0|root||259|connect sql|G
-0|root||260|connect sql|G
-0|root||261|connect sql|G
-0|root||262|connect sql|G
-0|root||263|connect sql|G
-0|root||264|connect sql|G
-0|root||265|connect sql|G
-0|root||105|control server|G
-0|root||2|view any database|G
-0|root||101|view any definition|G
-0|root||102|view any definition|G
-0|root||105|view any definition|G
-0|root||106|view any definition|G
-0|root||257|view any definition|G
-0|root||265|view any definition|G
-0|root||102|view server state|G
-0|root||257|view server state|G
-0|root||264|view server state|G
-0|root||265|view server state|G</Grants>
-      <PermissionsCheckSum>43840693215</PermissionsCheckSum>
-      <ServerVersion>15.0.2000</ServerVersion>
-    </root>
+  <database-model serializer="dbm" dbms="MSSQL" family-id="MSSQL" format-version="4.48">
+    <root id="1"/>
     <database id="2" parent="1" name="DemoEF2">
       <ObjectId>5</ObjectId>
     </database>

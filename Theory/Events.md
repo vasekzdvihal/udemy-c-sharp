@@ -24,7 +24,7 @@
 - Custom event arguments can be used to make events more meaningfully
     - Generics make is easier to implement
 
-
+``` csharp
     using System;
 
     namespace Basic_Event_Example {
@@ -74,3 +74,4 @@
         }
       }
     }
+```

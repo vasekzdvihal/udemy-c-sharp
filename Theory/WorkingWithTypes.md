@@ -27,7 +27,7 @@
     - Fields is a private variable that can only be accessed by code within the object
     - A property is used to provide public access to the private field
 
-
+``` csharp
     using System;
     
     namespace Using_Properties_and_Fields
@@ -76,7 +76,7 @@
             }
         }
     }
-
+```
 
 ## Methods
 
@@ -137,7 +137,7 @@
 - NOTE: The words 'parameters' and 'arguments ' are often used interchangeably
 - A method's parameters are usually utilised positionally
 
-
+``` csharp
     NewInfo("Mark", 39);
 
 
@@ -145,11 +145,13 @@
     {
         // code
     }
+```
 
 - Named argument ca be used instead of positional
 
-
+``` csharp
     NewInfo(age: 39, fname: "Mark");
+```
 
 - By default, all parameters listed are required when calling the method
 - Optional parameters can be defined
@@ -157,11 +159,12 @@
     - If no arguments is sent for that parameter, the default value is used
 - Optional parameters are defined at the end if the parameter list , after any required parameters
 
-
+``` csharp
     public int NewInfo(string fname, int age = 39)
     {
         // code
     }
+```
 
 ## Understanding constructors
 
@@ -190,7 +193,7 @@
       are referenced
 4. CONSTRUCTORS CAN BE OVERLOADED!
 
-
+``` csharp
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -232,14 +235,16 @@
             }
         }
     }
+```
 
 *Output:*
 
-
+``` csharp
     DoThis has run...
     The constuctor has been caled...
     DoThat has executed...
     Press any key to continue...
+```
 
 ### Understanding Static
 
@@ -253,7 +258,7 @@
 - You cannot use the 'new' keyword with a static class
     - Only one instance of the object ever exists
 
-
+``` csharp
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -289,6 +294,7 @@
             }
         }
     }
+```
 
 ### Understanding Structs
 
@@ -305,7 +311,7 @@
     - Can be instanced without the 'new' keyword but there is no constructor call and all fields must be initialised
       before the object can be used
 
-
+``` csharp
     using System;
     
     namespace Struct_Example
@@ -352,6 +358,7 @@
             }
         }
     }
+```
 
 ### Generic types
 
@@ -370,7 +377,7 @@
     - Value types require boxing to be added and unboxing when retrieved
     - Boxing can seriously affect performance
 
-
+``` csharp
     using System;
     using System.Collections;
     using System.Collections.Generic;
@@ -409,6 +416,7 @@
             }
         }
     }
+```
 
 **Casting and converting**
 
@@ -431,7 +439,7 @@
     - Convert is great when working with strings
     - Simplest answer: Try cast, if it fails, try convert 
 
-
+``` csharp
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -461,6 +469,7 @@
             }
         }
     }
+```
 
 ### Boxing and unboxing
 
@@ -478,7 +487,7 @@
         - Unboxing is an explicit conversion
         - Excessive boxing can get expensive
 
-
+``` csharp
     using System;
     
     namespace BoxingAndUnboxing
@@ -491,12 +500,13 @@
             }
         }
     }
+```
 
 ### Indexers
 
 An indexers provides the ability to access a type using on index similar to an array
 
-
+``` csharp
     using System;
     
     namespace Indexer_Example
@@ -542,3 +552,4 @@ An indexers provides the ability to access a type using on index similar to an a
             }
         }
     }
+```

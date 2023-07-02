@@ -1,7 +1,0 @@
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory\bin\Debug\Factory.exe.config
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory\bin\Debug\Factory.exe
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory\bin\Debug\Factory.pdb
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory\obj\Debug\Factory.exe
-C:\Users\zdvih\source\repos\udemy-c-sharp\DesignPatterns\Factory\obj\Debug\Factory.pdb

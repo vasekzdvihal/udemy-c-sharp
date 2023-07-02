@@ -69,6 +69,7 @@
 
 ## Implementing IDisposable
 
+``` csharp
     using Microsoft.Win32.SafeHandles;
     using System;
     using System.Runtime.InteropServices;
@@ -103,6 +104,7 @@
             disposed = true;
         }
     }
+```
 
 - IDisposable should only be implemented when unmanaged resources are being used
 - Implementing IDisposable can introduce inefficiencies due to the overhead of the finalization process
