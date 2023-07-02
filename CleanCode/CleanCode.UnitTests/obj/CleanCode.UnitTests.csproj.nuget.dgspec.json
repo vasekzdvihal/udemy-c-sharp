@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\CleanCode\\CleanCode.UnitTests\\CleanCode.UnitTests.csproj",
-        "projectName": "CleanCode.UnitTests.csproj",
+        "projectName": "CleanCode.UnitTests",
         "projectPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\CleanCode\\CleanCode.UnitTests\\CleanCode.UnitTests.csproj",
         "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\CleanCode\\CleanCode.UnitTests\\obj\\",
@@ -54,7 +54,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\CleanCode\\CleanCode\\CleanCode.csproj",
-        "projectName": "CleanCode.csproj",
+        "projectName": "CleanCode",
         "projectPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\CleanCode\\CleanCode\\CleanCode.csproj",
         "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\CleanCode\\CleanCode\\obj\\",

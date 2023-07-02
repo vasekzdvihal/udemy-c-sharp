@@ -17,7 +17,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\AdvancedTopics\\ExtensionMethods\\ExtensionMethods\\ExtensionMethods.csproj",
-      "projectName": "ExtensionMethods.csproj",
+      "projectName": "ExtensionMethods",
       "projectPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\AdvancedTopics\\ExtensionMethods\\ExtensionMethods\\ExtensionMethods.csproj",
       "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\AdvancedTopics\\ExtensionMethods\\ExtensionMethods\\obj\\",

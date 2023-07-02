@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YizX4rG4r+UqzESn7tVijXytUoIEo9bYm/7XzY6h+cNqLI8sYnMVDsedbJynLzVsZgCDEMZ5uTGBwaIKhkYC1Q==",
+  "dgSpecHash": "xILsDk+TEuFNZIq2aMxcgdRTlCwA4AKxOfViEMshB2YpP8eELUlTztIfCFwl8lIrPKbB95idKT+2BdSg0I08+Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Factory.Abstract.WithOpenClose\\Factory.Abstract.WithOpenClose.csproj",
   "expectedPackageFiles": [],

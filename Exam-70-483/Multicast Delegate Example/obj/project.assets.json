@@ -17,7 +17,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Multicast Delegate Example\\Multicast Delegate Example.csproj",
-      "projectName": "Multicast Delegate Example.csproj",
+      "projectName": "Multicast Delegate Example",
       "projectPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Multicast Delegate Example\\Multicast Delegate Example.csproj",
       "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Multicast Delegate Example\\obj\\",

@@ -17,7 +17,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Observer.SpecialInterfaces\\Observer.SpecialInterfaces.csproj",
-      "projectName": "Observer.SpecialInterfaces.csproj",
+      "projectName": "Observer.SpecialInterfaces",
       "projectPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Observer.SpecialInterfaces\\Observer.SpecialInterfaces.csproj",
       "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Observer.SpecialInterfaces\\obj\\",

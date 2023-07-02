@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DYg3pIYMhmVbPt9QtXMXd3mrGxOAjbNmn54v8n+EqEvtTkTT/iYuplWfXWchSEMvG1bB1Oo9Qmq7JKo7rC6V5A==",
+  "dgSpecHash": "dEWh4N1rnrRSLi16OdEQ2tyy6GojwWr3jWtT7D4U71BxH/klbKeu5BlqMEAo5rRkjBkSK91gzO8ybCNGndcLzw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Solid.InterfaceSegregation\\Solid.InterfaceSegregation.csproj",
   "expectedPackageFiles": [],

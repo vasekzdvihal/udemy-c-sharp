@@ -17,7 +17,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Generics Example\\Generics Example.csproj",
-      "projectName": "Generics Example.csproj",
+      "projectName": "Generics Example",
       "projectPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Generics Example\\Generics Example.csproj",
       "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\Generics Example\\obj\\",

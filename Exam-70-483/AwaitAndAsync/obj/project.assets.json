@@ -17,7 +17,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\AwaitAndAsync\\AwaitAndAsync.csproj",
-      "projectName": "AwaitAndAsync.csproj",
+      "projectName": "AwaitAndAsync",
       "projectPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\AwaitAndAsync\\AwaitAndAsync.csproj",
       "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\Exam-70-483\\AwaitAndAsync\\obj\\",

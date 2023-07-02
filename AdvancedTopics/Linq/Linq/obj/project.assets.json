@@ -17,7 +17,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\AdvancedTopics\\Linq\\Linq\\Linq.csproj",
-      "projectName": "Linq.csproj",
+      "projectName": "Linq",
       "projectPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\AdvancedTopics\\Linq\\Linq\\Linq.csproj",
       "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\AdvancedTopics\\Linq\\Linq\\obj\\",

@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Builder.Functional\\Builder.Functional.csproj",
-        "projectName": "Builder.Functional.csproj",
+        "projectName": "Builder.Functional",
         "projectPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Builder.Functional\\Builder.Functional.csproj",
         "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Builder.Functional\\obj\\",

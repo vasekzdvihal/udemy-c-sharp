@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "b4K4XrNU9RnY3aQxbG87Kem10mscpo7JhdYusWOxxs/S9JzZ7D3qQ/11k7kKPevWLM3nxZQOWFYVmF9fRYSZsQ==",
+  "dgSpecHash": "+XR0j604qep4OiG4JduNalRh9FmygC/9YrAw1b0hz5ouGRI1tcl6V+GOPubczD7uKA9W8oqNuRXlA2zvlhUmBQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Memento.Exercise\\Memento.Exercise.csproj",
   "expectedPackageFiles": [
@@ -51,7 +51,7 @@
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }

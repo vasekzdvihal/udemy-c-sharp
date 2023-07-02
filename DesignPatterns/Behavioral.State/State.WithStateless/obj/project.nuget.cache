@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6sRfptEhjIyr1mp2xKGCL81VAA21oP/CAI3QuQf6K87feMdrN1QdNXbr5zVJ7hpzpcdLg5zy7TVnbAyDkELt1w==",
+  "dgSpecHash": "F9qeIhXa0AQ2i4N7sXNh5uLxoPm4fmVWIRjpXMUEnECz9i/fmLYg6rnwEIqdzY7VZWYBvcLJi5QAey1mE+38Kg==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Behavioral.State\\State.WithStateless\\State.WithStateless.csproj",
   "expectedPackageFiles": [

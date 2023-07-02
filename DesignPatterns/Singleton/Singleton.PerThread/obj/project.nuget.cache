@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VV+l4Apo0izFB5bxscTC1zs+jiLDslBFmGuNuXJsWpIptwb5cSs9deQURtwaA9m0hNQ5uUxwj6/L3KVXGD6w/Q==",
+  "dgSpecHash": "IISryBOnr3B/CDOA2q9piiC5WZKfFu0PllQUGoAaSD0CR2a7uoSVrLgnv4ayWrrIddCZjAKiCsU6py8GYNg6Dw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Singleton\\Singleton.PerThread\\Singleton.PerThread.csproj",
   "expectedPackageFiles": [

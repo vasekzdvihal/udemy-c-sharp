@@ -17,7 +17,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Prototype.Serialization\\Prototype.Serialization.csproj",
-      "projectName": "Prototype.Serialization.csproj",
+      "projectName": "Prototype.Serialization",
       "projectPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Prototype.Serialization\\Prototype.Serialization.csproj",
       "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Prototype.Serialization\\obj\\",

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gcOwqdOUBRdHy7dyk+jvzbe1cVH9oS6KTMoAPjKTN06VEJvGcPueLYH4aE91Sb8+pitecaTZU3Ntu0IByeQ8bg==",
+  "dgSpecHash": "SDkrualsp95GOUfqQIXXC5FI1bxuavPwtjY9EpBXrBSP0cfxYJuKqA4FTetJyaDfHNctYg0o6WP4M95mUh7jjw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Flyweight.RepeatingUserNames\\Flyweight.RepeatingUserNames.csproj",
   "expectedPackageFiles": [
@@ -52,7 +52,7 @@
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }

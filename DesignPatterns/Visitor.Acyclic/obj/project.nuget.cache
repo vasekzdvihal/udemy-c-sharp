@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tH3slQwlyqqJgI3NiA2AAvere4LpnAtQVTMjTYzlC3a3bVEbgYsG99NASSWvktvVB0fBzukDMIDjf4TMVw+u2Q==",
+  "dgSpecHash": "sVwfXkWbStzm63nqro8dK7MPMVjiMtjd++57koPcT+VY6+ISWJNr1VxWnUqgKkXOG6A2RoJzzgDVqvO1ajsrPA==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Visitor.Acyclic\\Visitor.Acyclic.csproj",
   "expectedPackageFiles": [

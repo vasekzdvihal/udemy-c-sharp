@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8LgdQLlVQf0Er4NwZCKixv6FQrpa4VIjLRgS7zzu5QgFDsONdX0I36QZbWtAdRmZ2JfLzSIODnYnxzZLBwrLkQ==",
+  "dgSpecHash": "3qRu30acuRqCPuOLSrrxs1r/lSnSYBwKQ4DucGII09yIqHAafmBC68Ythfq9JuyV6tP5s40F9COBktdGP1pltg==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Behavioral.State\\State.SwitchExpression\\State.SwitchExpression.csproj",
   "expectedPackageFiles": [

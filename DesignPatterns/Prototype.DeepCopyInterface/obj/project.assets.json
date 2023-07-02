@@ -17,7 +17,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Prototype.DeepCopyInterface\\Prototype.DeepCopyInterface.csproj",
-      "projectName": "Prototype.DeepCopyInterface.csproj",
+      "projectName": "Prototype.DeepCopyInterface",
       "projectPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Prototype.DeepCopyInterface\\Prototype.DeepCopyInterface.csproj",
       "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Prototype.DeepCopyInterface\\obj\\",

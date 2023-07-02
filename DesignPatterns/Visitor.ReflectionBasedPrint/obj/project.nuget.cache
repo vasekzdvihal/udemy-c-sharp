@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "D3bdEB8WG6E8s+5MaNj17zekJQinttjgJobHAzwpLOJOLBF2seZ4W/q3et0OJ7g8dhIApNDuPNCHzcJvBp4+Rg==",
+  "dgSpecHash": "Z7YqnXPwv3R9H16/HRa4Wjn44wd1fnUEfs6MaPaRW3B9+z1bmD8peuDCbut7MzVM3Qses5ak6uRt0pADMvhr1g==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Visitor.ReflectionBasedPrint\\Visitor.ReflectionBasedPrint.csproj",
   "expectedPackageFiles": [

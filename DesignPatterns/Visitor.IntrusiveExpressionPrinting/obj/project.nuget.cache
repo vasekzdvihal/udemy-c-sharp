@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KRQcFIk33JZALP4bT18xASZeTMVHEy29SvRhaiwMt05kEflJVjtPgQhQJ2domUKFxaSNQftjbsrZ7TKBTuOWhQ==",
+  "dgSpecHash": "tYRDfu25aNAznPUk605bU3J821tFKadE5549HnUFPGliYCGLUqodINavy3/JMDgB0JUEZ1+jwN2NZ5Loo663mQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Visitor.IntrusiveExpressionPrinting\\Visitor.IntrusiveExpressionPrinting.csproj",
   "expectedPackageFiles": [

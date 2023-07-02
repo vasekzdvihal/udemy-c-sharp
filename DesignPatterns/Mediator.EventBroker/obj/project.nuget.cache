@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zz3XnEYhdc22/ZQYO/HRLKgIrhHqavUZgmVOAIqZMdvkuNtJAMwGqDBQ0ROjBXMuvzFGRAr9o35qwHMI/UHKSQ==",
+  "dgSpecHash": "6Hp+D4sLDLFBLvqvULYqBJEZMve86ns8R48KkuyJIfXYsISyVae6oEslgpciYkvX2GLsRQtMQpsUhXItkakYlQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Mediator.EventBroker\\Mediator.EventBroker.csproj",
   "expectedPackageFiles": [
@@ -16,7 +16,7 @@
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": [
     {

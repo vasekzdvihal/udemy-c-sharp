@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "g0Za7kuTap2z+V2qK3Ez7PrreA4F1B6PNQMC75pMLz5XsyQUrFWrlXiNlMLWk8Bw8NqQhe5bNnrvmrUPbkx9hQ==",
+  "dgSpecHash": "bU61gnSCvo0g1tBJmLEgnC+5+za95eSuVKXUBEFuadNxuUhlAKVgPDGcz0lYuQArVg1UKpF/1j3BkdAnkZ7OHw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Composite.GeometricShapes\\Composite.GeometricShapes.csproj",
   "expectedPackageFiles": [

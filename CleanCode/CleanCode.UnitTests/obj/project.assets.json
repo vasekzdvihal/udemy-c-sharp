@@ -2,56 +2,56 @@
   "version": 3,
   "targets": {
     ".NETFramework,Version=v4.8.1": {
-      "CleanCode.csproj/1.0.0": {
+      "CleanCode/1.0.0": {
         "type": "project",
         "framework": ".NETFramework,Version=v4.8.1",
         "compile": {
-          "bin/placeholder/CleanCode.csproj.dll": {}
+          "bin/placeholder/CleanCode.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CleanCode.csproj.dll": {}
+          "bin/placeholder/CleanCode.dll": {}
         }
       }
     },
     ".NETFramework,Version=v4.8.1/win": {
-      "CleanCode.csproj/1.0.0": {
+      "CleanCode/1.0.0": {
         "type": "project",
         "framework": ".NETFramework,Version=v4.8.1",
         "compile": {
-          "bin/placeholder/CleanCode.csproj.dll": {}
+          "bin/placeholder/CleanCode.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CleanCode.csproj.dll": {}
+          "bin/placeholder/CleanCode.dll": {}
         }
       }
     },
     ".NETFramework,Version=v4.8.1/win-x64": {
-      "CleanCode.csproj/1.0.0": {
+      "CleanCode/1.0.0": {
         "type": "project",
         "framework": ".NETFramework,Version=v4.8.1",
         "compile": {
-          "bin/placeholder/CleanCode.csproj.dll": {}
+          "bin/placeholder/CleanCode.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CleanCode.csproj.dll": {}
+          "bin/placeholder/CleanCode.dll": {}
         }
       }
     },
     ".NETFramework,Version=v4.8.1/win-x86": {
-      "CleanCode.csproj/1.0.0": {
+      "CleanCode/1.0.0": {
         "type": "project",
         "framework": ".NETFramework,Version=v4.8.1",
         "compile": {
-          "bin/placeholder/CleanCode.csproj.dll": {}
+          "bin/placeholder/CleanCode.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CleanCode.csproj.dll": {}
+          "bin/placeholder/CleanCode.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "CleanCode.csproj/1.0.0": {
+    "CleanCode/1.0.0": {
       "type": "project",
       "path": "../CleanCode/CleanCode.csproj",
       "msbuildProject": "../CleanCode/CleanCode.csproj"
@@ -59,7 +59,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.8.1": [
-      "CleanCode.csproj >= 1.0.0"
+      "CleanCode >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -69,7 +69,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\CleanCode\\CleanCode.UnitTests\\CleanCode.UnitTests.csproj",
-      "projectName": "CleanCode.UnitTests.csproj",
+      "projectName": "CleanCode.UnitTests",
       "projectPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\CleanCode\\CleanCode.UnitTests\\CleanCode.UnitTests.csproj",
       "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\CleanCode\\CleanCode.UnitTests\\obj\\",

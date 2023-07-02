@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "axbsChn+T5gnf0BQbRKAvem0PqZ+n838lOLDE/8sfE0RtYdI2WRdYd9Xik5vocWPVJS3gXuVIEkZ/7pDVUeTiw==",
+  "dgSpecHash": "AzeP7W0xig2s6Lk4SITXz+5fXwnUv5i8q57tbs0emA/FMg6Rg+1NLdNveEYARTXmMvCuXgdE3sjd2J86ijhObg==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Singleton\\Singleton.AmbientContext\\Singleton.AmbientContext.csproj",
   "expectedPackageFiles": [

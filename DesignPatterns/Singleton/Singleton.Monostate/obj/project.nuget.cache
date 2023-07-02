@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6wBHe8nr+NfABBdliTaPbQNVZGmdEM/j/tlAaWuVWKxP2ESu+z0ipcKeQ2yL7ZNc4LeNCbfJY+zxP65lHjc92Q==",
+  "dgSpecHash": "3WCMF/rOaWFd3aVJawb//L689Spv/TsnKoyg9judjuRToIgPhAair+PXoxtVmy6SiASC29b7BgaP6biVH1z14w==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Singleton\\Singleton.Monostate\\Singleton.Monostate.csproj",
   "expectedPackageFiles": [

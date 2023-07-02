@@ -17,7 +17,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\AdvancedTopics\\LambdaExpressions\\LambdaExpressions\\LambdaExpressions.csproj",
-      "projectName": "LambdaExpressions.csproj",
+      "projectName": "LambdaExpressions",
       "projectPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\AdvancedTopics\\LambdaExpressions\\LambdaExpressions\\LambdaExpressions.csproj",
       "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\AdvancedTopics\\LambdaExpressions\\LambdaExpressions\\obj\\",

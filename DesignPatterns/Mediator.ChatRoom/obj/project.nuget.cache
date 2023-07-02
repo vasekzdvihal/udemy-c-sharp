@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "rrVZMqK6RrKiqPTBJ4B3i77JHdhVYK51opIWNY/1CdSdWu0BLn7tw+xbpL4z9uF7eTDQxkSclwTrRPO5l8nK/g==",
+  "dgSpecHash": "1ayvbkofp2A/hnz3lvqYqnorFfy8vBsfGPsiB3HyQCGYBOuGjWwReJLiJB02w48ezmfW2TNZmRM3uqlVQyGl4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Mediator.ChatRoom\\Mediator.ChatRoom.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+    "C:\\Users\\zdvih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }

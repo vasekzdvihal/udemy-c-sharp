@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Z6ZUoXmlx5Otin5/O8uIUUldJiysbDUepmMLuhEXH8MjmE/vDL+5kLnSACE5BcLqWnn6BMRCohY99hKy5FwJcw==",
+  "dgSpecHash": "HZoxlTulBfmUxAZxDujXh02+/bjXhJjq8ilJqJZhNlssvbVHt2WFtvWd6DP9EtRzec48gjsMwIbg8LWcXaerEg==",
   "success": true,
   "projectFilePath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Decorator.MultupleInheritenceDefaultMembers\\Decorator.MultupleInheritenceDefaultMembers.csproj",
   "expectedPackageFiles": [

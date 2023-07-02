@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Factory.Abstract.WithOpenClose\\Factory.Abstract.WithOpenClose.csproj",
-        "projectName": "Factory.Abstract.WithOpenClose.csproj",
+        "projectName": "Factory.Abstract.WithOpenClose",
         "projectPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Factory.Abstract.WithOpenClose\\Factory.Abstract.WithOpenClose.csproj",
         "packagesPath": "C:\\Users\\zdvih\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\zdvih\\source\\GitHub\\udemy-c-sharp\\DesignPatterns\\Factory.Abstract.WithOpenClose\\obj\\",
