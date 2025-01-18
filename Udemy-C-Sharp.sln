@@ -377,8 +377,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Theory", "De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theory", "Theory\Theory.csproj", "{0DFD4DE9-B579-4C6A-A69C-03B5B792420C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console\Console.csproj", "{121A559E-0316-4200-B9C1-2D6D91F3DF0B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1013,10 +1011,6 @@ Global
 		{0DFD4DE9-B579-4C6A-A69C-03B5B792420C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DFD4DE9-B579-4C6A-A69C-03B5B792420C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DFD4DE9-B579-4C6A-A69C-03B5B792420C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{121A559E-0316-4200-B9C1-2D6D91F3DF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{121A559E-0316-4200-B9C1-2D6D91F3DF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{121A559E-0316-4200-B9C1-2D6D91F3DF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{121A559E-0316-4200-B9C1-2D6D91F3DF0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
